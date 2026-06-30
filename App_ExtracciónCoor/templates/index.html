@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Extractor de Datos Viales</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 40px;
+            background: #f4f4f9;
+            color: #222;
+        }
+
+        .box {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .alert {
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 4px;
+        }
+
+        .success {
+            background: #d4edda;
+            color: #155724;
+        }
+
+        .error {
+            background: #f8d7da;
+            color: #721c24;
+        }
+
+        form {
+            margin-bottom: 8px;
+        }
+
+        input[type="text"], select {
+            padding: 8px;
+            margin-right: 8px;
+            margin-bottom: 8px;
+            width: 220px;
+        }
+
+        button {
+            padding: 8px 12px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            background: #007bff;
+            color: white;
+        }
+
+        button.danger {
+            background: #dc3545;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+
+        th, td {
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+            text-align: left;
+            vertical-align: top;
+        }
+
+        .inline-form {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+            align-items: center;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Panel de Control de Tesis</h1>
+
+    <p><a href="{{ url_for('avenidas_page') }}">Gestionar avenidas</a></p>
+
+    {% with messages = get_flashed_messages(with_categories=true) %}
+    {% if messages %}{% for category, message in messages %}
+    <div class="alert {{ category }}">{{ message }}</div>
+    {% endfor %}{% endif %}
+    {% endwith %}
+
+    <div class="box">
+        <h3>Configuración de Trabajo</h3>
+        <p>Actual: <b>{{ session.get('config_avenida_id') or 'Sin fijar' }}</b> | Sentido: <b>{{ session.get('config_sentido') or 'Sin fijar' }} </b> | Puntos en av: <b>{{ puntos_actuales }}</b> | Puntos totales: <b>{{ total_puntos }}</b></p>
+        <form action="{{ url_for('configurar') }}" method="POST" class="inline-form" id="config-form">
+            <select name="avenida_id" required onchange="document.getElementById('config-form').submit()">
+                {% for av in avenidas %}
+                <option value="{{ av.id }}" {% if session.get('config_avenida_id')|string == av.id|string %}selected{% endif %}>{{ av.nombre }}</option>
+                {% endfor %}
+            </select>
+            <select name="sentido" required onchange="document.getElementById('config-form').submit()">
+                <option value="Ida" {% if session.get('config_sentido') == 'Ida' %}selected{% endif %}>Ida</option>
+                <option value="Vuelta" {% if session.get('config_sentido') == 'Vuelta' %}selected{% endif %}>Vuelta</option>
+            </select>
+        </form>
+    </div>
+
+    <div class="box">
+        <h3>Agregar punto</h3>
+        <form action="{{ url_for('nuevo_punto') }}" method="POST" class="inline-form">
+            <input type="text" name="url_google" placeholder="Pega la URL de Google Maps o el Pano ID" required>
+            <button type="submit">Guardar punto</button>
+        </form>
+    </div>
+
+    <div class="box">
+        <h3>CRUD de puntos</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Avenida</th>
+                    <th>Pano ID</th>
+                    <th>URL / Pano</th>
+                    <th>Fecha</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for punto in puntos %}
+                <tr>
+                    <td>{{ punto.id }}</td>
+                    <td>
+                        <form action="{{ url_for('editar_punto', id=punto.id) }}" method="POST" class="inline-form">
+                            <select name="avenida_id" required>
+                                {% for av in avenidas %}
+                                <option value="{{ av.id }}" {% if av.id == punto.avenida_id %}selected{% endif %}>{{ av.nombre }}</option>
+                                {% endfor %}
+                            </select>
+                    </td>
+                    <td><input type="text" name="pano_id" value="{{ punto.pano_id }}" disabled></td>
+                    <td>
+                            <input type="text" name="url_google" value="{{ punto.url_original or '' }}" required>
+                            <button type="submit">Actualizar</button>
+                        </form>
+                    </td>
+                    <td>{{ punto.fecha }}</td>
+                    <td>
+                        <form action="{{ url_for('eliminar_punto', id=punto.id) }}" method="POST" class="inline-form">
+                            <button type="submit" class="danger" onclick="return confirm('¿Eliminar este punto?');">Eliminar</button>
+                        </form>
+                    </td>
+                </tr>
+                {% else %}
+                <tr>
+                    <td colspan="6">No hay puntos guardados todavía.</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</body>
+
+</html>

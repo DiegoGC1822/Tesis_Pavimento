@@ -1,0 +1,819 @@
+[
+  {
+    "proyecto_id": "Tesis_AvB_Comas_2023",
+    "año_estudio": 2023,
+    "punto_anclaje_inicio": "Calle 13",
+    "punto_anclaje_fin": "Avenida Sangarara",
+    "longitud_unidad_muestra": 50,
+    "calzadas": {
+      "Ida": {
+        "progresiva_inicio_calzada": "00+000",
+        "tramos": [
+          {
+            "tramo_id": "1",
+            "progresiva_inicio": "00+000",
+            "progresiva_fin": "00+050",
+            "pci_numérico": 10,
+            "pci_clase": "Very Poor"
+          },
+          {
+            "tramo_id": "2",
+            "progresiva_inicio": "00+050",
+            "progresiva_fin": "00+100",
+            "pci_numérico": 22,
+            "pci_clase": "Very Poor"
+          },
+          {
+            "tramo_id": "3",
+            "progresiva_inicio": "00+100",
+            "progresiva_fin": "00+150",
+            "pci_numérico": 82,
+            "pci_clase": "Good"
+          },
+          {
+            "tramo_id": "4",
+            "progresiva_inicio": "00+150",
+            "progresiva_fin": "00+200",
+            "pci_numérico": 83,
+            "pci_clase": "Good"
+          },
+          {
+            "tramo_id": "5",
+            "progresiva_inicio": "00+200",
+            "progresiva_fin": "00+250",
+            "pci_numérico": 88,
+            "pci_clase": "Good"
+          },
+          {
+            "tramo_id": "6",
+            "progresiva_inicio": "00+250",
+            "progresiva_fin": "00+300",
+            "pci_numérico": 70,
+            "pci_clase": "Good"
+          },
+          {
+            "tramo_id": "7",
+            "progresiva_inicio": "00+300",
+            "progresiva_fin": "00+350",
+            "pci_numérico": 79,
+            "pci_clase": "Good"
+          },
+          {
+            "tramo_id": "8",
+            "progresiva_inicio": "00+350",
+            "progresiva_fin": "00+400",
+            "pci_numérico": 84,
+            "pci_clase": "Good"
+          },
+          {
+            "tramo_id": "9",
+            "progresiva_inicio": "00+400",
+            "progresiva_fin": "00+450",
+            "pci_numérico": 63,
+            "pci_clase": "Fair"
+          },
+          {
+            "tramo_id": "10",
+            "progresiva_inicio": "00+450",
+            "progresiva_fin": "00+500",
+            "pci_numérico": 61,
+            "pci_clase": "Fair"
+          },
+          {
+            "tramo_id": "11",
+            "progresiva_inicio": "00+500",
+            "progresiva_fin": "00+550",
+            "pci_numérico": 69,
+            "pci_clase": "Fair"
+          },
+          {
+            "tramo_id": "12",
+            "progresiva_inicio": "00+550",
+            "progresiva_fin": "00+600",
+            "pci_numérico": 87,
+            "pci_clase": "Good"
+          },
+          {
+            "tramo_id": "13",
+            "progresiva_inicio": "00+600",
+            "progresiva_fin": "00+650",
+            "pci_numérico": 90,
+            "pci_clase": "Good"
+          },
+          {
+            "tramo_id": "14",
+            "progresiva_inicio": "00+650",
+            "progresiva_fin": "00+700",
+            "pci_numérico": 42,
+            "pci_clase": "Poor"
+          },
+          {
+            "tramo_id": "15",
+            "progresiva_inicio": "00+700",
+            "progresiva_fin": "00+750",
+            "pci_numérico": 55,
+            "pci_clase": "Fair"
+          },
+          {
+            "tramo_id": "16",
+            "progresiva_inicio": "00+750",
+            "progresiva_fin": "00+800",
+            "pci_numérico": 57,
+            "pci_clase": "Fair"
+          },
+          {
+            "tramo_id": "17",
+            "progresiva_inicio": "00+800",
+            "progresiva_fin": "00+850",
+            "pci_numérico": 66,
+            "pci_clase": "Fair"
+          },
+          {
+            "tramo_id": "18",
+            "progresiva_inicio": "00+850",
+            "progresiva_fin": "00+900",
+            "pci_numérico": 76,
+            "pci_clase": "Good"
+          },
+          {
+            "tramo_id": "19",
+            "progresiva_inicio": "00+900",
+            "progresiva_fin": "00+950",
+            "pci_numérico": 63,
+            "pci_clase": "Fair"
+          },
+          {
+            "tramo_id": "20",
+            "progresiva_inicio": "00+950",
+            "progresiva_fin": "01+000",
+            "pci_numérico": 17,
+            "pci_clase": "Very Poor"
+          }
+        ]
+      },
+      "Vuelta": {
+        "progresiva_inicio_calzada": "01+000",
+        "tramos": [
+          {
+            "tramo_id": "21",
+            "progresiva_inicio": "01+000",
+            "progresiva_fin": "01+050",
+            "pci_numérico": 35,
+            "pci_clase": "Poor"
+          },
+          {
+            "tramo_id": "22",
+            "progresiva_inicio": "01+050",
+            "progresiva_fin": "01+100",
+            "pci_numérico": 64,
+            "pci_clase": "Fair"
+          },
+          {
+            "tramo_id": "23",
+            "progresiva_inicio": "01+100",
+            "progresiva_fin": "01+150",
+            "pci_numérico": 31,
+            "pci_clase": "Poor"
+          },
+          {
+            "tramo_id": "24",
+            "progresiva_inicio": "01+150",
+            "progresiva_fin": "01+200",
+            "pci_numérico": 44,
+            "pci_clase": "Poor"
+          },
+          {
+            "tramo_id": "25",
+            "progresiva_inicio": "01+200",
+            "progresiva_fin": "01+250",
+            "pci_numérico": 49,
+            "pci_clase": "Poor"
+          },
+          {
+            "tramo_id": "26",
+            "progresiva_inicio": "01+250",
+            "progresiva_fin": "01+300",
+            "pci_numérico": 51,
+            "pci_clase": "Fair"
+          },
+          {
+            "tramo_id": "27",
+            "progresiva_inicio": "01+300",
+            "progresiva_fin": "01+350",
+            "pci_numérico": 78,
+            "pci_clase": "Good"
+          },
+          {
+            "tramo_id": "28",
+            "progresiva_inicio": "01+350",
+            "progresiva_fin": "01+400",
+            "pci_numérico": 44,
+            "pci_clase": "Poor"
+          },
+          {
+            "tramo_id": "29",
+            "progresiva_inicio": "01+400",
+            "progresiva_fin": "01+450",
+            "pci_numérico": 57,
+            "pci_clase": "Fair"
+          },
+          {
+            "tramo_id": "30",
+            "progresiva_inicio": "01+450",
+            "progresiva_fin": "01+500",
+            "pci_numérico": 59,
+            "pci_clase": "Fair"
+          },
+          {
+            "tramo_id": "31",
+            "progresiva_inicio": "01+500",
+            "progresiva_fin": "01+550",
+            "pci_numérico": 83,
+            "pci_clase": "Good"
+          },
+          {
+            "tramo_id": "32",
+            "progresiva_inicio": "01+550",
+            "progresiva_fin": "01+600",
+            "pci_numérico": 79,
+            "pci_clase": "Good"
+          },
+          {
+            "tramo_id": "33",
+            "progresiva_inicio": "01+600",
+            "progresiva_fin": "01+650",
+            "pci_numérico": 35,
+            "pci_clase": "Poor"
+          },
+          {
+            "tramo_id": "34",
+            "progresiva_inicio": "01+650",
+            "progresiva_fin": "01+700",
+            "pci_numérico": 70,
+            "pci_clase": "Good"
+          },
+          {
+            "tramo_id": "35",
+            "progresiva_inicio": "01+700",
+            "progresiva_fin": "01+750",
+            "pci_numérico": 63,
+            "pci_clase": "Fair"
+          },
+          {
+            "tramo_id": "36",
+            "progresiva_inicio": "01+750",
+            "progresiva_fin": "01+800",
+            "pci_numérico": 53,
+            "pci_clase": "Fair"
+          },
+          {
+            "tramo_id": "37",
+            "progresiva_inicio": "01+800",
+            "progresiva_fin": "01+850",
+            "pci_numérico": 56,
+            "pci_clase": "Fair"
+          },
+          {
+            "tramo_id": "38",
+            "progresiva_inicio": "01+850",
+            "progresiva_fin": "01+900",
+            "pci_numérico": 22,
+            "pci_clase": "Very Poor"
+          },
+          {
+            "tramo_id": "39",
+            "progresiva_inicio": "01+900",
+            "progresiva_fin": "01+950",
+            "pci_numérico": 49,
+            "pci_clase": "Poor"
+          },
+          {
+            "tramo_id": "40",
+            "progresiva_inicio": "01+950",
+            "progresiva_fin": "02+000",
+            "pci_numérico": 5,
+            "pci_clase": "Very Poor"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "proyecto_id": "Tesis_LosRosales_2023",
+    "año_estudio": 2023,
+    "punto_anclaje_inicio": "KM 0+000.00 de la Avenida Los Rosales",
+    "punto_anclaje_fin": "KM 0+582.00 de la Avenida Los Rosales",
+    "longitud_unidad_muestra": 38.3,
+    "calzadas": {
+      "Ida": {
+        "progresiva_inicio_calzada": "0+000.00",
+        "tramos": [
+          {
+            "tramo_id": "M - 01",
+            "progresiva_inicio": "0+000.00",
+            "progresiva_fin": "0+038.30",
+            "pci_numérico": 2.85,
+            "pci_clase": "Very Poor"
+          },
+          {
+            "tramo_id": "M - 02",
+            "progresiva_inicio": "0+038.30",
+            "progresiva_fin": "0+076.60",
+            "pci_numérico": 23.45,
+            "pci_clase": "Very Poor"
+          },
+          {
+            "tramo_id": "M - 03",
+            "progresiva_inicio": "0+076.60",
+            "progresiva_fin": "0+114.90",
+            "pci_numérico": 36.97,
+            "pci_clase": "Poor"
+          },
+          {
+            "tramo_id": "M - 04",
+            "progresiva_inicio": "0+114.90",
+            "progresiva_fin": "0+153.20",
+            "pci_numérico": 11.92,
+            "pci_clase": "Very Poor"
+          },
+          {
+            "tramo_id": "M - 05",
+            "progresiva_inicio": "0+153.20",
+            "progresiva_fin": "0+191.50",
+            "pci_numérico": 2.85,
+            "pci_clase": "Very Poor"
+          },
+          {
+            "tramo_id": "M - 06",
+            "progresiva_inicio": "0+191.50",
+            "progresiva_fin": "0+229.80",
+            "pci_numérico": 40.25,
+            "pci_clase": "Poor"
+          },
+          {
+            "tramo_id": "M - 07",
+            "progresiva_inicio": "0+229.80",
+            "progresiva_fin": "0+268.10",
+            "pci_numérico": 3.77,
+            "pci_clase": "Very Poor"
+          },
+          {
+            "tramo_id": "M - 08",
+            "progresiva_inicio": "0+268.10",
+            "progresiva_fin": "0+306.40",
+            "pci_numérico": 27.69,
+            "pci_clase": "Poor"
+          },
+          {
+            "tramo_id": "M - 09",
+            "progresiva_inicio": "0+306.40",
+            "progresiva_fin": "0+344.70",
+            "pci_numérico": 13.5,
+            "pci_clase": "Very Poor"
+          },
+          {
+            "tramo_id": "M - 10",
+            "progresiva_inicio": "0+344.70",
+            "progresiva_fin": "0+383.00",
+            "pci_numérico": 8.78,
+            "pci_clase": "Very Poor"
+          },
+          {
+            "tramo_id": "M - 11",
+            "progresiva_inicio": "0+383.00",
+            "progresiva_fin": "0+421.30",
+            "pci_numérico": 18.33,
+            "pci_clase": "Very Poor"
+          },
+          {
+            "tramo_id": "M - 12",
+            "progresiva_inicio": "0+421.30",
+            "progresiva_fin": "0+459.60",
+            "pci_numérico": 16.62,
+            "pci_clase": "Very Poor"
+          },
+          {
+            "tramo_id": "M - 13",
+            "progresiva_inicio": "0+459.60",
+            "progresiva_fin": "0+497.90",
+            "pci_numérico": 20.67,
+            "pci_clase": "Very Poor"
+          },
+          {
+            "tramo_id": "M - 14",
+            "progresiva_inicio": "0+497.90",
+            "progresiva_fin": "0+536.20",
+            "pci_numérico": 32.99,
+            "pci_clase": "Poor"
+          },
+          {
+            "tramo_id": "M - 15",
+            "progresiva_inicio": "0+536.20",
+            "progresiva_fin": "0+574.50",
+            "pci_numérico": 24.21,
+            "pci_clase": "Very Poor"
+          },
+          {
+            "tramo_id": "M - 16",
+            "progresiva_inicio": "0+574.50",
+            "progresiva_fin": "0+582.00",
+            "pci_numérico": 1.01,
+            "pci_clase": "Very Poor"
+          }
+        ]
+      },
+      "Vuelta": null
+    }
+  },
+  {
+    "proyecto_id": "Tesis_SanMartin_2024",
+    "año_estudio": 2024,
+    "punto_anclaje_inicio": "Jr. Huanchihuaylas",
+    "punto_anclaje_fin": "Plaza Cívica de Santa Clara",
+    "longitud_unidad_muestra": 35.0,
+    "calzadas": {
+      "Ida": {
+        "progresiva_inicio_calzada": "00+000.0",
+        "tramos": [
+          {
+            "tramo_id": "P1",
+            "progresiva_inicio": "00+000.0",
+            "progresiva_fin": "00+035.0",
+            "pci_numérico": 26,
+            "pci_clase": "Poor"
+          },
+          {
+            "tramo_id": "P2",
+            "progresiva_inicio": "00+210.0",
+            "progresiva_fin": "00+245.0",
+            "pci_numérico": 64,
+            "pci_clase": "Fair"
+          },
+          {
+            "tramo_id": "P3",
+            "progresiva_inicio": "00+420.0",
+            "progresiva_fin": "00+455.0",
+            "pci_numérico": 85,
+            "pci_clase": "Good"
+          },
+          {
+            "tramo_id": "P4",
+            "progresiva_inicio": "00+630.0",
+            "progresiva_fin": "00+665.0",
+            "pci_numérico": 32,
+            "pci_clase": "Poor"
+          },
+          {
+            "tramo_id": "P5",
+            "progresiva_inicio": "00+840.0",
+            "progresiva_fin": "00+875.0",
+            "pci_numérico": 85,
+            "pci_clase": "Good"
+          },
+          {
+            "tramo_id": "P6",
+            "progresiva_inicio": "01+050.0",
+            "progresiva_fin": "01+085.0",
+            "pci_numérico": 85,
+            "pci_clase": "Good"
+          },
+          {
+            "tramo_id": "P7",
+            "progresiva_inicio": "01+255.0",
+            "progresiva_fin": "01+290.0",
+            "pci_numérico": 83,
+            "pci_clase": "Good"
+          },
+          {
+            "tramo_id": "P8",
+            "progresiva_inicio": "01+465.0",
+            "progresiva_fin": "01+500.0",
+            "pci_numérico": 83,
+            "pci_clase": "Good"
+          },
+          {
+            "tramo_id": "P9",
+            "progresiva_inicio": "01+675.0",
+            "progresiva_fin": "01+710.0",
+            "pci_numérico": 36,
+            "pci_clase": "Poor"
+          }
+        ]
+      },
+      "Vuelta": null
+    }
+  },
+  {
+    "proyecto_id": "Tesis_JrHuanchihuaylas_2024",
+    "año_estudio": 2024,
+    "punto_anclaje_inicio": "Carretera Central",
+    "punto_anclaje_fin": "Av. José Carlos Mariátegui",
+    "longitud_unidad_muestra": 35.0,
+    "calzadas": {
+      "Ida": {
+        "progresiva_inicio_calzada": "00+000.0",
+        "tramos": [
+          {
+            "tramo_id": "P10",
+            "progresiva_inicio": "00+000.0",
+            "progresiva_fin": "00+035.0",
+            "pci_numérico": 70,
+            "pci_clase": "Good"
+          },
+          {
+            "tramo_id": "P11",
+            "progresiva_inicio": "00+210.0",
+            "progresiva_fin": "00+245.0",
+            "pci_numérico": 38,
+            "pci_clase": "Poor"
+          },
+          {
+            "tramo_id": "P12",
+            "progresiva_inicio": "00+420.0",
+            "progresiva_fin": "00+455.0",
+            "pci_numérico": 71,
+            "pci_clase": "Good"
+          }
+        ]
+      },
+      "Vuelta": null
+    }
+  },
+  {
+    "proyecto_id": "Tesis_AvLima_2024",
+    "año_estudio": 2024,
+    "punto_anclaje_inicio": "Desvío en el Puente Pucusana",
+    "punto_anclaje_fin": "Urb. Pucusana",
+    "longitud_unidad_muestra": 37.7,
+    "calzadas": {
+      "Ida": {
+        "progresiva_inicio_calzada": "2+000",
+        "tramos": [
+          {
+            "tramo_id": "M-1",
+            "progresiva_inicio": "2+000",
+            "progresiva_fin": "2+037.7",
+            "pci_numérico": 64,
+            "pci_clase": "Fair"
+          },
+          {
+            "tramo_id": "M-7",
+            "progresiva_inicio": "2+226.2",
+            "progresiva_fin": "2+263.9",
+            "pci_numérico": 83,
+            "pci_clase": "Good"
+          },
+          {
+            "tramo_id": "M-10",
+            "progresiva_inicio": "2+339.3",
+            "progresiva_fin": "2+377",
+            "pci_numérico": 33,
+            "pci_clase": "Poor"
+          },
+          {
+            "tramo_id": "M-13",
+            "progresiva_inicio": "2+452.4",
+            "progresiva_fin": "2+490.1",
+            "pci_numérico": 29,
+            "pci_clase": "Poor"
+          },
+          {
+            "tramo_id": "M-19",
+            "progresiva_inicio": "2+678.6",
+            "progresiva_fin": "2+716.3",
+            "pci_numérico": 74,
+            "pci_clase": "Good"
+          },
+          {
+            "tramo_id": "M-21",
+            "progresiva_inicio": "2+754",
+            "progresiva_fin": "2+791.7",
+            "pci_numérico": 58,
+            "pci_clase": "Fair"
+          },
+          {
+            "tramo_id": "M-25",
+            "progresiva_inicio": "2+904.8",
+            "progresiva_fin": "2+942.5",
+            "pci_numérico": 53,
+            "pci_clase": "Fair"
+          },
+          {
+            "tramo_id": "M-29",
+            "progresiva_inicio": "3+055.6",
+            "progresiva_fin": "3+093.3",
+            "pci_numérico": 61,
+            "pci_clase": "Fair"
+          },
+          {
+            "tramo_id": "M-31",
+            "progresiva_inicio": "3+131",
+            "progresiva_fin": "3+168.7",
+            "pci_numérico": 87,
+            "pci_clase": "Good"
+          },
+          {
+            "tramo_id": "M-34",
+            "progresiva_inicio": "3+244.1",
+            "progresiva_fin": "3+281.8",
+            "pci_numérico": 72,
+            "pci_clase": "Good"
+          },
+          {
+            "tramo_id": "M-37",
+            "progresiva_inicio": "3+357.2",
+            "progresiva_fin": "3+394.9",
+            "pci_numérico": 61,
+            "pci_clase": "Fair"
+          },
+          {
+            "tramo_id": "M-43",
+            "progresiva_inicio": "3+583.4",
+            "progresiva_fin": "3+621.1",
+            "pci_numérico": 49,
+            "pci_clase": "Poor"
+          },
+          {
+            "tramo_id": "M-49",
+            "progresiva_inicio": "3+809.6",
+            "progresiva_fin": "3+847.3",
+            "pci_numérico": 75,
+            "pci_clase": "Good"
+          },
+          {
+            "tramo_id": "M-55",
+            "progresiva_inicio": "4+035.8",
+            "progresiva_fin": "4+073.5",
+            "pci_numérico": 62,
+            "pci_clase": "Fair"
+          },
+          {
+            "tramo_id": "M-60",
+            "progresiva_inicio": "4+224.3",
+            "progresiva_fin": "4+262",
+            "pci_numérico": 38,
+            "pci_clase": "Poor"
+          },
+          {
+            "tramo_id": "M-61",
+            "progresiva_inicio": "4+262",
+            "progresiva_fin": "4+299.7",
+            "pci_numérico": 51,
+            "pci_clase": "Fair"
+          },
+          {
+            "tramo_id": "M-67",
+            "progresiva_inicio": "4+488.2",
+            "progresiva_fin": "4+525.9",
+            "pci_numérico": 47,
+            "pci_clase": "Poor"
+          },
+          {
+            "tramo_id": "M-69",
+            "progresiva_inicio": "4+563.6",
+            "progresiva_fin": "4+601.3",
+            "pci_numérico": 70,
+            "pci_clase": "Good"
+          },
+          {
+            "tramo_id": "M-73",
+            "progresiva_inicio": "4+714.4",
+            "progresiva_fin": "4+752.1",
+            "pci_numérico": 60,
+            "pci_clase": "Fair"
+          },
+          {
+            "tramo_id": "M-79",
+            "progresiva_inicio": "4+940.6",
+            "progresiva_fin": "4+978.3",
+            "pci_numérico": 60,
+            "pci_clase": "Fair"
+          }
+        ]
+      },
+      "Vuelta": null
+    }
+  },
+  {
+    "proyecto_id": "Tesis_SanDiego_2022",
+    "año_estudio": 2022,
+    "punto_anclaje_inicio": "Calle Virgen de las Mercedes",
+    "punto_anclaje_fin": "Calle Virgen del Carmen",
+    "longitud_unidad_muestra": 40,
+    "calzadas": {
+      "Ida": {
+        "progresiva_inicio_calzada": "0+000",
+        "coordenadas_inicio_calzada": [-11.951122, -77.093186],
+        "coordenadas_fin_calzada": [-11.9455369, -77.0917047],
+        "tramos": [
+          {
+            "tramo_id": "1",
+            "progresiva_inicio": "0+000",
+            "progresiva_fin": "0+040",
+            "pci_numérico": 30,
+            "pci_clase": "Poor"
+          },
+          {
+            "tramo_id": "2",
+            "progresiva_inicio": "0+040",
+            "progresiva_fin": "0+080",
+            "pci_numérico": 39,
+            "pci_clase": "Poor"
+          },
+          {
+            "tramo_id": "3",
+            "progresiva_inicio": "0+080",
+            "progresiva_fin": "0+120",
+            "pci_numérico": 42,
+            "pci_clase": "Poor"
+          },
+          {
+            "tramo_id": "4",
+            "progresiva_inicio": "0+120",
+            "progresiva_fin": "0+160",
+            "pci_numérico": 41,
+            "pci_clase": "Poor"
+          },
+          {
+            "tramo_id": "5",
+            "progresiva_inicio": "0+160",
+            "progresiva_fin": "0+200",
+            "pci_numérico": 42,
+            "pci_clase": "Poor"
+          },
+          {
+            "tramo_id": "6",
+            "progresiva_inicio": "0+200",
+            "progresiva_fin": "0+240",
+            "pci_numérico": 33,
+            "pci_clase": "Poor"
+          },
+          {
+            "tramo_id": "7",
+            "progresiva_inicio": "0+240",
+            "progresiva_fin": "0+280",
+            "pci_numérico": 44,
+            "pci_clase": "Poor"
+          },
+          {
+            "tramo_id": "8",
+            "progresiva_inicio": "0+280",
+            "progresiva_fin": "0+320",
+            "pci_numérico": 41,
+            "pci_clase": "Poor"
+          },
+          {
+            "tramo_id": "9",
+            "progresiva_inicio": "0+320",
+            "progresiva_fin": "0+360",
+            "pci_numérico": 8,
+            "pci_clase": "Very Poor"
+          },
+          {
+            "tramo_id": "10",
+            "progresiva_inicio": "0+360",
+            "progresiva_fin": "0+400",
+            "pci_numérico": 9,
+            "pci_clase": "Very Poor"
+          },
+          {
+            "tramo_id": "11",
+            "progresiva_inicio": "0+400",
+            "progresiva_fin": "0+440",
+            "pci_numérico": 69,
+            "pci_clase": "Fair"
+          },
+          {
+            "tramo_id": "12",
+            "progresiva_inicio": "0+440",
+            "progresiva_fin": "0+480",
+            "pci_numérico": 20,
+            "pci_clase": "Very Poor"
+          },
+          {
+            "tramo_id": "13",
+            "progresiva_inicio": "0+480",
+            "progresiva_fin": "0+520",
+            "pci_numérico": 28,
+            "pci_clase": "Poor"
+          },
+          {
+            "tramo_id": "14",
+            "progresiva_inicio": "0+520",
+            "progresiva_fin": "0+560",
+            "pci_numérico": 6,
+            "pci_clase": "Very Poor"
+          },
+          {
+            "tramo_id": "15",
+            "progresiva_inicio": "0+560",
+            "progresiva_fin": "0+600",
+            "pci_numérico": 23,
+            "pci_clase": "Very Poor"
+          }
+        ]
+      },
+      "Vuelta": null
+    }
+  }
+]

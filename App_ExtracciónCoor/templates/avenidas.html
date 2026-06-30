@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Gestión de Avenidas</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 40px;
+            background: #f4f4f9;
+            color: #222;
+        }
+        .box {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .alert {
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 4px;
+        }
+        .success { background: #d4edda; color: #155724; }
+        .error { background: #f8d7da; color: #721c24; }
+        form { margin-bottom: 8px; }
+        input[type="text"] { padding: 8px; margin-right: 8px; width: 220px; }
+        button { padding: 8px 12px; border: none; border-radius: 4px; cursor: pointer; background: #007bff; color: white; }
+        button.danger { background: #dc3545; }
+        table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+        th, td { padding: 10px; border-bottom: 1px solid #ddd; text-align: left; }
+        .inline-form { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+    </style>
+</head>
+<body>
+    <h1>Gestión de Avenidas</h1>
+    <p><a href="{{ url_for('index') }}">Volver al panel principal</a></p>
+
+    {% with messages = get_flashed_messages(with_categories=true) %}
+    {% if messages %}{% for category, message in messages %}
+    <div class="alert {{ category }}">{{ message }}</div>
+    {% endfor %}{% endif %}
+    {% endwith %}
+
+    <div class="box">
+        <h3>Agregar avenida</h3>
+        <form action="{{ url_for('nueva_avenida') }}" method="POST" class="inline-form">
+            <input type="text" name="nombre" placeholder="Nombre de la avenida" required>
+            <button type="submit">Crear avenida</button>
+        </form>
+    </div>
+
+    <div class="box">
+        <h3>CRUD de avenidas</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Nombre</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for av in avenidas %}
+                <tr>
+                    <td>{{ av.id }}</td>
+                    <td>
+                        <form action="{{ url_for('editar_avenida', id=av.id) }}" method="POST" class="inline-form">
+                            <input type="text" name="nombre" value="{{ av.nombre }}" required>
+                            <button type="submit">Actualizar</button>
+                        </form>
+                    </td>
+                    <td>
+                        <form action="{{ url_for('eliminar_avenida', id=av.id) }}" method="POST" class="inline-form">
+                            <button type="submit" class="danger" onclick="return confirm('¿Eliminar avenida y todos sus puntos?');">Eliminar</button>
+                        </form>
+                    </td>
+                </tr>
+                {% else %}
+                <tr>
+                    <td colspan="3">No hay avenidas registradas.</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
