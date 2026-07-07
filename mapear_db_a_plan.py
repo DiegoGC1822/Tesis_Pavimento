@@ -120,9 +120,23 @@ def generar_plan_avenida(proyecto: dict, puntos_db: dict, google_api_key: str) -
             if tramo_asignado:
                 distribucion[tramo_asignado].append(p)
             else:
-                # EL PUNTO CAYÓ EN UN HUECO (Zona no muestreada en la tesis)
-                # Lo descartamos silenciosamente para que no contamine las UMs
-                pass
+                # EL PUNTO CAYÓ EN UN HUECO O SALTO
+                # Lo guardamos en el resultado con descargar: False para la auditoría
+                resultado.append({
+                    "proyecto_id": proyecto_id,
+                    "año_recolección_imagen": año_recoleccion,
+                    "calzada": calzada_nombre,
+                    "tramo_id": "Ninguno (Hueco/Salto)",
+                    "pci_clase": "N/A",
+                    "pci_numérico": "N/A",
+                    "punto_sobremuestreo": "N/A",
+                    "coordenada_calculada": [p["lat"], p["lon"]],
+                    "heading": 0.0,  # No se usa al estar en False
+                    "pano_id": p["pano_id"],
+                    "fecha_real_google": p["fecha"],
+                    "descargar": False,
+                    "motivo": f"Descarte espacial: Punto en progresiva {dist_tesis_punto:.1f}m (Fuera de las UMs)"
+                })
 
         # --- A PARTIR DE AQUÍ EL CÓDIGO SE MANTIENE CASI IGUAL ---
         # Lista ordenada para calcular headings
@@ -307,6 +321,9 @@ def main():
 
     print(f"\nProcesando {len(matches)} avenida(s)...\n")
 
+    carpeta_salida = "planes_descarga"
+    os.makedirs(carpeta_salida, exist_ok=True)
+
     for nombre_db, nombre_ds, proyecto, puntos_sentidos in matches:
         print(f"{'='*60}")
         print(f"  DB: '{nombre_db}'  →  Dataset: '{nombre_ds}'  ({proyecto['proyecto_id']})")
@@ -316,10 +333,12 @@ def main():
         n_desc = sum(1 for r in plan if r.get("descargar"))
 
         nombre_archivo = f"plan_descarga_{nombre_ds.replace(' ', '_')}.json"
-        with open(nombre_archivo, "w", encoding="utf-8") as f:
+        ruta_completa = os.path.join(carpeta_salida, nombre_archivo)
+
+        with open(ruta_completa, "w", encoding="utf-8") as f:
             json.dump(plan, f, indent=2, ensure_ascii=False)
 
-        print(f"\n  [OK] {n_desc}/{len(plan)} para descarga → '{nombre_archivo}'\n")
+        print(f"\n  [OK] {n_desc}/{len(plan)} para descarga → '{ruta_completa}'\n")
 
     print(f"[FIN] {len(matches)} avenida(s) procesadas.")
 

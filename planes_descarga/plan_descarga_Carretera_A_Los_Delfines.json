@@ -3,6 +3,330 @@
     "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
     "año_recolección_imagen": 2023,
     "calzada": "Ida",
+    "tramo_id": "Ninguno (Hueco/Salto)",
+    "pci_clase": "N/A",
+    "pci_numérico": "N/A",
+    "punto_sobremuestreo": "N/A",
+    "coordenada_calculada": [
+      -11.86840439832251,
+      -77.14202054664639
+    ],
+    "heading": 0.0,
+    "pano_id": "A1X_MFuhINgbGuPaWmmeJg",
+    "fecha_real_google": "2023-03",
+    "descargar": false,
+    "motivo": "Descarte espacial: Punto en progresiva 505.6m (Fuera de las UMs)"
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "Ninguno (Hueco/Salto)",
+    "pci_clase": "N/A",
+    "pci_numérico": "N/A",
+    "punto_sobremuestreo": "N/A",
+    "coordenada_calculada": [
+      -11.86530186209472,
+      -77.14466906403013
+    ],
+    "heading": 0.0,
+    "pano_id": "b67SVQe-0_dks5MhITDfsg",
+    "fecha_real_google": "2023-01",
+    "descargar": false,
+    "motivo": "Descarte espacial: Punto en progresiva 963.4m (Fuera de las UMs)"
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "Ninguno (Hueco/Salto)",
+    "pci_clase": "N/A",
+    "pci_numérico": "N/A",
+    "punto_sobremuestreo": "N/A",
+    "coordenada_calculada": [
+      -11.86523306781607,
+      -77.14472839913421
+    ],
+    "heading": 0.0,
+    "pano_id": "GcPMuPkBOrAgvoPkj56WBA",
+    "fecha_real_google": "2023-01",
+    "descargar": false,
+    "motivo": "Descarte espacial: Punto en progresiva 971.7m (Fuera de las UMs)"
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "Ninguno (Hueco/Salto)",
+    "pci_clase": "N/A",
+    "pci_numérico": "N/A",
+    "punto_sobremuestreo": "N/A",
+    "coordenada_calculada": [
+      -11.8637165472858,
+      -77.14601936920961
+    ],
+    "heading": 0.0,
+    "pano_id": "WK9WZVJxSq2soDNKIKmKlg",
+    "fecha_real_google": "2023-01",
+    "descargar": false,
+    "motivo": "Descarte espacial: Punto en progresiva 1196.5m (Fuera de las UMs)"
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "Ninguno (Hueco/Salto)",
+    "pci_clase": "N/A",
+    "pci_numérico": "N/A",
+    "punto_sobremuestreo": "N/A",
+    "coordenada_calculada": [
+      -11.86364637313558,
+      -77.1460783525507
+    ],
+    "heading": 0.0,
+    "pano_id": "-Pl3GudMtVVVXKQJ2X6m3g",
+    "fecha_real_google": "2023-01",
+    "descargar": false,
+    "motivo": "Descarte espacial: Punto en progresiva 1206.9m (Fuera de las UMs)"
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "Ninguno (Hueco/Salto)",
+    "pci_clase": "N/A",
+    "pci_numérico": "N/A",
+    "punto_sobremuestreo": "N/A",
+    "coordenada_calculada": [
+      -11.86214388803562,
+      -77.14736860583807
+    ],
+    "heading": 0.0,
+    "pano_id": "Wu-xe2fmJGfrzTFXxsHUvg",
+    "fecha_real_google": "2023-01",
+    "descargar": false,
+    "motivo": "Descarte espacial: Punto en progresiva 1429.5m (Fuera de las UMs)"
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "Ninguno (Hueco/Salto)",
+    "pci_clase": "N/A",
+    "pci_numérico": "N/A",
+    "punto_sobremuestreo": "N/A",
+    "coordenada_calculada": [
+      -11.86207197165603,
+      -77.14743048498164
+    ],
+    "heading": 0.0,
+    "pano_id": "mrDTWGp3TllETXMMoKH5wg",
+    "fecha_real_google": "2023-01",
+    "descargar": false,
+    "motivo": "Descarte espacial: Punto en progresiva 1439.9m (Fuera de las UMs)"
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "Ninguno (Hueco/Salto)",
+    "pci_clase": "N/A",
+    "pci_numérico": "N/A",
+    "punto_sobremuestreo": "N/A",
+    "coordenada_calculada": [
+      -11.86057655462484,
+      -77.14871308757266
+    ],
+    "heading": 0.0,
+    "pano_id": "SWa6_nQUvmlie5yzW1HRxw",
+    "fecha_real_google": "2023-01",
+    "descargar": false,
+    "motivo": "Descarte espacial: Punto en progresiva 1660.5m (Fuera de las UMs)"
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "Ninguno (Hueco/Salto)",
+    "pci_clase": "N/A",
+    "pci_numérico": "N/A",
+    "punto_sobremuestreo": "N/A",
+    "coordenada_calculada": [
+      -11.86050995217771,
+      -77.14878488412096
+    ],
+    "heading": 0.0,
+    "pano_id": "AuDhHLRr46T8XOCNs2XnQg",
+    "fecha_real_google": "2023-01",
+    "descargar": false,
+    "motivo": "Descarte espacial: Punto en progresiva 1670.9m (Fuera de las UMs)"
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "Ninguno (Hueco/Salto)",
+    "pci_clase": "N/A",
+    "pci_numérico": "N/A",
+    "punto_sobremuestreo": "N/A",
+    "coordenada_calculada": [
+      -11.85939710322672,
+      -77.1504021381878
+    ],
+    "heading": 0.0,
+    "pano_id": "6RYvUj2QRFos_6fN_LBNQg",
+    "fecha_real_google": "2023-01",
+    "descargar": false,
+    "motivo": "Descarte espacial: Punto en progresiva 1895.6m (Fuera de las UMs)"
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "Ninguno (Hueco/Salto)",
+    "pci_clase": "N/A",
+    "pci_numérico": "N/A",
+    "punto_sobremuestreo": "N/A",
+    "coordenada_calculada": [
+      -11.85935707234323,
+      -77.15048086751472
+    ],
+    "heading": 0.0,
+    "pano_id": "R6dnOSjegOStkOnY7zH5qw",
+    "fecha_real_google": "2023-01",
+    "descargar": false,
+    "motivo": "Descarte espacial: Punto en progresiva 1903.9m (Fuera de las UMs)"
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "Ninguno (Hueco/Salto)",
+    "pci_clase": "N/A",
+    "pci_numérico": "N/A",
+    "punto_sobremuestreo": "N/A",
+    "coordenada_calculada": [
+      -11.85855994508683,
+      -77.15227477617843
+    ],
+    "heading": 0.0,
+    "pano_id": "5J0rafo_WRQZ0IXaAVMxDg",
+    "fecha_real_google": "2023-01",
+    "descargar": false,
+    "motivo": "Descarte espacial: Punto en progresiva 2120.3m (Fuera de las UMs)"
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "Ninguno (Hueco/Salto)",
+    "pci_clase": "N/A",
+    "pci_numérico": "N/A",
+    "punto_sobremuestreo": "N/A",
+    "coordenada_calculada": [
+      -11.8585220281633,
+      -77.15236429975482
+    ],
+    "heading": 0.0,
+    "pano_id": "259SboggDDqKxh1dD-xCrQ",
+    "fecha_real_google": "2023-01",
+    "descargar": false,
+    "motivo": "Descarte espacial: Punto en progresiva 2130.7m (Fuera de las UMs)"
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "Ninguno (Hueco/Salto)",
+    "pci_clase": "N/A",
+    "pci_numérico": "N/A",
+    "punto_sobremuestreo": "N/A",
+    "coordenada_calculada": [
+      -11.85777300580664,
+      -77.15422426849123
+    ],
+    "heading": 0.0,
+    "pano_id": "_vq7ASkbq7-bp3H5woYwQw",
+    "fecha_real_google": "2023-01",
+    "descargar": false,
+    "motivo": "Descarte espacial: Punto en progresiva 2349.2m (Fuera de las UMs)"
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "Ninguno (Hueco/Salto)",
+    "pci_clase": "N/A",
+    "pci_numérico": "N/A",
+    "punto_sobremuestreo": "N/A",
+    "coordenada_calculada": [
+      -11.8577395716046,
+      -77.15430747139722
+    ],
+    "heading": 0.0,
+    "pano_id": "I7bF2JGjOMuQO3GtQ8hnPw",
+    "fecha_real_google": "2023-01",
+    "descargar": false,
+    "motivo": "Descarte espacial: Punto en progresiva 2359.6m (Fuera de las UMs)"
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "Ninguno (Hueco/Salto)",
+    "pci_clase": "N/A",
+    "pci_numérico": "N/A",
+    "punto_sobremuestreo": "N/A",
+    "coordenada_calculada": [
+      -11.85698758221202,
+      -77.15614029029219
+    ],
+    "heading": 0.0,
+    "pano_id": "9zyWU96xUL1sxIYnw1nNFw",
+    "fecha_real_google": "2023-01",
+    "descargar": false,
+    "motivo": "Descarte espacial: Punto en progresiva 2576.0m (Fuera de las UMs)"
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "Ninguno (Hueco/Salto)",
+    "pci_clase": "N/A",
+    "pci_numérico": "N/A",
+    "punto_sobremuestreo": "N/A",
+    "coordenada_calculada": [
+      -11.85695765364539,
+      -77.15623490135305
+    ],
+    "heading": 0.0,
+    "pano_id": "1xLoU2zJ0HbaGigzGDz07g",
+    "fecha_real_google": "2023-01",
+    "descargar": false,
+    "motivo": "Descarte espacial: Punto en progresiva 2586.4m (Fuera de las UMs)"
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "Ninguno (Hueco/Salto)",
+    "pci_clase": "N/A",
+    "pci_numérico": "N/A",
+    "punto_sobremuestreo": "N/A",
+    "coordenada_calculada": [
+      -11.85692777331629,
+      -77.15633056552184
+    ],
+    "heading": 0.0,
+    "pano_id": "1LchRPewY51NzbFEVTRMHQ",
+    "fecha_real_google": "2023-01",
+    "descargar": false,
+    "motivo": "Descarte espacial: Punto en progresiva 2596.8m (Fuera de las UMs)"
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
     "tramo_id": "UM-01",
     "pci_clase": "Very Poor",
     "pci_numérico": 8.05,

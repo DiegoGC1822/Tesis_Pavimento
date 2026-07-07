@@ -1,0 +1,19 @@
+[
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-8",
+    "pci_clase": "Poor",
+    "pci_numérico": 39,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.05149288650677,
+      -77.05485810434556
+    ],
+    "heading": 228.0,
+    "pano_id": "edhcVkJqkRrfSQAVEKHtjA",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  }
+]
