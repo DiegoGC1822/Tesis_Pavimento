@@ -1,0 +1,1124 @@
+[
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "U-04",
+    "pci_clase": "Poor",
+    "pci_numérico": 44,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.07674125933038,
+      -77.00634510591597
+    ],
+    "heading": 79.44517882894797,
+    "pano_id": "jiBa1jzADUkNla-m3RWGqQ",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "U-04",
+    "pci_clase": "Poor",
+    "pci_numérico": 44,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.07673307758107,
+      -77.00630020187718
+    ],
+    "heading": 79.48545256001,
+    "pano_id": "gegNi5OmBpL0vjsZJ9bVrQ",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "U-04",
+    "pci_clase": "Poor",
+    "pci_numérico": 44,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.07670953717084,
+      -77.0061704985329
+    ],
+    "heading": 79.48775638959518,
+    "pano_id": "2ix3g1IH4o4SOC7BIpn41g",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "U-04",
+    "pci_clase": "Poor",
+    "pci_numérico": 44,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -12.07670030489236,
+      -77.00611961893114
+    ],
+    "heading": 79.00902570987228,
+    "pano_id": "H_TkQApvTheYJNefBl2_KQ",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "U-05",
+    "pci_clase": "Good",
+    "pci_numérico": 82,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.07652146226717,
+      -77.0051779470109
+    ],
+    "heading": 77.35065633450677,
+    "pano_id": "ll-FwAt9_3yQQiJ3IXsE-w",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "U-05",
+    "pci_clase": "Good",
+    "pci_numérico": 82,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.07651178091735,
+      -77.00513383342155
+    ],
+    "heading": 77.44631218504747,
+    "pano_id": "Llt51TRWmFteY-U2oOOK0Q",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "U-05",
+    "pci_clase": "Good",
+    "pci_numérico": 82,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.07649270337847,
+      -77.00504622132505
+    ],
+    "heading": 77.41758040794366,
+    "pano_id": "XSbFRmSk9qnPwzQz5AGGzw",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "U-05",
+    "pci_clase": "Good",
+    "pci_numérico": 82,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -12.07647363826771,
+      -77.00495887279274
+    ],
+    "heading": 77.03052080463556,
+    "pano_id": "u39TxRPqQ4CZf_f-F4U-JA",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "U-06",
+    "pci_clase": "Poor",
+    "pci_numérico": 41,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.07625208036628,
+      -77.00397509901688
+    ],
+    "heading": 78.4828823123762,
+    "pano_id": "b-mvEJ2SXfFHoYos6Xv9eg",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "U-06",
+    "pci_clase": "Poor",
+    "pci_numérico": 41,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.07624290524361,
+      -77.00392905170604
+    ],
+    "heading": 78.48465349913454,
+    "pano_id": "kErHCeTbhRD-0APeeehTzQ",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "U-06",
+    "pci_clase": "Poor",
+    "pci_numérico": 41,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.07622433028684,
+      -77.00383581463572
+    ],
+    "heading": 78.45529211387498,
+    "pano_id": "Q5q-I_ifNrBONfY-f44HvQ",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "U-06",
+    "pci_clase": "Poor",
+    "pci_numérico": 41,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -12.07620588217721,
+      -77.00374345626079
+    ],
+    "heading": 78.46651830187557,
+    "pano_id": "eNgbTxPoQRKUfKQhn-TCGw",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "U-06",
+    "pci_clase": "Poor",
+    "pci_numérico": 41,
+    "punto_sobremuestreo": 5,
+    "coordenada_calculada": [
+      -12.07619671117573,
+      -77.00369749673881
+    ],
+    "heading": 66.3109083807571,
+    "pano_id": "oi3dwQZAULLsord3eodMVw",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "U-09",
+    "pci_clase": "Poor",
+    "pci_numérico": 36,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.07487434805394,
+      -77.00061535701064
+    ],
+    "heading": 57.804080284977545,
+    "pano_id": "-ia3m9gwgSg_GBkNlwdmyw",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "U-09",
+    "pci_clase": "Poor",
+    "pci_numérico": 36,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.07484956686076,
+      -77.00057510843928
+    ],
+    "heading": 62.769959379807574,
+    "pano_id": "sM991qrO4UQqEQmKqtz2bg",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "U-09",
+    "pci_clase": "Poor",
+    "pci_numérico": 36,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.07478823170793,
+      -77.00045322021718
+    ],
+    "heading": 71.05215659771432,
+    "pano_id": "vTxFvU4gqCmiawQEB70KKw",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "U-09",
+    "pci_clase": "Poor",
+    "pci_numérico": 36,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -12.07475822789464,
+      -77.00036384716044
+    ],
+    "heading": 70.93711836166489,
+    "pano_id": "__0vX5kyKKXmA2a3L7B4hA",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "U-09",
+    "pci_clase": "Poor",
+    "pci_numérico": 36,
+    "punto_sobremuestreo": 5,
+    "coordenada_calculada": [
+      -12.07474314268511,
+      -77.000319204547
+    ],
+    "heading": 81.40999902485487,
+    "pano_id": "eT-rbNTDydZHoOgu7uqb-Q",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "U-10",
+    "pci_clase": "Poor",
+    "pci_numérico": 49,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.07459969928802,
+      -76.99934813576537
+    ],
+    "heading": 81.18934185218887,
+    "pano_id": "WKa6WFcpM-3j-QJffQ-8XQ",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "U-10",
+    "pci_clase": "Poor",
+    "pci_numérico": 49,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.07458692547872,
+      -76.99926385893215
+    ],
+    "heading": 82.57214259736543,
+    "pano_id": "BMsPub4RungfID79B_vXlQ",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "U-10",
+    "pci_clase": "Poor",
+    "pci_numérico": 49,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.07456224388619,
+      -76.9990702592701
+    ],
+    "heading": 82.19074243362934,
+    "pano_id": "lhXW3Vd7P3n1__SWGSQ3SA",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "U-11",
+    "pci_clase": "Fair",
+    "pci_numérico": 67,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.07444811935672,
+      -76.99821931347476
+    ],
+    "heading": 82.24079905471388,
+    "pano_id": "6MHuUGh31LIWQoj-cHYmQQ",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "U-11",
+    "pci_clase": "Fair",
+    "pci_numérico": 67,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.07443555504456,
+      -76.99812501745178
+    ],
+    "heading": 82.23353274719324,
+    "pano_id": "impk-3CdrMQth94A_eU4OA",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "U-11",
+    "pci_clase": "Fair",
+    "pci_numérico": 67,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.0744179740905,
+      -76.99799319623457
+    ],
+    "heading": 82.24713357694708,
+    "pano_id": "_v7Fzjqt0WTR0IaE_ol2_A",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "U-11",
+    "pci_clase": "Fair",
+    "pci_numérico": 67,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -12.07440513934004,
+      -76.99789679089382
+    ],
+    "heading": 79.31190789838797,
+    "pano_id": "RZ324LBuGZaitjW0waa4rQ",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "U-11",
+    "pci_clase": "Fair",
+    "pci_numérico": 67,
+    "punto_sobremuestreo": 5,
+    "coordenada_calculada": [
+      -12.07439584560881,
+      -76.99784643511114
+    ],
+    "heading": 79.31190789838797,
+    "pano_id": "8-bHazXTFeVWaZQM_5PYJQ",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-01",
+    "pci_clase": "Fair",
+    "pci_numérico": 52,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.0739437111731,
+      -76.99705664630896
+    ],
+    "heading": 239.83911034734416,
+    "pano_id": "fNwizch46s95v2AYotCXcQ",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-01",
+    "pci_clase": "Fair",
+    "pci_numérico": 52,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.0739938991192,
+      -76.9971449672211
+    ],
+    "heading": 239.84276099827497,
+    "pano_id": "3K21VHf1xOhT2bcqpYBQBQ",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-01",
+    "pci_clase": "Fair",
+    "pci_numérico": 52,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.07404213235555,
+      -76.99722986069405
+    ],
+    "heading": 239.89183488761864,
+    "pano_id": "bjicdcM4JpFlomvjT724gg",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-01",
+    "pci_clase": "Fair",
+    "pci_numérico": 52,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -12.07408972233488,
+      -76.99731378741284
+    ],
+    "heading": 250.62083017187018,
+    "pano_id": "KR5eH3j6Hcc-eAR5wYGokQ",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-02",
+    "pci_clase": "Poor",
+    "pci_numérico": 38,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.07438057512578,
+      -76.99815937882558
+    ],
+    "heading": 262.04221534388955,
+    "pano_id": "6UB0MnegMBmMJblKturTkA",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-02",
+    "pci_clase": "Poor",
+    "pci_numérico": 38,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.07439257612571,
+      -76.99824717165208
+    ],
+    "heading": 262.046318476235,
+    "pano_id": "MQ-qLxD8CnY4pzbBnBn2ng",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-02",
+    "pci_clase": "Poor",
+    "pci_numérico": 38,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.07440536329115,
+      -76.99834076453539
+    ],
+    "heading": 262.0408501540004,
+    "pano_id": "kmDKsyV0rVoc0ThbI8tFbA",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-02",
+    "pci_clase": "Poor",
+    "pci_numérico": 38,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -12.07441892831545,
+      -76.99843998170101
+    ],
+    "heading": 262.06872216885586,
+    "pano_id": "TS9JgE6bP4POZPWZRQQo_Q",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-02",
+    "pci_clase": "Poor",
+    "pci_numérico": 38,
+    "punto_sobremuestreo": 5,
+    "coordenada_calculada": [
+      -12.07443121205107,
+      -76.99853014709747
+    ],
+    "heading": 261.9354872679372,
+    "pano_id": "T9abaqxdhHjVoZBOK9azjg",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-03",
+    "pci_clase": "Fair",
+    "pci_numérico": 62,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.07455387360861,
+      -76.99941545173405
+    ],
+    "heading": 261.6875486198112,
+    "pano_id": "VHCl9vQU5fMFeIWzXDblIw",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-03",
+    "pci_clase": "Fair",
+    "pci_numérico": 62,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.07456280071688,
+      -76.99947793427734
+    ],
+    "heading": 261.69214015648976,
+    "pano_id": "uosQXKmRuuF6oYygEGRLZg",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-03",
+    "pci_clase": "Fair",
+    "pci_numérico": 62,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.07458359382907,
+      -76.99962355099399
+    ],
+    "heading": 261.7190909690006,
+    "pano_id": "JTTthMePywnU9Mfeysk-Ww",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-03",
+    "pci_clase": "Fair",
+    "pci_numérico": 62,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -12.07460135427534,
+      -76.99974834007516
+    ],
+    "heading": 247.88049468979972,
+    "pano_id": "kpPqMpY-G8Omr95mm9NBKg",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-05",
+    "pci_clase": "Fair",
+    "pci_numérico": 55,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.07537392945462,
+      -77.00169213316099
+    ],
+    "heading": 239.80516155939443,
+    "pano_id": "AyO0IndWKtVzNBLh4wOgCA",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-05",
+    "pci_clase": "Fair",
+    "pci_numérico": 55,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.07544403534374,
+      -77.0018153383111
+    ],
+    "heading": 239.8065294430307,
+    "pano_id": "SgEGVmAAkAdCLPAMDfvYmA",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-05",
+    "pci_clase": "Fair",
+    "pci_numérico": 55,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.07549058665636,
+      -77.00189715278896
+    ],
+    "heading": 239.84531615994734,
+    "pano_id": "Uvy8l_falNp39-CVB9vxbg",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-05",
+    "pci_clase": "Fair",
+    "pci_numérico": 55,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -12.07553202318947,
+      -77.00197009153582
+    ],
+    "heading": 242.78231827818348,
+    "pano_id": "xmZo8HX9k510sclMKM3okg",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-06",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 22,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.07591211754679,
+      -77.00272583982834
+    ],
+    "heading": 258.77094084952176,
+    "pano_id": "LjEt-knd4Uenitz8bOMGdg",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-06",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 22,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.07593862943987,
+      -77.00286240128548
+    ],
+    "heading": 259.0193713959301,
+    "pano_id": "u2BU1OeNdZ8o0KWimPwsSg",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-06",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 22,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.07595727036268,
+      -77.00296064810752
+    ],
+    "heading": 258.67270502175836,
+    "pano_id": "rVg37Gd3Y2FKipKS_SHCYw",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-06",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 22,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -12.07598123166888,
+      -77.00308297319881
+    ],
+    "heading": 258.3382884969575,
+    "pano_id": "P8a8PcUFJcVw0r7_s3suTg",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-07",
+    "pci_clase": "Good",
+    "pci_numérico": 72,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.0761499690357,
+      -77.00391903377732
+    ],
+    "heading": 258.34535825374996,
+    "pano_id": "vY2AtRbwon1SLdnKCU0u-w",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-07",
+    "pci_clase": "Good",
+    "pci_numérico": 72,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.07621629458924,
+      -77.00424786746196
+    ],
+    "heading": 257.05258433982027,
+    "pano_id": "v1p1juHE-9z2h4-OMPApgQ",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-08",
+    "pci_clase": "Poor",
+    "pci_numérico": 44,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.07642390615369,
+      -77.00517135633622
+    ],
+    "heading": 257.30313420691834,
+    "pano_id": "Y5HkkD5FfhRZTj_kHO3gmQ",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-08",
+    "pci_clase": "Poor",
+    "pci_numérico": 44,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.07645476662412,
+      -77.00531143006512
+    ],
+    "heading": 257.3898787555826,
+    "pano_id": "2CA5JF0H2FVOxy6ML6ImQg",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-08",
+    "pci_clase": "Poor",
+    "pci_numérico": 44,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.07647806577852,
+      -77.00541793520124
+    ],
+    "heading": 258.6130499924648,
+    "pano_id": "fNfTTYNjTD0M6UTQOZ9w8g",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-08",
+    "pci_clase": "Poor",
+    "pci_numérico": 44,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -12.07649322608819,
+      -77.00549491410283
+    ],
+    "heading": 258.5907670235333,
+    "pano_id": "vpLSyf0JOcFnXmfb6auW7Q",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-09",
+    "pci_clase": "Poor",
+    "pci_numérico": 48,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.07665853661952,
+      -77.00633262769159
+    ],
+    "heading": 258.5892485416602,
+    "pano_id": "K1GPMPVb7oaUAHaYYzlAAA",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-09",
+    "pci_clase": "Poor",
+    "pci_numérico": 48,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.07668333751457,
+      -77.00645828862496
+    ],
+    "heading": 258.5729464642003,
+    "pano_id": "inDMUA0jSU_p-WmA-8FwRA",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-09",
+    "pci_clase": "Poor",
+    "pci_numérico": 48,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.07670610789707,
+      -77.00657349234534
+    ],
+    "heading": 258.5236802107915,
+    "pano_id": "2-Dm2yrNNFP6Pm97cBqaGA",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-09",
+    "pci_clase": "Poor",
+    "pci_numérico": 48,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -12.07672660649735,
+      -77.00667674501477
+    ],
+    "heading": 258.187121870616,
+    "pano_id": "0D54JrV1OYwq0GKDbfXKVA",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-10",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 18,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.07690154216004,
+      -77.00753211311243
+    ],
+    "heading": 259.1268417959105,
+    "pano_id": "Fq0lQ5HFWWmWmgbVKB6L8A",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-10",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 18,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.07692663061109,
+      -77.00766568145133
+    ],
+    "heading": 259.1143110255508,
+    "pano_id": "ZDZZe6m3ANcV6lcgzuswpA",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-10",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 18,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.07694566745139,
+      -77.00776691209447
+    ],
+    "heading": 259.1335302883858,
+    "pano_id": "Z1ZO38Irp3LYckpxlzluFw",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-10",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 18,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -12.07695638929397,
+      -77.00782403004159
+    ],
+    "heading": 258.8266197470733,
+    "pano_id": "IxAEvUzeOSXnzKEVd619xw",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-10",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 18,
+    "punto_sobremuestreo": 5,
+    "coordenada_calculada": [
+      -12.0769765021407,
+      -77.00792816038371
+    ],
+    "heading": 260.3132286370317,
+    "pano_id": "12H8oinml5EjKRreMXL2gQ",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-11",
+    "pci_clase": "Fair",
+    "pci_numérico": 50,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.07712197403043,
+      -77.00879968830023
+    ],
+    "heading": 260.52150837320767,
+    "pano_id": "spfnECDolZ12dBcjd9TSVw",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-11",
+    "pci_clase": "Fair",
+    "pci_numérico": 50,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.07714491368121,
+      -77.00894019720592
+    ],
+    "heading": 260.5139895834192,
+    "pano_id": "uIyGLWqqoB4D1tBdGBUeOQ",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-11",
+    "pci_clase": "Fair",
+    "pci_numérico": 50,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.07716016169837,
+      -77.00903351822784
+    ],
+    "heading": 260.4867977997821,
+    "pano_id": "WFIuOppuhB3d30kKnV24xA",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_SanJuan_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Vuelta",
+    "tramo_id": "U-11",
+    "pci_clase": "Fair",
+    "pci_numérico": 50,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -12.07717515183005,
+      -77.00912499384916
+    ],
+    "heading": 260.4867977997821,
+    "pano_id": "NLTGTMBHTK7XeDZLX47vmQ",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  }
+]

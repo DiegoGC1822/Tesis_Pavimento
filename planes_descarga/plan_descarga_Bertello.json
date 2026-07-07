@@ -1,0 +1,1923 @@
+[
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-01",
+    "pci_clase": "Fair",
+    "pci_numérico": 57.6,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.01982353709206,
+      -77.1013646628513
+    ],
+    "heading": 151.1461719307557,
+    "pano_id": "qkp2RLcXw9ytWOu42Z9D1w",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-01",
+    "pci_clase": "Fair",
+    "pci_numérico": 57.6,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.01990521247966,
+      -77.10131865269189
+    ],
+    "heading": 151.09217829255732,
+    "pano_id": "obdj_eOue3Xl0OG9dbwpng",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-01",
+    "pci_clase": "Fair",
+    "pci_numérico": 57.6,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.0199865505612,
+      -77.10127273032053
+    ],
+    "heading": 151.09836438912146,
+    "pano_id": "XBAB7YInlBZS9f2PGod6qg",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-02",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 22,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.0200633981132,
+      -77.10122935429779
+    ],
+    "heading": 158.4833982410355,
+    "pano_id": "QDlW6Y03JPwCyylCghzjbw",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-02",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 22,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02016251319609,
+      -77.10118940268401
+    ],
+    "heading": 155.76326872056256,
+    "pano_id": "Wf_WkpJXYXw_ShI8U9PrsA",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-02",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 22,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.02025827757803,
+      -77.1011453241848
+    ],
+    "heading": 152.6141381908635,
+    "pano_id": "7km3e2S9bGeD7GQZKbnimg",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-03",
+    "pci_clase": "Good",
+    "pci_numérico": 80,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02034249406498,
+      -77.10110071883446
+    ],
+    "heading": 154.2471688397328,
+    "pano_id": "7U4yFy-oy2-zETmz1bpgHQ",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-03",
+    "pci_clase": "Good",
+    "pci_numérico": 80,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02042509828467,
+      -77.10105997692514
+    ],
+    "heading": 160.97312568585437,
+    "pano_id": "fn2MODioULYr1RjA9V0RPg",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-03",
+    "pci_clase": "Good",
+    "pci_numérico": 80,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.02047565253995,
+      -77.10104215233547
+    ],
+    "heading": 155.05582477448615,
+    "pano_id": "L-p5rUWd0n_UJUNZWpI8VA",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-04",
+    "pci_clase": "Good",
+    "pci_numérico": 85.6,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02054212327154,
+      -77.10101054221919
+    ],
+    "heading": 155.08697099313008,
+    "pano_id": "ayNwg5mrh51YAgoLOegdhg",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-04",
+    "pci_clase": "Good",
+    "pci_numérico": 85.6,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02067765767286,
+      -77.10094618048444
+    ],
+    "heading": 147.6041977515664,
+    "pano_id": "6ybYgzYDSafXRKmDhfyeng",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-04",
+    "pci_clase": "Good",
+    "pci_numérico": 85.6,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.02075412930874,
+      -77.10089657011963
+    ],
+    "heading": 153.43344769794737,
+    "pano_id": "5kuormKpbex2aW2_qumnvg",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-05",
+    "pci_clase": "Fair",
+    "pci_numérico": 50,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02083416475755,
+      -77.10085565252896
+    ],
+    "heading": 153.40757595693765,
+    "pano_id": "NqlNSTKhBdPPqxXSUlsoAg",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-05",
+    "pci_clase": "Fair",
+    "pci_numérico": 50,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02091428150169,
+      -77.1008146471183
+    ],
+    "heading": 154.34958319327518,
+    "pano_id": "QtgMXoPwStK2GcXjh8tezg",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-05",
+    "pci_clase": "Fair",
+    "pci_numérico": 50,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.02099422412787,
+      -77.10077539781489
+    ],
+    "heading": 152.47942266361383,
+    "pano_id": "K-puvo-R4N-8dEsTWihNSg",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-06",
+    "pci_clase": "Fair",
+    "pci_numérico": 55.5,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02106493641329,
+      -77.10073772900823
+    ],
+    "heading": 153.67910892543455,
+    "pano_id": "6uVhAZvcJ_FGU8rOY8xMtQ",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-06",
+    "pci_clase": "Fair",
+    "pci_numérico": 55.5,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02115191340183,
+      -77.10069373814915
+    ],
+    "heading": 153.27803671549623,
+    "pano_id": "lz7RHO0WDrDzOVwcCbv_Kg",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-07",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 24,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02128395128817,
+      -77.10062577619141
+    ],
+    "heading": 153.20680238049988,
+    "pano_id": "2-ZkGqfsUhi5wUo6EYtlaA",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-07",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 24,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02136405183129,
+      -77.10058441947733
+    ],
+    "heading": 153.23201302018117,
+    "pano_id": "dwkQhNYF9MsFp2I0CjKGZg",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-08",
+    "pci_clase": "Poor",
+    "pci_numérico": 38.3,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02157226873482,
+      -77.10047703244408
+    ],
+    "heading": 153.48985711128705,
+    "pano_id": "YAt-lEg4hi56me9kxSGn3Q",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-08",
+    "pci_clase": "Poor",
+    "pci_numérico": 38.3,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02161462342368,
+      -77.10045543209708
+    ],
+    "heading": 154.24421009447303,
+    "pano_id": "oQmi6o5XE-reDczfzc7aKA",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-08",
+    "pci_clase": "Poor",
+    "pci_numérico": 38.3,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.02165734413815,
+      -77.10043435858405
+    ],
+    "heading": 154.24121143166258,
+    "pano_id": "pBtKtpbpXRReIL311NgK0Q",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-09",
+    "pci_clase": "Good",
+    "pci_numérico": 98.5,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02178442124927,
+      -77.10037166486093
+    ],
+    "heading": 154.19423455140486,
+    "pano_id": "uf_vEaCQWDVzkZl8WyK47w",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-09",
+    "pci_clase": "Good",
+    "pci_numérico": 98.5,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02186860695541,
+      -77.10033004464007
+    ],
+    "heading": 154.24267695310346,
+    "pano_id": "HrCD3bwQnkgZXHF0S9pDVg",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-09",
+    "pci_clase": "Good",
+    "pci_numérico": 98.5,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.02195012674681,
+      -77.10028982930747
+    ],
+    "heading": 154.23160910304546,
+    "pano_id": "73M5xUOiLNVN3bkiG2hlnA",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-10",
+    "pci_clase": "Good",
+    "pci_numérico": 99.5,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02199051073194,
+      -77.10026989724899
+    ],
+    "heading": 154.2409706547901,
+    "pano_id": "B1UuHRsoz2gGXMZzYrrdEQ",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-10",
+    "pci_clase": "Good",
+    "pci_numérico": 99.5,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02210690786261,
+      -77.10021247182847
+    ],
+    "heading": 154.21110565868844,
+    "pano_id": "52uAOd3X6-36LyUaT1lTWA",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-11",
+    "pci_clase": "Good",
+    "pci_numérico": 97,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02227611680949,
+      -77.1001288800357
+    ],
+    "heading": 154.22540937386566,
+    "pano_id": "pcwRJAaqz3SxFEFC1WiRLg",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-11",
+    "pci_clase": "Good",
+    "pci_numérico": 97,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02235721817319,
+      -77.10008884024877
+    ],
+    "heading": 154.23533132794432,
+    "pano_id": "mHkqbGBa2YY75oswqyqmWQ",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-11",
+    "pci_clase": "Good",
+    "pci_numérico": 97,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.02242839119741,
+      -77.10005371761767
+    ],
+    "heading": 153.68589512026006,
+    "pano_id": "vW0GJrjaGQHoC1-pvqfyzg",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-12",
+    "pci_clase": "Poor",
+    "pci_numérico": 48,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02250844782444,
+      -77.10001323877256
+    ],
+    "heading": 152.70803627295504,
+    "pano_id": "X6uKBmbnRVjc6cnmKXt6rg",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-12",
+    "pci_clase": "Poor",
+    "pci_numérico": 48,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02258984088368,
+      -77.09997030132756
+    ],
+    "heading": 152.65365576208728,
+    "pano_id": "v4a5ewh-mo_WDLq42rNn_Q",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-12",
+    "pci_clase": "Poor",
+    "pci_numérico": 48,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.02264032343082,
+      -77.09994360810248
+    ],
+    "heading": 153.92638082107305,
+    "pano_id": "n97xd5lQBnEISwaav6-_wg",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-13",
+    "pci_clase": "Fair",
+    "pci_numérico": 60.2,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02275159594773,
+      -77.09988793866
+    ],
+    "heading": 154.49996059414605,
+    "pano_id": "3rvrGKzZNHtPeTEclAUSRQ",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-13",
+    "pci_clase": "Fair",
+    "pci_numérico": 60.2,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02283514017578,
+      -77.09984719633873
+    ],
+    "heading": 154.51612971290842,
+    "pano_id": "ooB-UvuwZWhMjXKuf5YD-A",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-13",
+    "pci_clase": "Fair",
+    "pci_numérico": 60.2,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.02292361005854,
+      -77.09980408322076
+    ],
+    "heading": 154.5593300198135,
+    "pano_id": "V6jZ9m7SjOI1yoegFCezlA",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-14",
+    "pci_clase": "Fair",
+    "pci_numérico": 59,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02299672609098,
+      -77.09976852147226
+    ],
+    "heading": 154.51821305168392,
+    "pano_id": "WeOpEfuohDnRwV1TkGlhLw",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-14",
+    "pci_clase": "Fair",
+    "pci_numérico": 59,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02311115304687,
+      -77.09971276414169
+    ],
+    "heading": 154.50714048288637,
+    "pano_id": "bOWu1RMoERlF3HF7ftzrng",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-14",
+    "pci_clase": "Fair",
+    "pci_numérico": 59,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.02319778610978,
+      -77.09967052904409
+    ],
+    "heading": 154.46982811151156,
+    "pano_id": "qOtK6OSLYa4-wRYbD_GJ1A",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-15",
+    "pci_clase": "Fair",
+    "pci_numérico": 59.6,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02324201908358,
+      -77.09964892855186
+    ],
+    "heading": 154.46024483521774,
+    "pano_id": "7BeHOzP0BvCahG33FF85aw",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-15",
+    "pci_clase": "Fair",
+    "pci_numérico": 59.6,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02334033222168,
+      -77.09960089817508
+    ],
+    "heading": 154.43625966211255,
+    "pano_id": "m2kZ8RopKq51TMGs0Q1A4g",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-15",
+    "pci_clase": "Fair",
+    "pci_numérico": 59.6,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.02341627691646,
+      -77.09956375584127
+    ],
+    "heading": 154.43035984193045,
+    "pano_id": "e6qMm0bqh0zTu8nqRAEA4A",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-16",
+    "pci_clase": "Fair",
+    "pci_numérico": 66.2,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02350081708582,
+      -77.09952239876102
+    ],
+    "heading": 154.49875294411277,
+    "pano_id": "g6KqB3RWXzXjzKJHCKlVjw",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-16",
+    "pci_clase": "Fair",
+    "pci_numérico": 66.2,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02358327654952,
+      -77.09948218315763
+    ],
+    "heading": 154.45798232038157,
+    "pano_id": "XcAYW43JpjQ69IEwVteA6Q",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-16",
+    "pci_clase": "Fair",
+    "pci_numérico": 66.2,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.02366648380671,
+      -77.09944152850558
+    ],
+    "heading": 154.42820781069554,
+    "pano_id": "Bopu04--k3tkQRqLmhKQdQ",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-17",
+    "pci_clase": "Poor",
+    "pci_numérico": 28.5,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.0237499389876,
+      -77.09940069822561
+    ],
+    "heading": 154.62316751073865,
+    "pano_id": "FHkdmOJVgVaKJrWAPzIA1Q",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-17",
+    "pci_clase": "Poor",
+    "pci_numérico": 28.5,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02383883610906,
+      -77.09935758494714
+    ],
+    "heading": 154.7813417781515,
+    "pano_id": "zLbt_A5QxYxOKWJIEcdxhA",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-18",
+    "pci_clase": "Poor",
+    "pci_numérico": 29,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02407735190643,
+      -77.09924273320509
+    ],
+    "heading": 154.66323693086053,
+    "pano_id": "qsjutGb8kfHPKRAXG9s8Zw",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-20",
+    "pci_clase": "Poor",
+    "pci_numérico": 49.5,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02448654648294,
+      -77.09904464003377
+    ],
+    "heading": 154.77716731874136,
+    "pano_id": "ZHfnAcLhhL_m9bBFbSfwpQ",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-21",
+    "pci_clase": "Good",
+    "pci_numérico": 90.2,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.0247324922497,
+      -77.09892618788808
+    ],
+    "heading": 153.93236090692335,
+    "pano_id": "v_-IV8-OFB9tRg2kwfVt3Q",
+    "fecha_real_google": "2023-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-21",
+    "pci_clase": "Good",
+    "pci_numérico": 90.2,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02487679864263,
+      -77.09885401017043
+    ],
+    "heading": 153.95669971397706,
+    "pano_id": "FyaWCGenfArB7pKlpxHRcA",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-21",
+    "pci_clase": "Good",
+    "pci_numérico": 90.2,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.02491792282306,
+      -77.09883346322096
+    ],
+    "heading": 153.9243798078361,
+    "pano_id": "XpINZilPx_iWcwfsctJ1Fw",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-22",
+    "pci_clase": "Fair",
+    "pci_numérico": 69,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02499900073981,
+      -77.09879289615657
+    ],
+    "heading": 153.92438859303854,
+    "pano_id": "sSYQhOCL8tfF8nufP9Y4VA",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-22",
+    "pci_clase": "Fair",
+    "pci_numérico": 69,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02508007869102,
+      -77.09875232907845
+    ],
+    "heading": 153.77872991476147,
+    "pano_id": "GAz_kSZliIhBMQK2EgTGGA",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-22",
+    "pci_clase": "Fair",
+    "pci_numérico": 69,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.02516656583454,
+      -77.09870877652908
+    ],
+    "heading": 153.67576938847344,
+    "pano_id": "80zeh01BopD3-V05ks5UdA",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-23",
+    "pci_clase": "Good",
+    "pci_numérico": 73.8,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.0252453718802,
+      -77.09866891188337
+    ],
+    "heading": 153.74691358429834,
+    "pano_id": "0fX91PiECWmvXVnlvEDQfw",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-23",
+    "pci_clase": "Good",
+    "pci_numérico": 73.8,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02528698781783,
+      -77.0986479258641
+    ],
+    "heading": 153.6929811374398,
+    "pano_id": "pDOFq7EJ_FkTDNEW7YRpBw",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-24",
+    "pci_clase": "Good",
+    "pci_numérico": 73.4,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02557569850037,
+      -77.09850198951145
+    ],
+    "heading": 153.66586748164468,
+    "pano_id": "mFb3aGzF5_206nl1zpil1w",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-24",
+    "pci_clase": "Good",
+    "pci_numérico": 73.4,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.0256553378392,
+      -77.09846168575822
+    ],
+    "heading": 153.74431270688478,
+    "pano_id": "Su4PgKHx6PPR6jKaY1dzFA",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-25",
+    "pci_clase": "Good",
+    "pci_numérico": 90.4,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02568911428248,
+      -77.09844465105235
+    ],
+    "heading": 153.66825907335726,
+    "pano_id": "T_i_L0jA7ojolzR04z88iA",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-25",
+    "pci_clase": "Good",
+    "pci_numérico": 90.4,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02581578709142,
+      -77.09838055136426
+    ],
+    "heading": 153.72298131092907,
+    "pano_id": "WA3O6ZuWbpGb9Z_7o69_Tw",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-25",
+    "pci_clase": "Good",
+    "pci_numérico": 90.4,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.02590101872708,
+      -77.09833752552701
+    ],
+    "heading": 153.15368404338938,
+    "pano_id": "qq0EkP76-xQhCiIqB80pOQ",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-26",
+    "pci_clase": "Poor",
+    "pci_numérico": 34.8,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02594377659202,
+      -77.09831539794757
+    ],
+    "heading": 152.8115225236446,
+    "pano_id": "2p3O4Fwfc_2AIy0eBn-F_Q",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-26",
+    "pci_clase": "Poor",
+    "pci_numérico": 34.8,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02607050552546,
+      -77.09824883956892
+    ],
+    "heading": 153.1681778721304,
+    "pano_id": "tjNml2GOYRoMo-nA8nKo7w",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-26",
+    "pci_clase": "Poor",
+    "pci_numérico": 34.8,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.02615318870197,
+      -77.09820607710827
+    ],
+    "heading": 155.1376198905906,
+    "pano_id": "HsLWohY_eWIf5bD1aAqaRg",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-28",
+    "pci_clase": "Poor",
+    "pci_numérico": 36.8,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02648808493912,
+      -77.09804740805025
+    ],
+    "heading": 154.17856162903968,
+    "pano_id": "cFaSUzRvcCdEkLLQbLpSJA",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-28",
+    "pci_clase": "Poor",
+    "pci_numérico": 36.8,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02652855116139,
+      -77.09802738781107
+    ],
+    "heading": 154.1868115047746,
+    "pano_id": "onKfEGt7gfkQLc8iC78Uew",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-29",
+    "pci_clase": "Poor",
+    "pci_numérico": 35.4,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02665620860476,
+      -77.09796425378937
+    ],
+    "heading": 154.1436807224203,
+    "pano_id": "qpSAwMjgD8eq6WDJAm1xjg",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-29",
+    "pci_clase": "Poor",
+    "pci_numérico": 35.4,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02669909299089,
+      -77.09794300422244
+    ],
+    "heading": 154.15487505543717,
+    "pano_id": "behrfdUBpiWg-rtRC2DDxQ",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-29",
+    "pci_clase": "Poor",
+    "pci_numérico": 35.4,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.02678277691578,
+      -77.09790155877528
+    ],
+    "heading": 154.1931479454263,
+    "pano_id": "BnweUY-rd_6pLlO__0A3Dw",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-29",
+    "pci_clase": "Poor",
+    "pci_numérico": 35.4,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -12.02686429473679,
+      -77.09786125482034
+    ],
+    "heading": 154.17230119323517,
+    "pano_id": "doskWorSNARw33LLvYZciQ",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-30",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 21.5,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02694697897711,
+      -77.09782033619429
+    ],
+    "heading": 154.21162974099946,
+    "pano_id": "NXvCjDTVtL-Hv0XOqD6wyw",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-30",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 21.5,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02703158560585,
+      -77.09777853947173
+    ],
+    "heading": 154.16646979926554,
+    "pano_id": "OX5oGdp_SEH42PE5WO5HrA",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-30",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 21.5,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.02711460317239,
+      -77.0977374452009
+    ],
+    "heading": 154.18367550482753,
+    "pano_id": "f4btWN5FxB3V4LOzf0yCsQ",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-31",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 16.3,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.0271980393914,
+      -77.09769617529938
+    ],
+    "heading": 154.3828842823566,
+    "pano_id": "lUYhNC77D938ktu1BnbTeQ",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-31",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 16.3,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.0272813254184,
+      -77.09765534442536
+    ],
+    "heading": 154.04005817300413,
+    "pano_id": "SHNv5ud6jDWp7EFrMYp9gw",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-33",
+    "pci_clase": "Poor",
+    "pci_numérico": 26.5,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02771296280003,
+      -77.09744047721
+    ],
+    "heading": 153.51272243077608,
+    "pano_id": "nbjyo1MQ6Yq7D9SSpJXvMA",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-33",
+    "pci_clase": "Poor",
+    "pci_numérico": 26.5,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02778241828281,
+      -77.09740509037792
+    ],
+    "heading": 153.53818512195562,
+    "pano_id": "NMnxTwEzI9INFVeMAshJEw",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-34",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 10.7,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.0278671345167,
+      -77.0973619763823
+    ],
+    "heading": 153.57115875279362,
+    "pano_id": "BaPDmRm8KJnhbC-2TyFY0w",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-34",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 10.7,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02795093638808,
+      -77.09731938922275
+    ],
+    "heading": 153.51135295113124,
+    "pano_id": "dpWfbcls94U1A6IKFSIfJg",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-34",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 10.7,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.02806174830673,
+      -77.0972629282848
+    ],
+    "heading": 153.56286738269978,
+    "pano_id": "i_VOzpFHDPxP559koy8FYw",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-35",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 11.9,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02812945637735,
+      -77.0972285072956
+    ],
+    "heading": 153.94266771345156,
+    "pano_id": "EQm8ZqBACrYLpvAUqoBa3A",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-35",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 11.9,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02819935932641,
+      -77.09719355944443
+    ],
+    "heading": 154.5890179792044,
+    "pano_id": "D0ageXAwbEM5TpmYOps0vQ",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-35",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 11.9,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.02829643560705,
+      -77.09714640617182
+    ],
+    "heading": 154.63589536868142,
+    "pano_id": "OsiHsJGLP0Dz5VteAtanRg",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-36",
+    "pci_clase": "Poor",
+    "pci_numérico": 37.3,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02836455081484,
+      -77.09711339008909
+    ],
+    "heading": 154.56112385588995,
+    "pano_id": "7wTwITE_aq-0fyntB4THTQ",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-36",
+    "pci_clase": "Poor",
+    "pci_numérico": 37.3,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.0284232290407,
+      -77.09708485224431
+    ],
+    "heading": 154.61076173691526,
+    "pano_id": "XjcxHL2azGftNa_niNFlZQ",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-36",
+    "pci_clase": "Poor",
+    "pci_numérico": 37.3,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.02852890521232,
+      -77.09703357191539
+    ],
+    "heading": 154.56786278220648,
+    "pano_id": "zKhXoFAPdKofKL4-FyYGNw",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-36",
+    "pci_clase": "Poor",
+    "pci_numérico": 37.3,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -12.02856972152695,
+      -77.09701372712468
+    ],
+    "heading": 155.61359212180332,
+    "pano_id": "-jSpRjlkJE66_ghzBsTj-A",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-37",
+    "pci_clase": "Good",
+    "pci_numérico": 70.9,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02869589037631,
+      -77.0969552464392
+    ],
+    "heading": 152.6388915316627,
+    "pano_id": "NZYWJ-MtbRJNMFOMSrugXg",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-37",
+    "pci_clase": "Good",
+    "pci_numérico": 70.9,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02882251523758,
+      -77.09688824826146
+    ],
+    "heading": 151.05881853586857,
+    "pano_id": "rXTSfxV3IkHMudSejsaieg",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-38",
+    "pci_clase": "Good",
+    "pci_numérico": 87.9,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02896306984351,
+      -77.09680878117386
+    ],
+    "heading": 143.96738152653677,
+    "pano_id": "VMDLDb5lpBt45DeJx8L_Zw",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-38",
+    "pci_clase": "Good",
+    "pci_numérico": 87.9,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02903674145882,
+      -77.09675398836679
+    ],
+    "heading": 143.09754822501077,
+    "pano_id": "s-Eet2esfEc_NFxGGKWBkg",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-39",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 14.2,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02911016855232,
+      -77.09669761497184
+    ],
+    "heading": 139.46081865079918,
+    "pano_id": "BfeNTFXyEsykMUW6gD2mlA",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-39",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 14.2,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02917865124238,
+      -77.09663772918685
+    ],
+    "heading": 137.1181044432518,
+    "pano_id": "zIyHSU1mq1B0zj6eUxeHSA",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-40",
+    "pci_clase": "Poor",
+    "pci_numérico": 31.9,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.0293131134796,
+      -77.09651005470086
+    ],
+    "heading": 134.69630083691936,
+    "pano_id": "01GKIFUkCUpAoL8UiNaZNg",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-40",
+    "pci_clase": "Poor",
+    "pci_numérico": 31.9,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02937760976502,
+      -77.0964434075115
+    ],
+    "heading": 132.00158103388867,
+    "pano_id": "d7B14Q_I0yqcmlxboCDdmw",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-40",
+    "pci_clase": "Poor",
+    "pci_numérico": 31.9,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.02944140858358,
+      -77.09637096487239
+    ],
+    "heading": 128.74413654426002,
+    "pano_id": "FBAJReX-njol3wR5sZGpRw",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-41",
+    "pci_clase": "Poor",
+    "pci_numérico": 27.7,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02950046648952,
+      -77.09629571229067
+    ],
+    "heading": 128.78941787900402,
+    "pano_id": "ama1pbWBp6ET0_YS-pS_kg",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-41",
+    "pci_clase": "Poor",
+    "pci_numérico": 27.7,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02953801557288,
+      -77.0962479439996
+    ],
+    "heading": 126.0124263038204,
+    "pano_id": "aKp12CTg4IVmzqzniSpsig",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-41",
+    "pci_clase": "Poor",
+    "pci_numérico": 27.7,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.02959232509176,
+      -77.09617154981812
+    ],
+    "heading": 124.51928618255363,
+    "pano_id": "moqifNW6p5NwsIGnAsTvaQ",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-42",
+    "pci_clase": "Poor",
+    "pci_numérico": 27.9,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02964389062109,
+      -77.09609489215954
+    ],
+    "heading": 124.51171914755798,
+    "pano_id": "OiwP6vF_9ATCCn_LXGpoPA",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-42",
+    "pci_clase": "Poor",
+    "pci_numérico": 27.9,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02968723358894,
+      -77.096030439978
+    ],
+    "heading": 117.82293579561588,
+    "pano_id": "zCJRr6StaCuK11M-b54FOg",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-42",
+    "pci_clase": "Poor",
+    "pci_numérico": 27.9,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.02975064181744,
+      -77.09590759437538
+    ],
+    "heading": 118.61574887842539,
+    "pano_id": "wUOTYYly2Sbof7Wr7_O3uQ",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-43",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 18,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.0297931858116,
+      -77.09582786320931
+    ],
+    "heading": 115.62217585408905,
+    "pano_id": "p_fxZeauBESBx_Pg-qpbLw",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-43",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 18,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02982757805093,
+      -77.09575454210125
+    ],
+    "heading": 113.95333971920365,
+    "pano_id": "wBZ2J__dtuOmXJ5JeToqig",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-43",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 18,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.029896024651,
+      -77.09559701132955
+    ],
+    "heading": 108.08504511270917,
+    "pano_id": "306icby7Wc5rxZx-YIW85w",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-44",
+    "pci_clase": "Poor",
+    "pci_numérico": 26.1,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.02993817714155,
+      -77.0954650330489
+    ],
+    "heading": 106.16864846622724,
+    "pano_id": "GQLVtZ9ClUB6qJrRChcyXg",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-44",
+    "pci_clase": "Poor",
+    "pci_numérico": 26.1,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.02995115000948,
+      -77.09541928405679
+    ],
+    "heading": 103.76437280646223,
+    "pano_id": "iDPL4q743dUEmOCNoqIWwg",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-44",
+    "pci_clase": "Poor",
+    "pci_numérico": 26.1,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.02998436886771,
+      -77.09528063201452
+    ],
+    "heading": 102.67834893237773,
+    "pano_id": "eIVrQ9Sk0y3LKgegPUw82g",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-44",
+    "pci_clase": "Poor",
+    "pci_numérico": 26.1,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -12.02999507223875,
+      -77.09523198521822
+    ],
+    "heading": 100.13629726250696,
+    "pano_id": "4zlyh_WeSIp2Fzpr1B3NGg",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-45",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 19.4,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.03001157777613,
+      -77.09513758930274
+    ],
+    "heading": 98.11125474569178,
+    "pano_id": "ob6qgJdEXQn8opVuWSVrHg",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-45",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 19.4,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.03002442976035,
+      -77.0950453885694
+    ],
+    "heading": 96.50517349451957,
+    "pano_id": "cjqzYyUbtjkq3inZbymRkg",
+    "fecha_real_google": "2023-07",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Bertello_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-45",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 19.4,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.03003237175637,
+      -77.09497417443072
+    ],
+    "heading": 96.50517349451957,
+    "pano_id": "W7e4i89qg26rkuUoRIuhsw",
+    "fecha_real_google": "2023-06",
+    "descargar": true
+  }
+]

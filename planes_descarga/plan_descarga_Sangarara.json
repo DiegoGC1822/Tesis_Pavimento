@@ -1,0 +1,1840 @@
+[
+  {
+    "tramo_id": "A-1",
+    "punto_sobremuestreo": 1,
+    "heading": 299.2183214110805,
+    "pano_id": "PzQZ4rolsFeBDwbOgzVbDg",
+    "descargar": false,
+    "coordenada_calculada": [
+      -11.91831,
+      -77.05247
+    ],
+    "motivo": "Descarte temporal: Año incorrecto (Encontrado: 2014, Esperado: 2024)"
+  },
+  {
+    "tramo_id": "A-1",
+    "punto_sobremuestreo": 2,
+    "heading": 299.21831991760587,
+    "pano_id": "PzQZ4rolsFeBDwbOgzVbDg",
+    "descargar": false,
+    "coordenada_calculada": [
+      -11.918293201619981,
+      -77.05250069632032
+    ],
+    "motivo": "Descarte temporal: Año incorrecto (Encontrado: 2014, Esperado: 2024)"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "A-1",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 12,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.918276403239961,
+      -77.05253139264065
+    ],
+    "heading": 299.2183183923459,
+    "pano_id": "SxJqWGiaCjYHKchSLbGHPQ",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "A-1",
+    "punto_sobremuestreo": 4,
+    "heading": 299.21831689656494,
+    "pano_id": "SxJqWGiaCjYHKchSLbGHPQ",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "A-1",
+    "punto_sobremuestreo": 5,
+    "heading": 299.2183153713094,
+    "pano_id": "SxJqWGiaCjYHKchSLbGHPQ",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "A-1",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 12,
+    "punto_sobremuestreo": 6,
+    "coordenada_calculada": [
+      -11.918226008099904,
+      -77.05262348160161
+    ],
+    "heading": 299.2183153713094,
+    "pano_id": "XEdoiiuS9UQ6rSmAMSpnvA",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "A-2",
+    "punto_sobremuestreo": 1,
+    "heading": 299.21831387553294,
+    "pano_id": "XEdoiiuS9UQ6rSmAMSpnvA",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "A-2",
+    "punto_sobremuestreo": 2,
+    "heading": 299.21831234797105,
+    "pano_id": "XEdoiiuS9UQ6rSmAMSpnvA",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "A-2",
+    "punto_sobremuestreo": 3,
+    "heading": 299.2183108568207,
+    "pano_id": "XEdoiiuS9UQ6rSmAMSpnvA",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "A-2",
+    "pci_clase": "Poor",
+    "pci_numérico": 43,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.918175612959844,
+      -77.05271557056258
+    ],
+    "heading": 299.2183093292633,
+    "pano_id": "dvUCvH1zlAKg0LtA54NyIQ",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "A-2",
+    "punto_sobremuestreo": 5,
+    "heading": 299.2183078334958,
+    "pano_id": "dvUCvH1zlAKg0LtA54NyIQ",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "A-2",
+    "pci_clase": "Poor",
+    "pci_numérico": 43,
+    "punto_sobremuestreo": 6,
+    "coordenada_calculada": [
+      -11.918142016199806,
+      -77.05277696320323
+    ],
+    "heading": 299.2183078334958,
+    "pano_id": "geVN9LoDyrUH6IO8eE6N-A",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "A-3",
+    "punto_sobremuestreo": 1,
+    "heading": 299.21830631056457,
+    "pano_id": "geVN9LoDyrUH6IO8eE6N-A",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "A-3",
+    "punto_sobremuestreo": 2,
+    "heading": 299.2183048124907,
+    "pano_id": "geVN9LoDyrUH6IO8eE6N-A",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "A-3",
+    "punto_sobremuestreo": 3,
+    "heading": 299.2183032849423,
+    "pano_id": "geVN9LoDyrUH6IO8eE6N-A",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "A-3",
+    "pci_clase": "Fair",
+    "pci_numérico": 58,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.918091621059748,
+      -77.0528690521642
+    ],
+    "heading": 299.2183017891837,
+    "pano_id": "MlCin1JNHsmN-EdA4FhyoQ",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "A-3",
+    "punto_sobremuestreo": 5,
+    "heading": 299.21830026857225,
+    "pano_id": "MlCin1JNHsmN-EdA4FhyoQ",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "A-3",
+    "punto_sobremuestreo": 6,
+    "heading": 299.21830026857225,
+    "pano_id": "MlCin1JNHsmN-EdA4FhyoQ",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "A-4",
+    "punto_sobremuestreo": 1,
+    "heading": 299.2182987705074,
+    "pano_id": "MlCin1JNHsmN-EdA4FhyoQ",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "A-4",
+    "pci_clase": "Fair",
+    "pci_numérico": 68,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.918041225919689,
+      -77.05296114112517
+    ],
+    "heading": 299.21829724527873,
+    "pano_id": "0S0Zq3AOzKtAFar1IiQOSw",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "A-4",
+    "punto_sobremuestreo": 3,
+    "heading": 299.21829574952915,
+    "pano_id": "0S0Zq3AOzKtAFar1IiQOSw",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "A-4",
+    "pci_clase": "Fair",
+    "pci_numérico": 68,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.91800762915965,
+      -77.05302253376581
+    ],
+    "heading": 299.21829422892665,
+    "pano_id": "V59ku-DH3trbYSoOb3oWAQ",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "A-4",
+    "punto_sobremuestreo": 5,
+    "heading": 299.2182927138215,
+    "pano_id": "V59ku-DH3trbYSoOb3oWAQ",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "A-4",
+    "punto_sobremuestreo": 6,
+    "heading": 299.2182927138215,
+    "pano_id": "V59ku-DH3trbYSoOb3oWAQ",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "A-5",
+    "punto_sobremuestreo": 1,
+    "heading": 299.21829121576775,
+    "pano_id": "V59ku-DH3trbYSoOb3oWAQ",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "A-5",
+    "pci_clase": "Fair",
+    "pci_numérico": 64,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.917957234019593,
+      -77.05311462272678
+    ],
+    "heading": 299.218289695172,
+    "pano_id": "QoKhqLAod854MwczWu2qOw",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "A-5",
+    "punto_sobremuestreo": 3,
+    "heading": 299.21828819250106,
+    "pano_id": "QoKhqLAod854MwczWu2qOw",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "A-5",
+    "pci_clase": "Fair",
+    "pci_numérico": 64,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.917923637259554,
+      -77.05317601536743
+    ],
+    "heading": 299.2182866742207,
+    "pano_id": "bWfu9xZJV2oIqYXg-_OEew",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "A-5",
+    "punto_sobremuestreo": 5,
+    "heading": 299.21828516374836,
+    "pano_id": "bWfu9xZJV2oIqYXg-_OEew",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "A-5",
+    "punto_sobremuestreo": 6,
+    "heading": 299.21828516374836,
+    "pano_id": "bWfu9xZJV2oIqYXg-_OEew",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "A-6",
+    "punto_sobremuestreo": 1,
+    "heading": 299.21828372145626,
+    "pano_id": "bWfu9xZJV2oIqYXg-_OEew",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "A-6",
+    "pci_clase": "Fair",
+    "pci_numérico": 66,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.917873550427466,
+      -77.0532675409455
+    ],
+    "heading": 299.2182822537246,
+    "pano_id": "sIZXSdqwbRc_ibaw5v2S0w",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "A-6",
+    "punto_sobremuestreo": 3,
+    "heading": 299.21828077098115,
+    "pano_id": "sIZXSdqwbRc_ibaw5v2S0w",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "A-6",
+    "punto_sobremuestreo": 4,
+    "heading": 299.21827927557996,
+    "pano_id": "sIZXSdqwbRc_ibaw5v2S0w",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "A-6",
+    "pci_clase": "Fair",
+    "pci_numérico": 66,
+    "punto_sobremuestreo": 5,
+    "coordenada_calculada": [
+      -11.91782408021132,
+      -77.05335793975773
+    ],
+    "heading": 299.21827780079263,
+    "pano_id": "Gr7z1GogSDfarq4XODmG5w",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "A-6",
+    "punto_sobremuestreo": 6,
+    "heading": 299.21827780079263,
+    "pano_id": "Gr7z1GogSDfarq4XODmG5w",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "A-7",
+    "punto_sobremuestreo": 1,
+    "heading": 299.21827616831405,
+    "pano_id": "Gr7z1GogSDfarq4XODmG5w",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "A-7",
+    "punto_sobremuestreo": 2,
+    "heading": 299.2182746378004,
+    "pano_id": "Gr7z1GogSDfarq4XODmG5w",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "A-7",
+    "pci_clase": "Good",
+    "pci_numérico": 88,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.917773376763291,
+      -77.05345059210161
+    ],
+    "heading": 299.21827308968955,
+    "pano_id": "v_zSYvyrJKA7_Yd33U5X_Q",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "A-7",
+    "punto_sobremuestreo": 4,
+    "heading": 299.2182715583229,
+    "pano_id": "v_zSYvyrJKA7_Yd33U5X_Q",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "A-7",
+    "pci_clase": "Good",
+    "pci_numérico": 88,
+    "punto_sobremuestreo": 5,
+    "coordenada_calculada": [
+      -11.91773916338731,
+      -77.05351311150808
+    ],
+    "heading": 299.21827002327785,
+    "pano_id": "i2pObnyF-O7iXw2librvyQ",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "A-7",
+    "punto_sobremuestreo": 6,
+    "heading": 299.21827002327785,
+    "pano_id": "i2pObnyF-O7iXw2librvyQ",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "A-8",
+    "punto_sobremuestreo": 1,
+    "heading": 299.21826854870085,
+    "pano_id": "i2pObnyF-O7iXw2librvyQ",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "A-8",
+    "punto_sobremuestreo": 2,
+    "heading": 299.2182670483721,
+    "pano_id": "i2pObnyF-O7iXw2librvyQ",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "A-8",
+    "pci_clase": "Fair",
+    "pci_numérico": 55,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.917688459939281,
+      -77.05360576385196
+    ],
+    "heading": 299.2182655278122,
+    "pano_id": "d3KVkViw0ku3Z5mTpfzdrg",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "A-8",
+    "punto_sobremuestreo": 4,
+    "heading": 299.21826401737127,
+    "pano_id": "d3KVkViw0ku3Z5mTpfzdrg",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "A-8",
+    "punto_sobremuestreo": 5,
+    "heading": 299.2182625193601,
+    "pano_id": "d3KVkViw0ku3Z5mTpfzdrg",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "A-8",
+    "pci_clase": "Fair",
+    "pci_numérico": 55,
+    "punto_sobremuestreo": 6,
+    "coordenada_calculada": [
+      -11.917638064799222,
+      -77.05369785281293
+    ],
+    "heading": 299.2182625193601,
+    "pano_id": "6tAtJXvrHapaVBXNt9IdsQ",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "A-9",
+    "punto_sobremuestreo": 1,
+    "heading": 299.2182609941853,
+    "pano_id": "6tAtJXvrHapaVBXNt9IdsQ",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "A-9",
+    "punto_sobremuestreo": 2,
+    "heading": 299.2182594984895,
+    "pano_id": "6tAtJXvrHapaVBXNt9IdsQ",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "A-9",
+    "punto_sobremuestreo": 3,
+    "heading": 299.2182579733191,
+    "pano_id": "6tAtJXvrHapaVBXNt9IdsQ",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "A-9",
+    "pci_clase": "Good",
+    "pci_numérico": 74,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.917587669659165,
+      -77.0537899417739
+    ],
+    "heading": 299.2182564799386,
+    "pano_id": "q5ESwbuV06WqSAkLofnP8A",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "A-9",
+    "punto_sobremuestreo": 5,
+    "heading": 299.21825495246185,
+    "pano_id": "q5ESwbuV06WqSAkLofnP8A",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "A-9",
+    "pci_clase": "Good",
+    "pci_numérico": 74,
+    "punto_sobremuestreo": 6,
+    "coordenada_calculada": [
+      -11.917554072899126,
+      -77.05385133441455
+    ],
+    "heading": 299.21825495246185,
+    "pano_id": "3HiGBkd2yaR_Wbk2zoWzkA",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "A-10",
+    "punto_sobremuestreo": 1,
+    "heading": 299.21825345677496,
+    "pano_id": "3HiGBkd2yaR_Wbk2zoWzkA",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "A-10",
+    "punto_sobremuestreo": 2,
+    "heading": 299.21825192930277,
+    "pano_id": "3HiGBkd2yaR_Wbk2zoWzkA",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "A-10",
+    "punto_sobremuestreo": 3,
+    "heading": 299.21825043593117,
+    "pano_id": "3HiGBkd2yaR_Wbk2zoWzkA",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "A-10",
+    "pci_clase": "Good",
+    "pci_numérico": 100,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.917503677759067,
+      -77.05394342337551
+    ],
+    "heading": 299.2182489130851,
+    "pano_id": "_D7cC0ou-0Sdsi5UWi3SLw",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "A-10",
+    "punto_sobremuestreo": 5,
+    "heading": 299.21824741509636,
+    "pano_id": "_D7cC0ou-0Sdsi5UWi3SLw",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "A-10",
+    "punto_sobremuestreo": 6,
+    "heading": 299.21824741509636,
+    "pano_id": "_D7cC0ou-0Sdsi5UWi3SLw",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "A-11",
+    "punto_sobremuestreo": 1,
+    "heading": 299.2182458876331,
+    "pano_id": "_D7cC0ou-0Sdsi5UWi3SLw",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "A-11",
+    "pci_clase": "Good",
+    "pci_numérico": 100,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.91745328261901,
+      -77.05403551233648
+    ],
+    "heading": 299.21824439427047,
+    "pano_id": "5oYtrXKiVdcR-Vzyq2qsKg",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "A-11",
+    "punto_sobremuestreo": 3,
+    "heading": 299.21824286912255,
+    "pano_id": "5oYtrXKiVdcR-Vzyq2qsKg",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "A-11",
+    "pci_clase": "Good",
+    "pci_numérico": 100,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.91741968585897,
+      -77.05409690497713
+    ],
+    "heading": 299.21824137114277,
+    "pano_id": "Ig2EBfAWbQbbTrtT23mRDA",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "A-11",
+    "punto_sobremuestreo": 5,
+    "heading": 299.21823984831013,
+    "pano_id": "Ig2EBfAWbQbbTrtT23mRDA",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "A-11",
+    "punto_sobremuestreo": 6,
+    "heading": 299.21823984831013,
+    "pano_id": "Ig2EBfAWbQbbTrtT23mRDA",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "A-12",
+    "punto_sobremuestreo": 1,
+    "heading": 299.21823835264564,
+    "pano_id": "Ig2EBfAWbQbbTrtT23mRDA",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "A-12",
+    "pci_clase": "Fair",
+    "pci_numérico": 67,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.917369290718911,
+      -77.0541889939381
+    ],
+    "heading": 299.21823682750664,
+    "pano_id": "8UJybZX6kBb1iWN5hqAAnQ",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "A-12",
+    "punto_sobremuestreo": 3,
+    "heading": 299.21823533184664,
+    "pano_id": "8UJybZX6kBb1iWN5hqAAnQ",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "A-12",
+    "punto_sobremuestreo": 4,
+    "heading": 299.2182338067122,
+    "pano_id": "8UJybZX6kBb1iWN5hqAAnQ",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "A-12",
+    "pci_clase": "Fair",
+    "pci_numérico": 67,
+    "punto_sobremuestreo": 5,
+    "coordenada_calculada": [
+      -11.917318895578854,
+      -77.05428108289907
+    ],
+    "heading": 299.2182323087458,
+    "pano_id": "tvoa8F3RYtb8G2xAZXOToA",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "A-12",
+    "punto_sobremuestreo": 6,
+    "heading": 299.2182323087458,
+    "pano_id": "tvoa8F3RYtb8G2xAZXOToA",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "A-13",
+    "punto_sobremuestreo": 1,
+    "heading": 299.2182307859266,
+    "pano_id": "tvoa8F3RYtb8G2xAZXOToA",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "A-13",
+    "punto_sobremuestreo": 2,
+    "heading": 299.2182292801589,
+    "pano_id": "tvoa8F3RYtb8G2xAZXOToA",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "A-13",
+    "pci_clase": "Good",
+    "pci_numérico": 100,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.917268500438794,
+      -77.05437317186004
+    ],
+    "heading": 299.21822777757757,
+    "pano_id": "97RbQNjF2-EeYVq3X8xBeA",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "A-13",
+    "punto_sobremuestreo": 4,
+    "heading": 299.21822625938677,
+    "pano_id": "97RbQNjF2-EeYVq3X8xBeA",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "A-13",
+    "punto_sobremuestreo": 5,
+    "heading": 299.21822475449915,
+    "pano_id": "97RbQNjF2-EeYVq3X8xBeA",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "A-13",
+    "pci_clase": "Good",
+    "pci_numérico": 100,
+    "punto_sobremuestreo": 6,
+    "coordenada_calculada": [
+      -11.917218105298737,
+      -77.054465260821
+    ],
+    "heading": 299.21822475449915,
+    "pano_id": "tFLQkUz8Gg_lUS6oyaftag",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "A-14",
+    "punto_sobremuestreo": 1,
+    "heading": 299.21822323377364,
+    "pano_id": "tFLQkUz8Gg_lUS6oyaftag",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "A-14",
+    "punto_sobremuestreo": 2,
+    "heading": 299.21822172181146,
+    "pano_id": "tFLQkUz8Gg_lUS6oyaftag",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "A-14",
+    "punto_sobremuestreo": 3,
+    "heading": 299.21822021446826,
+    "pano_id": "tFLQkUz8Gg_lUS6oyaftag",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "A-14",
+    "pci_clase": "Good",
+    "pci_numérico": 97,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.917167657305884,
+      -77.05455744636191
+    ],
+    "heading": 299.21821871030824,
+    "pano_id": "9NH8gFEzPC9E5sniY2ZSVg",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "A-14",
+    "punto_sobremuestreo": 5,
+    "heading": 299.2182171813214,
+    "pano_id": "9NH8gFEzPC9E5sniY2ZSVg",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "A-14",
+    "pci_clase": "Good",
+    "pci_numérico": 97,
+    "punto_sobremuestreo": 6,
+    "coordenada_calculada": [
+      -11.917134025310649,
+      -77.05461890338917
+    ],
+    "heading": 299.2182171813214,
+    "pano_id": "VhMCBrKeXlGtOdfttWdcoA",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "B-1",
+    "pci_clase": "Good",
+    "pci_numérico": 100,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.91626,
+      -77.05694
+    ],
+    "heading": 118.9210754056466,
+    "pano_id": "EE5xQriQCOLImY64H2chDg",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "B-1",
+    "pci_clase": "Good",
+    "pci_numérico": 100,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.916276641610485,
+      -77.05690921659176
+    ],
+    "heading": 118.92107689683326,
+    "pano_id": "idSyW4YxcEUEoSEI8VMKIg",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "B-1",
+    "punto_sobremuestreo": 3,
+    "heading": 118.92107837875164,
+    "pano_id": "idSyW4YxcEUEoSEI8VMKIg",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "B-1",
+    "pci_clase": "Good",
+    "pci_numérico": 100,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.91630992483146,
+      -77.05684764977528
+    ],
+    "heading": 118.92107987996599,
+    "pano_id": "9rue9t1BxnL8fVSDq47uMw",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "B-1",
+    "punto_sobremuestreo": 5,
+    "heading": 118.92108133952462,
+    "pano_id": "9rue9t1BxnL8fVSDq47uMw",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "B-1",
+    "punto_sobremuestreo": 6,
+    "heading": 118.92108133952462,
+    "pano_id": "9rue9t1BxnL8fVSDq47uMw",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "B-2",
+    "punto_sobremuestreo": 1,
+    "heading": 118.92108285076654,
+    "pano_id": "9rue9t1BxnL8fVSDq47uMw",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "B-2",
+    "pci_clase": "Good",
+    "pci_numérico": 100,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.916359849662921,
+      -77.05675529955056
+    ],
+    "heading": 118.92108432730566,
+    "pano_id": "vBA41VeqZLDnN5KZFpXFuw",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "B-2",
+    "punto_sobremuestreo": 3,
+    "heading": 118.9210858138702,
+    "pano_id": "vBA41VeqZLDnN5KZFpXFuw",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "B-2",
+    "pci_clase": "Good",
+    "pci_numérico": 100,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.916393132883895,
+      -77.05669373273408
+    ],
+    "heading": 118.92108730043697,
+    "pano_id": "RqWMCRXDpYzSwyYIvdCbkA",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "B-2",
+    "punto_sobremuestreo": 5,
+    "heading": 118.92108879471152,
+    "pano_id": "RqWMCRXDpYzSwyYIvdCbkA",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "B-2",
+    "punto_sobremuestreo": 6,
+    "heading": 118.92108879471152,
+    "pano_id": "RqWMCRXDpYzSwyYIvdCbkA",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "B-3",
+    "punto_sobremuestreo": 1,
+    "heading": 118.92109026355371,
+    "pano_id": "RqWMCRXDpYzSwyYIvdCbkA",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "B-3",
+    "pci_clase": "Poor",
+    "pci_numérico": 41,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.916443057715355,
+      -77.05660138250936
+    ],
+    "heading": 118.92109177017358,
+    "pano_id": "UBT3iQw5KdiKuaa_EpIS_g",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "B-3",
+    "punto_sobremuestreo": 3,
+    "heading": 118.92109324672583,
+    "pano_id": "UBT3iQw5KdiKuaa_EpIS_g",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "B-3",
+    "punto_sobremuestreo": 4,
+    "heading": 118.92109473330345,
+    "pano_id": "UBT3iQw5KdiKuaa_EpIS_g",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "B-3",
+    "pci_clase": "Poor",
+    "pci_numérico": 41,
+    "punto_sobremuestreo": 5,
+    "coordenada_calculada": [
+      -11.916492982546815,
+      -77.05650903228464
+    ],
+    "heading": 118.92109621988334,
+    "pano_id": "sHO9x1Nh1q72mLdjJQJG1A",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "B-3",
+    "punto_sobremuestreo": 6,
+    "heading": 118.92109621988334,
+    "pano_id": "sHO9x1Nh1q72mLdjJQJG1A",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "B-4",
+    "punto_sobremuestreo": 1,
+    "heading": 118.92109771417103,
+    "pano_id": "sHO9x1Nh1q72mLdjJQJG1A",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "B-4",
+    "pci_clase": "Good",
+    "pci_numérico": 77,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.91652626576779,
+      -77.05644746546817
+    ],
+    "heading": 118.92109918534396,
+    "pano_id": "1hg-_nsHCGW2TFXPMNvM_g",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "B-4",
+    "punto_sobremuestreo": 3,
+    "heading": 118.92110068965928,
+    "pano_id": "1hg-_nsHCGW2TFXPMNvM_g",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "B-4",
+    "pci_clase": "Good",
+    "pci_numérico": 77,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.916559548988763,
+      -77.05638589865168
+    ],
+    "heading": 118.92110216854223,
+    "pano_id": "EqOZM3cC_Gkx0lovCAhDQA",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "B-4",
+    "punto_sobremuestreo": 5,
+    "heading": 118.9211036504978,
+    "pano_id": "EqOZM3cC_Gkx0lovCAhDQA",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "B-4",
+    "punto_sobremuestreo": 6,
+    "heading": 118.9211036504978,
+    "pano_id": "EqOZM3cC_Gkx0lovCAhDQA",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "B-5",
+    "punto_sobremuestreo": 1,
+    "heading": 118.92110514404362,
+    "pano_id": "EqOZM3cC_Gkx0lovCAhDQA",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "B-5",
+    "pci_clase": "Good",
+    "pci_numérico": 100,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.916609473820225,
+      -77.05629354842696
+    ],
+    "heading": 118.9211066337092,
+    "pano_id": "pw9iD6InZzT_aSaDUQHnMQ",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "B-5",
+    "punto_sobremuestreo": 3,
+    "heading": 118.92110810257759,
+    "pano_id": "pw9iD6InZzT_aSaDUQHnMQ",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "B-5",
+    "pci_clase": "Good",
+    "pci_numérico": 100,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.916642757041197,
+      -77.05623198161048
+    ],
+    "heading": 118.92110961154128,
+    "pano_id": "hIOFZNuQWI0O--ueBr6SZQ",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "B-5",
+    "punto_sobremuestreo": 5,
+    "heading": 118.9211110834845,
+    "pano_id": "hIOFZNuQWI0O--ueBr6SZQ",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "B-5",
+    "punto_sobremuestreo": 6,
+    "heading": 118.9211110834845,
+    "pano_id": "hIOFZNuQWI0O--ueBr6SZQ",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "B-6",
+    "punto_sobremuestreo": 1,
+    "heading": 118.92111257472362,
+    "pano_id": "hIOFZNuQWI0O--ueBr6SZQ",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "B-6",
+    "pci_clase": "Good",
+    "pci_numérico": 100,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.916692681872659,
+      -77.05613963138576
+    ],
+    "heading": 118.92111405669448,
+    "pano_id": "G9yAjVLzJKaoMeJBxtEXHQ",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "B-6",
+    "punto_sobremuestreo": 3,
+    "heading": 118.92111555796129,
+    "pano_id": "G9yAjVLzJKaoMeJBxtEXHQ",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "B-6",
+    "punto_sobremuestreo": 4,
+    "heading": 118.92111701988995,
+    "pano_id": "G9yAjVLzJKaoMeJBxtEXHQ",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "B-6",
+    "pci_clase": "Good",
+    "pci_numérico": 100,
+    "punto_sobremuestreo": 5,
+    "coordenada_calculada": [
+      -11.916742606704119,
+      -77.05604728116104
+    ],
+    "heading": 118.92111852886677,
+    "pano_id": "gW1cetGYfTc0ECTCMlASHA",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "B-6",
+    "punto_sobremuestreo": 6,
+    "heading": 118.92111852886677,
+    "pano_id": "gW1cetGYfTc0ECTCMlASHA",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "B-7",
+    "punto_sobremuestreo": 1,
+    "heading": 118.92112000082307,
+    "pano_id": "gW1cetGYfTc0ECTCMlASHA",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "B-7",
+    "punto_sobremuestreo": 2,
+    "heading": 118.92112149207532,
+    "pano_id": "gW1cetGYfTc0ECTCMlASHA",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "B-7",
+    "pci_clase": "Poor",
+    "pci_numérico": 35,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.916792531535581,
+      -77.05595493093632
+    ],
+    "heading": 118.92112297869454,
+    "pano_id": "RHJuG3dwrPwMToYTwdW77A",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "B-7",
+    "punto_sobremuestreo": 4,
+    "heading": 118.92112447533918,
+    "pano_id": "RHJuG3dwrPwMToYTwdW77A",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "B-7",
+    "pci_clase": "Poor",
+    "pci_numérico": 35,
+    "punto_sobremuestreo": 5,
+    "coordenada_calculada": [
+      -11.916825814756553,
+      -77.05589336411985
+    ],
+    "heading": 118.92112594191622,
+    "pano_id": "6jL6RT_FEOtWq1Kwakbnug",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "B-7",
+    "punto_sobremuestreo": 6,
+    "heading": 118.92112594191622,
+    "pano_id": "6jL6RT_FEOtWq1Kwakbnug",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "B-8",
+    "punto_sobremuestreo": 1,
+    "heading": 118.92112744627093,
+    "pano_id": "6jL6RT_FEOtWq1Kwakbnug",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "B-8",
+    "punto_sobremuestreo": 2,
+    "heading": 118.9211289151699,
+    "pano_id": "6jL6RT_FEOtWq1Kwakbnug",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "B-8",
+    "pci_clase": "Good",
+    "pci_numérico": 73,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.916875739588015,
+      -77.05580101389512
+    ],
+    "heading": 118.92113041952899,
+    "pano_id": "MrC4YJ0EJcjG0lcc24-X9A",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "B-8",
+    "punto_sobremuestreo": 4,
+    "heading": 118.92113190077322,
+    "pano_id": "MrC4YJ0EJcjG0lcc24-X9A",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "B-8",
+    "punto_sobremuestreo": 5,
+    "heading": 118.9211333827725,
+    "pano_id": "MrC4YJ0EJcjG0lcc24-X9A",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "B-8",
+    "pci_clase": "Good",
+    "pci_numérico": 73,
+    "punto_sobremuestreo": 6,
+    "coordenada_calculada": [
+      -11.916925664419475,
+      -77.0557086636704
+    ],
+    "heading": 118.9211333827725,
+    "pano_id": "mO3YpSYReqGy8sMtBkzL9Q",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "B-9",
+    "punto_sobremuestreo": 1,
+    "heading": 118.92113487404441,
+    "pano_id": "mO3YpSYReqGy8sMtBkzL9Q",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "B-9",
+    "punto_sobremuestreo": 2,
+    "heading": 118.92113636607132,
+    "pano_id": "mO3YpSYReqGy8sMtBkzL9Q",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "B-9",
+    "punto_sobremuestreo": 3,
+    "heading": 118.92113783961872,
+    "pano_id": "mO3YpSYReqGy8sMtBkzL9Q",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "B-9",
+    "pci_clase": "Poor",
+    "pci_numérico": 34,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.916975589250937,
+      -77.05561631344568
+    ],
+    "heading": 118.92113933935565,
+    "pano_id": "iRBpNxJMr1YFpP9Ve3OGdw",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "B-9",
+    "punto_sobremuestreo": 5,
+    "heading": 118.92114081597782,
+    "pano_id": "iRBpNxJMr1YFpP9Ve3OGdw",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "B-9",
+    "pci_clase": "Poor",
+    "pci_numérico": 34,
+    "punto_sobremuestreo": 6,
+    "coordenada_calculada": [
+      -11.917008872471909,
+      -77.05555474662921
+    ],
+    "heading": 118.92114081597782,
+    "pano_id": "rRaWOdyrybAVMxJBMDretQ",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "B-10",
+    "punto_sobremuestreo": 1,
+    "heading": 118.92114230726065,
+    "pano_id": "rRaWOdyrybAVMxJBMDretQ",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "B-10",
+    "punto_sobremuestreo": 2,
+    "heading": 118.92114378927522,
+    "pano_id": "rRaWOdyrybAVMxJBMDretQ",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "B-10",
+    "punto_sobremuestreo": 3,
+    "heading": 118.92114529058574,
+    "pano_id": "rRaWOdyrybAVMxJBMDretQ",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "B-10",
+    "pci_clase": "Poor",
+    "pci_numérico": 47,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.91705879730337,
+      -77.0554623964045
+    ],
+    "heading": 118.92114675255806,
+    "pano_id": "2U4iMe0fxVzt3rFfm9UUSg",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "B-10",
+    "punto_sobremuestreo": 5,
+    "heading": 118.92114826157865,
+    "pano_id": "2U4iMe0fxVzt3rFfm9UUSg",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "B-10",
+    "punto_sobremuestreo": 6,
+    "heading": 118.92114826157865,
+    "pano_id": "2U4iMe0fxVzt3rFfm9UUSg",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "B-11",
+    "punto_sobremuestreo": 1,
+    "heading": 118.92114974053152,
+    "pano_id": "2U4iMe0fxVzt3rFfm9UUSg",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "B-11",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 10,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.91710872213483,
+      -77.05537004617977
+    ],
+    "heading": 118.92115122719224,
+    "pano_id": "ofVarlCIjWK9F6y0OAtfJA",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "B-11",
+    "punto_sobremuestreo": 3,
+    "heading": 118.9211527115375,
+    "pano_id": "ofVarlCIjWK9F6y0OAtfJA",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "B-11",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 10,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.917142005355805,
+      -77.05530847936329
+    ],
+    "heading": 118.9211542059083,
+    "pano_id": "BH6WUvV6BfE7TTT7hHcjfA",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "B-11",
+    "punto_sobremuestreo": 5,
+    "heading": 118.92115567484666,
+    "pano_id": "BH6WUvV6BfE7TTT7hHcjfA",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "B-11",
+    "punto_sobremuestreo": 6,
+    "heading": 118.92115567484666,
+    "pano_id": "BH6WUvV6BfE7TTT7hHcjfA",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "B-12",
+    "punto_sobremuestreo": 1,
+    "heading": 118.92115718156265,
+    "pano_id": "BH6WUvV6BfE7TTT7hHcjfA",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "B-12",
+    "pci_clase": "Good",
+    "pci_numérico": 100,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.917191930187265,
+      -77.05521612913857
+    ],
+    "heading": 118.92115866052865,
+    "pano_id": "Mmd89Idnue4VGkYwRukuOA",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "B-12",
+    "punto_sobremuestreo": 3,
+    "heading": 118.92116014488488,
+    "pano_id": "Mmd89Idnue4VGkYwRukuOA",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "B-12",
+    "punto_sobremuestreo": 4,
+    "heading": 118.92116163156089,
+    "pano_id": "Mmd89Idnue4VGkYwRukuOA",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "B-12",
+    "pci_clase": "Good",
+    "pci_numérico": 100,
+    "punto_sobremuestreo": 5,
+    "coordenada_calculada": [
+      -11.917241855018727,
+      -77.05512377891385
+    ],
+    "heading": 118.92116312594476,
+    "pano_id": "7vJ4vEg8CZCbC8WonYDVeA",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "B-12",
+    "punto_sobremuestreo": 6,
+    "heading": 118.92116312594476,
+    "pano_id": "7vJ4vEg8CZCbC8WonYDVeA",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "B-13",
+    "punto_sobremuestreo": 1,
+    "heading": 118.92116459721382,
+    "pano_id": "7vJ4vEg8CZCbC8WonYDVeA",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "B-13",
+    "pci_clase": "Fair",
+    "pci_numérico": 59,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.9172751382397,
+      -77.05506221209737
+    ],
+    "heading": 118.92116609930775,
+    "pano_id": "xNnX8We4ua1AQfq_tPklHg",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "B-13",
+    "punto_sobremuestreo": 3,
+    "heading": 118.92116757828688,
+    "pano_id": "xNnX8We4ua1AQfq_tPklHg",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "B-13",
+    "punto_sobremuestreo": 4,
+    "heading": 118.92116906497381,
+    "pano_id": "xNnX8We4ua1AQfq_tPklHg",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "B-13",
+    "pci_clase": "Fair",
+    "pci_numérico": 59,
+    "punto_sobremuestreo": 5,
+    "coordenada_calculada": [
+      -11.91732506307116,
+      -77.05496986187265
+    ],
+    "heading": 118.92117054702771,
+    "pano_id": "P7f9ZvOxKnw3EjoeS-uNWg",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "B-13",
+    "punto_sobremuestreo": 6,
+    "heading": 118.92117054702771,
+    "pano_id": "P7f9ZvOxKnw3EjoeS-uNWg",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "B-14",
+    "punto_sobremuestreo": 1,
+    "heading": 118.92117204833187,
+    "pano_id": "P7f9ZvOxKnw3EjoeS-uNWg",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "tramo_id": "B-14",
+    "punto_sobremuestreo": 2,
+    "heading": 118.9211735319542,
+    "pano_id": "P7f9ZvOxKnw3EjoeS-uNWg",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "B-14",
+    "pci_clase": "Good",
+    "pci_numérico": 94,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.917375022808988,
+      -77.05487744707865
+    ],
+    "heading": 118.92117500788112,
+    "pano_id": "phyElNah9Z9MQQsK-waRMw",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "B-14",
+    "punto_sobremuestreo": 4,
+    "heading": 118.92117651078138,
+    "pano_id": "phyElNah9Z9MQQsK-waRMw",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  },
+  {
+    "proyecto_id": "Tesis_Sangarara_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "B-14",
+    "pci_clase": "Good",
+    "pci_numérico": 94,
+    "punto_sobremuestreo": 5,
+    "coordenada_calculada": [
+      -11.91740834093633,
+      -77.05481581569288
+    ],
+    "heading": 118.92117799904065,
+    "pano_id": "c2SzLdwrDKv_835KC3k_9w",
+    "fecha_real_google": "2024-03",
+    "descargar": true
+  },
+  {
+    "tramo_id": "B-14",
+    "punto_sobremuestreo": 6,
+    "heading": 118.92117799904065,
+    "pano_id": "c2SzLdwrDKv_835KC3k_9w",
+    "descargar": false,
+    "motivo": "Duplicado por Snapping"
+  }
+]

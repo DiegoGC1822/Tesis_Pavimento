@@ -1,0 +1,699 @@
+[
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "001",
+    "pci_clase": "Fair",
+    "pci_numérico": 69,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.10398526117991,
+      -77.03701779536482
+    ],
+    "heading": 8.495002580240907,
+    "pano_id": "z8LQgu-0bYxPtDb_tn9csQ",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "001",
+    "pci_clase": "Fair",
+    "pci_numérico": 69,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.10385011024622,
+      -77.03699715000994
+    ],
+    "heading": 8.544964542475384,
+    "pano_id": "VPwUt8i4ETKaB_LyCjQKOQ",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "001",
+    "pci_clase": "Fair",
+    "pci_numérico": 69,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.10376149704859,
+      -77.03698353285903
+    ],
+    "heading": 8.481251917038946,
+    "pano_id": "kkWCGZu7UizPbIzEfbuiRw",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "001",
+    "pci_clase": "Fair",
+    "pci_numérico": 69,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -12.10371598854588,
+      -77.0369765925041
+    ],
+    "heading": 8.528783695633535,
+    "pano_id": "knI8m519cUHwpuMYhTH4Cw",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "002",
+    "pci_clase": "Poor",
+    "pci_numérico": 35,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.10362720465468,
+      -77.03696297535087
+    ],
+    "heading": 8.529004229865564,
+    "pano_id": "8bhPGonVEYcB5l71slgTZA",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "002",
+    "pci_clase": "Poor",
+    "pci_numérico": 35,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.10358367303981,
+      -77.0369562985526
+    ],
+    "heading": 6.49355143665349,
+    "pano_id": "Xjdxs-Dsmno14XEYMGxcIA",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "002",
+    "pci_clase": "Poor",
+    "pci_numérico": 35,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.10344858402597,
+      -77.03694057293417
+    ],
+    "heading": 6.396929760838816,
+    "pano_id": "fHGpd3GrGb7udiaDv7s7hg",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "002",
+    "pci_clase": "Poor",
+    "pci_numérico": 35,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -12.10336966706548,
+      -77.0369315241137
+    ],
+    "heading": 7.375332960871447,
+    "pano_id": "_w6zVHHpyDoOVvWGLg3SPA",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "004",
+    "pci_clase": "Good",
+    "pci_numérico": 100,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.10290247187263,
+      -77.0368696758469
+    ],
+    "heading": 7.6603421463526615,
+    "pano_id": "0rvmh3HGL9iD7zJBnJi2BA",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "004",
+    "pci_clase": "Good",
+    "pci_numérico": 100,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.10276707616747,
+      -77.03685105107854
+    ],
+    "heading": 7.6843696865313404,
+    "pano_id": "2h-R7fGMUrurSF9O8P1Gig",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "005",
+    "pci_clase": "Good",
+    "pci_numérico": 92,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.10267603689256,
+      -77.03683848814354
+    ],
+    "heading": 7.6748464955189775,
+    "pano_id": "VLM8SyaujbdT41erke3_tQ",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "005",
+    "pci_clase": "Good",
+    "pci_numérico": 92,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.10258233349407,
+      -77.03682557379642
+    ],
+    "heading": 8.047678130744316,
+    "pano_id": "kSmWeeqhFz2dB1ICJoC6qg",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "005",
+    "pci_clase": "Good",
+    "pci_numérico": 92,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.10248877197985,
+      -77.0368120444789
+    ],
+    "heading": 8.242280881367378,
+    "pano_id": "DGk5TYCqdQ0iMsUp0AR0_Q",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "005",
+    "pci_clase": "Good",
+    "pci_numérico": 92,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -12.10239863513169,
+      -77.03679869086534
+    ],
+    "heading": 8.151278545321134,
+    "pano_id": "-VIqFNOXRyQYGYpzAeSX0w",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "006",
+    "pci_clase": "Poor",
+    "pci_numérico": 40,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.10235365629176,
+      -77.03679210191072
+    ],
+    "heading": 8.234056484785128,
+    "pano_id": "ozvzgnVlYxA2WFr7pSnukA",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "006",
+    "pci_clase": "Poor",
+    "pci_numérico": 40,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.1022206884028,
+      -77.03677242289749
+    ],
+    "heading": 8.250998432903998,
+    "pano_id": "C24pdvS9X0YFBYe4RN7fIg",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "006",
+    "pci_clase": "Poor",
+    "pci_numérico": 40,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.10217863006347,
+      -77.03676618535242
+    ],
+    "heading": 8.217154125287323,
+    "pano_id": "SsBDdlrKuODZEJtrdc3c5A",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "006",
+    "pci_clase": "Poor",
+    "pci_numérico": 40,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -12.10204360021378,
+      -77.03674624277667
+    ],
+    "heading": 358.48191931654736,
+    "pano_id": "Yd5Dsw8xqqY9oHtonQWbbA",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "007",
+    "pci_clase": "Poor",
+    "pci_numérico": 39,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.10198849789948,
+      -77.03674773627365
+    ],
+    "heading": 354.13491918231597,
+    "pano_id": "mxFYnEOpFfwmVwAMfapTMQ",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "007",
+    "pci_clase": "Poor",
+    "pci_numérico": 39,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.10189985810225,
+      -77.03675704866616
+    ],
+    "heading": 350.1198358130516,
+    "pano_id": "R89x0qSMYj8kBzzdpz6Kvg",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "007",
+    "pci_clase": "Poor",
+    "pci_numérico": 39,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.10181058981495,
+      -77.03677295001395
+    ],
+    "heading": 349.84743960435503,
+    "pano_id": "VB4_our15trCSGP1xttQLw",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "007",
+    "pci_clase": "Poor",
+    "pci_numérico": 39,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -12.10170745586281,
+      -77.03679183835253
+    ],
+    "heading": 350.3046498914694,
+    "pano_id": "oxsW6iukp1N7ISAOX_WcQA",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "008",
+    "pci_clase": "Good",
+    "pci_numérico": 85,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.10166069698158,
+      -77.0368000086562
+    ],
+    "heading": 354.7746786673099,
+    "pano_id": "1-djziWqc_J6yc3xzTb_YQ",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "008",
+    "pci_clase": "Good",
+    "pci_numérico": 85,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.10147847516961,
+      -77.03681705208362
+    ],
+    "heading": 2.510760835157214,
+    "pano_id": "69fUF8w85-sJGetb62CbGw",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "008",
+    "pci_clase": "Good",
+    "pci_numérico": 85,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.10135505808251,
+      -77.03681151736261
+    ],
+    "heading": 3.7215059462797626,
+    "pano_id": "JliK6jONzo3G1B-vLW-MTQ",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "009",
+    "pci_clase": "Poor",
+    "pci_numérico": 49,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.10130091136836,
+      -77.03680791540118
+    ],
+    "heading": 3.973226076186961,
+    "pano_id": "LT2Emb9ZKWezls7-w4fJ3A",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "009",
+    "pci_clase": "Poor",
+    "pci_numérico": 49,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.10105480003671,
+      -77.03679043270883
+    ],
+    "heading": 9.390040074693673,
+    "pano_id": "FERzoRboVauY5qgozKdGCA",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "010",
+    "pci_clase": "Good",
+    "pci_numérico": 100,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.1009618195634,
+      -77.03677470706882
+    ],
+    "heading": 11.484680912406873,
+    "pano_id": "r50wE31T-CAveu9R22dnMw",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "010",
+    "pci_clase": "Good",
+    "pci_numérico": 100,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.10087134167919,
+      -77.03675590658031
+    ],
+    "heading": 11.481634374312705,
+    "pano_id": "BOpOXi7JsQ4dcPMqZv0VSw",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "010",
+    "pci_clase": "Good",
+    "pci_numérico": 100,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.10077957035917,
+      -77.03673684253059
+    ],
+    "heading": 11.517654114818924,
+    "pano_id": "V8BUCtIu-9reDJBRm2v1qg",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "010",
+    "pci_clase": "Good",
+    "pci_numérico": 100,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -12.10068978004059,
+      -77.03671812988897
+    ],
+    "heading": 11.483699147558582,
+    "pano_id": "I0lu5Yee3GFb0KFuHSjD0g",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "011",
+    "pci_clase": "Good",
+    "pci_numérico": 89,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.10059887124383,
+      -77.03669924153887
+    ],
+    "heading": 12.172540628306649,
+    "pano_id": "VbLL0Vf0RnUQlXV9V7mBZg",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "011",
+    "pci_clase": "Good",
+    "pci_numérico": 89,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.1005152427332,
+      -77.03668079244989
+    ],
+    "heading": 29.272540608220993,
+    "pano_id": "qqmrST4KOOfva00r1KRglQ",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "011",
+    "pci_clase": "Good",
+    "pci_numérico": 89,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.10043325632322,
+      -77.03663379118665
+    ],
+    "heading": 28.44922138863268,
+    "pano_id": "ROrQWHpDa0i2tEe-xghdxg",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "011",
+    "pci_clase": "Good",
+    "pci_numérico": 89,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -12.10035239848497,
+      -77.03658898622709
+    ],
+    "heading": 28.53562357760586,
+    "pano_id": "QWYH631QjQ7vX06Mol6zkA",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "012",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 15,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.10027214685069,
+      -77.03654435695675
+    ],
+    "heading": 26.200606920709333,
+    "pano_id": "vLpd3Q3Podpsu0g40_BArQ",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "012",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 15,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.10023356703771,
+      -77.03652494146198
+    ],
+    "heading": 8.454555829125582,
+    "pano_id": "O3jlmbXdMVjrv1TLrVjArA",
+    "fecha_real_google": "2022-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "016",
+    "pci_clase": "Good",
+    "pci_numérico": 92,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.09900491848524,
+      -77.03633816599985
+    ],
+    "heading": 6.409450516228901,
+    "pano_id": "xVrk59jr6QJT0SMqRwU09A",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "016",
+    "pci_clase": "Good",
+    "pci_numérico": 92,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.09885962708642,
+      -77.03632147391723
+    ],
+    "heading": 6.412034626378954,
+    "pano_id": "6ov9Tq152TXm-ThJcpTL4A",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "016",
+    "pci_clase": "Good",
+    "pci_numérico": 92,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.09876637258486,
+      -77.03631075584191
+    ],
+    "heading": 6.404491785373409,
+    "pano_id": "YE-Efo8e-yxno0DMNhg0Ew",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LosConquistadores_2021",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "016",
+    "pci_clase": "Good",
+    "pci_numérico": 92,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -12.09867912960735,
+      -77.03630074059033
+    ],
+    "heading": 6.404491785373409,
+    "pano_id": "QkOcfwixn9ZeieQGZ8POgg",
+    "fecha_real_google": "2022-08",
+    "descargar": true
+  }
+]

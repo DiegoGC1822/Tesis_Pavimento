@@ -1,0 +1,2127 @@
+[
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 01",
+    "pci_clase": "Fair",
+    "pci_numérico": 58,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.87281672337456,
+      -77.12519581392867
+    ],
+    "heading": 348.2706145008983,
+    "pano_id": "d9Ulbk-y4YjsyS9cOSWT1A",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 01",
+    "pci_clase": "Fair",
+    "pci_numérico": 58,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.87269921115545,
+      -77.12522074576297
+    ],
+    "heading": 348.2656581703238,
+    "pano_id": "XQX9tQOtb408_QHOcYRmuA",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 01",
+    "pci_clase": "Fair",
+    "pci_numérico": 58,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.87258009557595,
+      -77.12524602874456
+    ],
+    "heading": 348.21084358244354,
+    "pano_id": "upGAoxzNHerKgoxn_xQU9g",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 02",
+    "pci_clase": "Good",
+    "pci_numérico": 84,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.87248706995216,
+      -77.12526586885832
+    ],
+    "heading": 348.2774843303994,
+    "pano_id": "ODuJF8UGSBeLKUCR3p_vDw",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 02",
+    "pci_clase": "Good",
+    "pci_numérico": 84,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.87243945707824,
+      -77.12527596449017
+    ],
+    "heading": 350.17520132982247,
+    "pano_id": "ybsyOwCpzlyqH2l0YuBwJw",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 02",
+    "pci_clase": "Good",
+    "pci_numérico": 84,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.87234619280554,
+      -77.1252924686517
+    ],
+    "heading": 350.74987841367437,
+    "pano_id": "468NlJNWyBApZ0Y6CNPjUA",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 02",
+    "pci_clase": "Good",
+    "pci_numérico": 84,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.8722275050147,
+      -77.12531222096968
+    ],
+    "heading": 350.78485064302197,
+    "pano_id": "ujmArs21VfN-4yhV4j8urA",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 03",
+    "pci_clase": "Poor",
+    "pci_numérico": 48,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.87212954039982,
+      -77.125328461762
+    ],
+    "heading": 350.72510595935125,
+    "pano_id": "LsDNT4hJVyFXnn9a6SC0Yg",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 03",
+    "pci_clase": "Poor",
+    "pci_numérico": 48,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.87202853538272,
+      -77.12534531706848
+    ],
+    "heading": 350.79022279293315,
+    "pano_id": "LSwQH8QRfJqyUR3hmRgkqg",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 03",
+    "pci_clase": "Poor",
+    "pci_numérico": 48,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.87196813215052,
+      -77.12535532490557
+    ],
+    "heading": 355.1521522930804,
+    "pano_id": "09vD_MMrgwJ8zxWgJSH5KQ",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 03",
+    "pci_clase": "Poor",
+    "pci_numérico": 48,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.87188101994057,
+      -77.12536287467685
+    ],
+    "heading": 7.79106012228965,
+    "pano_id": "wEbGebzADeTpjp9xuh_MCg",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 04",
+    "pci_clase": "Fair",
+    "pci_numérico": 64,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.87168386270389,
+      -77.12533530923055
+    ],
+    "heading": 343.04756016833704,
+    "pano_id": "wMtHkjLUyQ8qXC0nr69Ynw",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 04",
+    "pci_clase": "Fair",
+    "pci_numérico": 64,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.87163764150081,
+      -77.12534970647081
+    ],
+    "heading": 340.53126473367456,
+    "pano_id": "bcpOAauJlrIasPwkciFVxA",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 04",
+    "pci_clase": "Fair",
+    "pci_numérico": 64,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.87154918049742,
+      -77.12538166131496
+    ],
+    "heading": 339.31146388180713,
+    "pano_id": "k983dZqnrYhChuBj3KYhEg",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 05",
+    "pci_clase": "Fair",
+    "pci_numérico": 66,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.87146182325159,
+      -77.12541537191053
+    ],
+    "heading": 338.9672385478202,
+    "pano_id": "Gpurq0jbdpWdt5ZagzUWqg",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 05",
+    "pci_clase": "Fair",
+    "pci_numérico": 66,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.87141870276575,
+      -77.12543231499274
+    ],
+    "heading": 354.55921708714556,
+    "pano_id": "p56aFh2GJxsJi7Lk9qZ71g",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 06",
+    "pci_clase": "Good",
+    "pci_numérico": 71,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.87099837788484,
+      -77.1254732241865
+    ],
+    "heading": 5.40404241222285,
+    "pano_id": "oLimwUBxm50bxQRxhmD6-A",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 06",
+    "pci_clase": "Good",
+    "pci_numérico": 71,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.87091301139919,
+      -77.12546497211851
+    ],
+    "heading": 5.414418417589957,
+    "pano_id": "yyqUhMGFyN-YXT19D3p45g",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 06",
+    "pci_clase": "Good",
+    "pci_numérico": 71,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.87082327742926,
+      -77.1254562811101
+    ],
+    "heading": 5.423159317612374,
+    "pano_id": "dk2ER4Rg8kV0xifiopeUAQ",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 07",
+    "pci_clase": "Fair",
+    "pci_numérico": 55,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.87077712578093,
+      -77.12545180392371
+    ],
+    "heading": 5.44344167956433,
+    "pano_id": "ekorhsgxnOXCtXyDAD4EuA",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 07",
+    "pci_clase": "Fair",
+    "pci_numérico": 55,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.87068336535259,
+      -77.12544267397446
+    ],
+    "heading": 5.38986917292641,
+    "pano_id": "CYR3qYN9rhV0TEppunqLeg",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 07",
+    "pci_clase": "Fair",
+    "pci_numérico": 55,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.87058866735027,
+      -77.12543354402452
+    ],
+    "heading": 5.409238202108611,
+    "pano_id": "JpGvA4h2ieXAK7Vee1Ujzw",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 07",
+    "pci_clase": "Fair",
+    "pci_numérico": 55,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.87049431040855,
+      -77.12542441407388
+    ],
+    "heading": 5.450923546514275,
+    "pano_id": "C9ivMNGXZOLboUGPynP4oQ",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 08",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 14,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.87039977903507,
+      -77.12541519633454
+    ],
+    "heading": 5.410545190371067,
+    "pano_id": "gJneEGMZxG1fjrkL3bG7ww",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 08",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 14,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.87020113312121,
+      -77.12539597076164
+    ],
+    "heading": 5.969864964679232,
+    "pano_id": "Nfwx21_k46ZKQ2MZTLaBmA",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 09",
+    "pci_clase": "Good",
+    "pci_numérico": 86,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.86989223271529,
+      -77.12536296246489
+    ],
+    "heading": 6.18520029275146,
+    "pano_id": "PShXzQoBq-8JqLHzv8z1xg",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 09",
+    "pci_clase": "Good",
+    "pci_numérico": 86,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.86981058147764,
+      -77.1253539202969
+    ],
+    "heading": 6.1667437138339665,
+    "pano_id": "OVl4JdVNYk41lXY-hl9BnQ",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 10",
+    "pci_clase": "Good",
+    "pci_numérico": 86,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.86974538149085,
+      -77.12534672167725
+    ],
+    "heading": 6.155531784837763,
+    "pano_id": "V1a_hB8JBx7n1oFqJlKtxg",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 10",
+    "pci_clase": "Good",
+    "pci_numérico": 86,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.86967846864159,
+      -77.12533934748103
+    ],
+    "heading": 6.1791570596494125,
+    "pano_id": "rL6WmSECKcgCjlKfQLh_sw",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 10",
+    "pci_clase": "Good",
+    "pci_numérico": 86,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.86954198444578,
+      -77.12532424793503
+    ],
+    "heading": 6.2465002472915785,
+    "pano_id": "E71497GHjiw5GP2_giB5Kw",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 10",
+    "pci_clase": "Good",
+    "pci_numérico": 86,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.86947840826298,
+      -77.12531713710163
+    ],
+    "heading": 6.166274757067811,
+    "pano_id": "uJu-2qqR51Pjj5PnB-nWoQ",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 10",
+    "pci_clase": "Good",
+    "pci_numérico": 86,
+    "punto_sobremuestreo": 5,
+    "coordenada_calculada": [
+      -11.86940207060075,
+      -77.12530870944671
+    ],
+    "heading": 6.1868482169124945,
+    "pano_id": "8IB1qLsNiDtVp-WHw8GNsA",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 11",
+    "pci_clase": "Good",
+    "pci_numérico": 82,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.86930696826194,
+      -77.12529817487722
+    ],
+    "heading": 6.160231108375228,
+    "pano_id": "-EF2eOIrsjNVeIXKEsbp5g",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 11",
+    "pci_clase": "Good",
+    "pci_numérico": 82,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.86916448944998,
+      -77.12528246080933
+    ],
+    "heading": 6.163375467332969,
+    "pano_id": "xGyxVE0S11BCWImyB4IelA",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 11",
+    "pci_clase": "Good",
+    "pci_numérico": 82,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.86910880010834,
+      -77.12527631564255
+    ],
+    "heading": 6.020390281413427,
+    "pano_id": "ZV-U8lGcpxO-BFoknRRRqQ",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 12",
+    "pci_clase": "Good",
+    "pci_numérico": 88,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.86897439076801,
+      -77.12526183060534
+    ],
+    "heading": 5.5307714980523315,
+    "pano_id": "HuTTBU4T15du3UXZFfcQow",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 12",
+    "pci_clase": "Good",
+    "pci_numérico": 88,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.86887857014753,
+      -77.12525234948913
+    ],
+    "heading": 5.5950783330407035,
+    "pano_id": "c0NYzptTSGy4_iE7yvTGJw",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 12",
+    "pci_clase": "Good",
+    "pci_numérico": 88,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.86883121393729,
+      -77.12524760893074
+    ],
+    "heading": 5.344519952871622,
+    "pano_id": "lRvSorKr-T0hoZTCU-rjCQ",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 14",
+    "pci_clase": "Good",
+    "pci_numérico": 88,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.86832153588498,
+      -77.12519888651416
+    ],
+    "heading": 4.918609607551673,
+    "pano_id": "2zBYP7FRRzZtCaDox2N_vg",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 14",
+    "pci_clase": "Good",
+    "pci_numérico": 88,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.86818177322763,
+      -77.1251865961717
+    ],
+    "heading": 5.251480118923041,
+    "pano_id": "lfUelpW5yOGggg4qsyI80w",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 15",
+    "pci_clase": "Good",
+    "pci_numérico": 70,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.867724702304,
+      -77.12514366775137
+    ],
+    "heading": 6.2887707084850035,
+    "pano_id": "hKPikiAtals5fXj4xsJ_Pw",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 16",
+    "pci_clase": "Good",
+    "pci_numérico": 74,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.86758203918457,
+      -77.12512760251035
+    ],
+    "heading": 6.256820151979582,
+    "pano_id": "S8T38e1YFPxHCb3ektPtMg",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 16",
+    "pci_clase": "Good",
+    "pci_numérico": 74,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.86749584392951,
+      -77.12511794580706
+    ],
+    "heading": 6.2568256523983905,
+    "pano_id": "3nUPFdjK2HEx4LQt7nMa0A",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 16",
+    "pci_clase": "Good",
+    "pci_numérico": 74,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.86745274633084,
+      -77.12511311745513
+    ],
+    "heading": 6.274565088752695,
+    "pano_id": "a0X3vHKpmi3EOi2tyTt_MQ",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 16",
+    "pci_clase": "Good",
+    "pci_numérico": 74,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.86736757810296,
+      -77.12510354853887
+    ],
+    "heading": 6.273363771604409,
+    "pano_id": "thKUlaMXo9809fscxrOtZg",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 17",
+    "pci_clase": "Fair",
+    "pci_numérico": 68,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.86721909096931,
+      -77.1250868687748
+    ],
+    "heading": 6.261127183585927,
+    "pano_id": "NeuXqVQTDpqIn1IbCQb5Dg",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 17",
+    "pci_clase": "Fair",
+    "pci_numérico": 68,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.86712904008095,
+      -77.125076773127
+    ],
+    "heading": 6.277463522244943,
+    "pano_id": "iLwCroinvdPezXuNCPKqHg",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 17",
+    "pci_clase": "Fair",
+    "pci_numérico": 68,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.86704078737562,
+      -77.12506685305485
+    ],
+    "heading": 6.26973699053741,
+    "pano_id": "4ZRIoNs1bUWTx-1QO2puUA",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 17",
+    "pci_clase": "Fair",
+    "pci_numérico": 68,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.86697275617269,
+      -77.1250592154766
+    ],
+    "heading": 6.252959261388298,
+    "pano_id": "nqBFzIgZSzOY_vm4sZTt0A",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 18",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 10,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.86687945027813,
+      -77.1250487686734
+    ],
+    "heading": 6.316268624700342,
+    "pano_id": "ET048bfAaXDDtvwdtUDgfw",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 18",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 10,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.86678631091359,
+      -77.125038234081
+    ],
+    "heading": 7.6411798876283115,
+    "pano_id": "a3T8Y66e6sTluZa1zuENuA",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 18",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 10,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.86669409759199,
+      -77.1250255925689
+    ],
+    "heading": 8.990132223257149,
+    "pano_id": "8eAS-RDbGXekv2TjC9Hj_w",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 19",
+    "pci_clase": "Fair",
+    "pci_numérico": 64,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.8666034110219,
+      -77.12501093192473
+    ],
+    "heading": 8.933103972090294,
+    "pano_id": "SSLQQzAt7doWgBaqL_AtAw",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 19",
+    "pci_clase": "Fair",
+    "pci_numérico": 64,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.86651049621836,
+      -77.12499600791384
+    ],
+    "heading": 8.966029306799328,
+    "pano_id": "cRGN7Iq3tajXlYjGbBbwdQ",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 19",
+    "pci_clase": "Fair",
+    "pci_numérico": 64,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.86641302751679,
+      -77.12498029380625
+    ],
+    "heading": 8.961947338697257,
+    "pano_id": "Df4XYDJYrcE_Yl_bKZ2CRw",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 19",
+    "pci_clase": "Fair",
+    "pci_numérico": 64,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.86630843162315,
+      -77.12496343844832
+    ],
+    "heading": 27.668134362570015,
+    "pano_id": "Vck-Gd1Py773upL-3Bz3XA",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 20",
+    "pci_clase": "Fair",
+    "pci_numérico": 62,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.86628090310848,
+      -77.12494869000818
+    ],
+    "heading": 34.229452868088686,
+    "pano_id": "YfmmLILzArjo5upcxGwiXw",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 20",
+    "pci_clase": "Fair",
+    "pci_numérico": 62,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.86621864878615,
+      -77.12490541034894
+    ],
+    "heading": 5.898947267040057,
+    "pano_id": "VZj6pmulrcoXySqZ1eLG1A",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 20",
+    "pci_clase": "Fair",
+    "pci_numérico": 62,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.86616460086968,
+      -77.12489970410468
+    ],
+    "heading": 7.130430349800122,
+    "pano_id": "1o4evrKZTUF_4gb5IvXiVw",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 20",
+    "pci_clase": "Fair",
+    "pci_numérico": 62,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.86602312578581,
+      -77.12488161969794
+    ],
+    "heading": 7.023769317676965,
+    "pano_id": "RSZ0vABHWa74C0dv6v7tDw",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 20",
+    "pci_clase": "Fair",
+    "pci_numérico": 62,
+    "punto_sobremuestreo": 5,
+    "coordenada_calculada": [
+      -11.86599174687275,
+      -77.1248776692204
+    ],
+    "heading": 7.138959321850564,
+    "pano_id": "a-aaFhDckRplRWDzeKZlOQ",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 21",
+    "pci_clase": "Good",
+    "pci_numérico": 72,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.86590051636909,
+      -77.12486599336373
+    ],
+    "heading": 5.939690455439006,
+    "pano_id": "_PkhgnBWoelvUoMZj6ZMGA",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 21",
+    "pci_clase": "Good",
+    "pci_numérico": 72,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.86580637933783,
+      -77.12485598548567
+    ],
+    "heading": 5.941636733739813,
+    "pano_id": "YCKICoH8hDAgKwglzTnhLw",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 21",
+    "pci_clase": "Good",
+    "pci_numérico": 72,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.86571309881611,
+      -77.12484606539519
+    ],
+    "heading": 5.89503748550942,
+    "pano_id": "fB-WFvLyFsOgIAAT0_5J3w",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 21",
+    "pci_clase": "Good",
+    "pci_numérico": 72,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.86561990766001,
+      -77.12483623309232
+    ],
+    "heading": 5.915393306519093,
+    "pano_id": "eezrX2R8is7rT_fSy3zCLw",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 22",
+    "pci_clase": "Good",
+    "pci_numérico": 82,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.86547977610495,
+      -77.12482139684806
+    ],
+    "heading": 5.927357083335096,
+    "pano_id": "RXCBkhATGFY4SGK_BK5DKQ",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 22",
+    "pci_clase": "Good",
+    "pci_numérico": 82,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.86538709659981,
+      -77.12481156454317
+    ],
+    "heading": 5.868217393478687,
+    "pano_id": "qcwnZzVIET5WIQzAyOsNQA",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 22",
+    "pci_clase": "Good",
+    "pci_numérico": 82,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.86534195828376,
+      -77.1248068239673
+    ],
+    "heading": 5.694699288109007,
+    "pano_id": "ot8TGEjWjZbOYpw6jGGfoA",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 23",
+    "pci_clase": "Fair",
+    "pci_numérico": 62,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.86522737329008,
+      -77.12479514810371
+    ],
+    "heading": 4.8865959676856505,
+    "pano_id": "xWlixOMhgdMY3v0_uKy4gQ",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 23",
+    "pci_clase": "Fair",
+    "pci_numérico": 62,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.86513391836652,
+      -77.12478698377737
+    ],
+    "heading": 4.886602613591208,
+    "pano_id": "-hJeBz-45dBHpFoiqfezNQ",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 23",
+    "pci_clase": "Fair",
+    "pci_numérico": 62,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.86504046353225,
+      -77.12477881945047
+    ],
+    "heading": 4.856566710512311,
+    "pano_id": "jIM8GHsOYgaVCFvppxQp8w",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 23",
+    "pci_clase": "Fair",
+    "pci_numérico": 62,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.86494743901171,
+      -77.1247707429115
+    ],
+    "heading": 4.895502678186801,
+    "pano_id": "gtmziahYtMVrfIdnu4PqMQ",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 24",
+    "pci_clase": "Poor",
+    "pci_numérico": 28,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.86485415483019,
+      -77.12476257858349
+    ],
+    "heading": 4.904428456407686,
+    "pano_id": "o3os0NYZOj5-8zutuQk-mg",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 24",
+    "pci_clase": "Poor",
+    "pci_numérico": 28,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.86476104121206,
+      -77.12475441425491
+    ],
+    "heading": 4.865460107510614,
+    "pano_id": "yX_LKTfA8mxbGMDa8aBwEA",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 24",
+    "pci_clase": "Poor",
+    "pci_numérico": 28,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.86466818743149,
+      -77.12474633771429
+    ],
+    "heading": 4.907192509736888,
+    "pano_id": "MGpGd41_R3h_yeSQO35Tug",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 24",
+    "pci_clase": "Poor",
+    "pci_numérico": 28,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.86457712775462,
+      -77.1247383489616
+    ],
+    "heading": 4.836331648528471,
+    "pano_id": "Lrp8wksNxwwYllFdxM5vSw",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 25",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 9,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.86448675813327,
+      -77.12473053578537
+    ],
+    "heading": 4.873191134844035,
+    "pano_id": "yM57r3dCuaEDuW3_bC6uBQ",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 25",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 9,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.86441521338861,
+      -77.12472430280174
+    ],
+    "heading": 4.912795162508019,
+    "pano_id": "kA9Ath7HuIonFJIJjKnbgA",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 25",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 9,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.8643062667766,
+      -77.12471473385438
+    ],
+    "heading": 3.990831044778872,
+    "pano_id": "yeW70auE3vI6a_W3lwInUQ",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 25",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 9,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.86421390824697,
+      -77.12470814971586
+    ],
+    "heading": 358.7490642030187,
+    "pano_id": "9rfq4x0rPlP2Rz3fkw9qwg",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 26",
+    "pci_clase": "Fair",
+    "pci_numérico": 56,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.86408013867986,
+      -77.12471113452537
+    ],
+    "heading": 358.8677883631385,
+    "pano_id": "4726AKMndlOKDP_hCq_J1g",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 26",
+    "pci_clase": "Fair",
+    "pci_numérico": 56,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.86398884983276,
+      -77.12471297808415
+    ],
+    "heading": 358.84823981563454,
+    "pano_id": "zGqQD5PFh-aXvTI0nOQolg",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 26",
+    "pci_clase": "Fair",
+    "pci_numérico": 56,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.86394184367342,
+      -77.12471394375778
+    ],
+    "heading": 358.80987315779555,
+    "pano_id": "rE6enCO9MuZ19ao_489aOA",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 27",
+    "pci_clase": "Poor",
+    "pci_numérico": 43,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.86384672738167,
+      -77.12471596289353
+    ],
+    "heading": 358.86368670948093,
+    "pano_id": "QVe6No4esTAzGDVeYiX8PA",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 27",
+    "pci_clase": "Poor",
+    "pci_numérico": 43,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.86375143666643,
+      -77.12471789424075
+    ],
+    "heading": 358.8162332003677,
+    "pano_id": "_-ljHf66vB2n8CW2BkugNw",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 27",
+    "pci_clase": "Poor",
+    "pci_numérico": 43,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.86365580913012,
+      -77.12471991337645
+    ],
+    "heading": 358.8246106975256,
+    "pano_id": "jZFGV8H0UP3f7-mmg8fFog",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 27",
+    "pci_clase": "Poor",
+    "pci_numérico": 43,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.86355949979159,
+      -77.1247219325121
+    ],
+    "heading": 358.89056420163513,
+    "pano_id": "RkJBZ85nv9AIs3TasNjchQ",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 28",
+    "pci_clase": "Fair",
+    "pci_numérico": 58,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.86346633620421,
+      -77.12472377607071
+    ],
+    "heading": 358.80826434962006,
+    "pano_id": "pF2WLCqUGK05BS4sUt2V8Q",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 28",
+    "pci_clase": "Fair",
+    "pci_numérico": 58,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.86337547811046,
+      -77.1247257074178
+    ],
+    "heading": 358.8527856929002,
+    "pano_id": "RSHCI-jk6w0iJuV5dGGlXg",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 28",
+    "pci_clase": "Fair",
+    "pci_numérico": 58,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.86328538318238,
+      -77.12472755097636
+    ],
+    "heading": 358.8127155281214,
+    "pano_id": "RW1jR70X-7Ki-NJD-nB-ug",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 28",
+    "pci_clase": "Fair",
+    "pci_numérico": 58,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.86319418430219,
+      -77.12472948232337
+    ],
+    "heading": 358.8725390098736,
+    "pano_id": "0YlaBqEiIX_w-54aV6NCVQ",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 29",
+    "pci_clase": "Poor",
+    "pci_numérico": 45,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.86311124126643,
+      -77.12473115030488
+    ],
+    "heading": 359.4912990308092,
+    "pano_id": "Te4DsQ4se8gUXax14gt3-A",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 29",
+    "pci_clase": "Poor",
+    "pci_numérico": 45,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.86304350705645,
+      -77.12473176482438
+    ],
+    "heading": 359.60894809416095,
+    "pano_id": "_dXzMSVBk8PPKhCbG6fv8g",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 29",
+    "pci_clase": "Poor",
+    "pci_numérico": 45,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.86290504340987,
+      -77.12473273049785
+    ],
+    "heading": 359.5835310527994,
+    "pano_id": "mV_H_3VxaHjvjtUvtGilWg",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 29",
+    "pci_clase": "Poor",
+    "pci_numérico": 45,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.86282230786793,
+      -77.12473334501733
+    ],
+    "heading": 359.6234824143978,
+    "pano_id": "5xwO01DwS9DELBcrr-akow",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 30",
+    "pci_clase": "Poor",
+    "pci_numérico": 40,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.86273079313267,
+      -77.12473395953683
+    ],
+    "heading": 359.5953076500592,
+    "pano_id": "8NXhk5IRHh2YFtFVO2bOXw",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 30",
+    "pci_clase": "Poor",
+    "pci_numérico": 40,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.86263348650479,
+      -77.1247346618448
+    ],
+    "heading": 359.6991385651454,
+    "pano_id": "eu_shs5lGJhkxYN5A6QH8w",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 30",
+    "pci_clase": "Poor",
+    "pci_numérico": 40,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.86258440301126,
+      -77.12473492521028
+    ],
+    "heading": 358.03746430577667,
+    "pano_id": "M-_3LDQseaJu4FLPxBTfeg",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 31",
+    "pci_clase": "Poor",
+    "pci_numérico": 46,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.86244901156094,
+      -77.124739665789
+    ],
+    "heading": 357.1760447260743,
+    "pano_id": "CmHoOyZCiKQDPwdc6zQqOg",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 31",
+    "pci_clase": "Poor",
+    "pci_numérico": 46,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.86240198544807,
+      -77.12474203607829
+    ],
+    "heading": 356.70805267364096,
+    "pano_id": "x6CWBy6eyZJFwaUeuPzn_g",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 31",
+    "pci_clase": "Poor",
+    "pci_numérico": 46,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.8623078843801,
+      -77.1247475667531
+    ],
+    "heading": 356.6466783230696,
+    "pano_id": "czPcGrh3IikYCak3mG3z7w",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 31",
+    "pci_clase": "Poor",
+    "pci_numérico": 46,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.86221404313658,
+      -77.12475318521615
+    ],
+    "heading": 356.6497104896864,
+    "pano_id": "2HyqSjE6Ktx7CZXnoJxhpw",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 31",
+    "pci_clase": "Poor",
+    "pci_numérico": 46,
+    "punto_sobremuestreo": 5,
+    "coordenada_calculada": [
+      -11.86212011673994,
+      -77.12475880367896
+    ],
+    "heading": 356.6617962715503,
+    "pano_id": "g9oy0wFzDvepTesJVzus7Q",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 32",
+    "pci_clase": "Poor",
+    "pci_numérico": 25,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.86202584948555,
+      -77.12476442214147
+    ],
+    "heading": 356.6004083228094,
+    "pano_id": "gmq0dfBac9pONsTeyEPfgg",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 32",
+    "pci_clase": "Poor",
+    "pci_numérico": 25,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.86193184205507,
+      -77.12477012839219
+    ],
+    "heading": 356.34210701379385,
+    "pano_id": "i7VqeYdVbuFl2UYHDcTUDA",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 32",
+    "pci_clase": "Poor",
+    "pci_numérico": 25,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.86183776965492,
+      -77.12477627358498
+    ],
+    "heading": 354.9453596400298,
+    "pano_id": "Q3Kte6i8QzgGXJ7KvG4YwA",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 33",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 24,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.86174355061981,
+      -77.1247847890659
+    ],
+    "heading": 354.8828494662635,
+    "pano_id": "9S7oV1Abg6aptdXKUatcpg",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 33",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 24,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.86165816377669,
+      -77.12479260223859
+    ],
+    "heading": 354.92874533449196,
+    "pano_id": "_xdtIgB5uTWLfJKJAU3trw",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 33",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 24,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.86152456155465,
+      -77.12480471704463
+    ],
+    "heading": 358.98979492583936,
+    "pano_id": "IHQ936HevvVP7ULbbeVcEw",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 33",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 24,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.86143198833699,
+      -77.12480638502508
+    ],
+    "heading": 359.02959497151414,
+    "pano_id": "0gghnIPf9TomqtdxSNcldQ",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 34",
+    "pci_clase": "Poor",
+    "pci_numérico": 48,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.86134068968096,
+      -77.12480796521706
+    ],
+    "heading": 0.5354880080664657,
+    "pano_id": "uX2U5j286J_-NsCaLAQYGg",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 34",
+    "pci_clase": "Poor",
+    "pci_numérico": 48,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.86124876667981,
+      -77.12480708733264
+    ],
+    "heading": 0.8478729403354919,
+    "pano_id": "ZkmDtF9I6EpMke1lIEuZzA",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 34",
+    "pci_clase": "Poor",
+    "pci_numérico": 48,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.86115588196628,
+      -77.12480568271754
+    ],
+    "heading": 0.81930873932248,
+    "pano_id": "8gx_ndUmFokjvabPw6dJCw",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 35",
+    "pci_clase": "Fair",
+    "pci_numérico": 59,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.86105975843905,
+      -77.1248042781024
+    ],
+    "heading": 0.7736290010092262,
+    "pano_id": "sF5O5Rhqe5MOdI9NoU8uOw",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 35",
+    "pci_clase": "Fair",
+    "pci_numérico": 59,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.86096432091129,
+      -77.12480296127572
+    ],
+    "heading": 0.8333488448427602,
+    "pano_id": "8imQiYqRYe8ZYkdS9ma1oA",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 35",
+    "pci_clase": "Fair",
+    "pci_numérico": 59,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.86086981701044,
+      -77.12480155666057
+    ],
+    "heading": 0.8113036967705511,
+    "pano_id": "UA90hmsaBB8zg0FiFLvuOQ",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 35",
+    "pci_clase": "Fair",
+    "pci_numérico": 59,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.86077881182434,
+      -77.12480023983385
+    ],
+    "heading": 0.8082770283053833,
+    "pano_id": "8kyVm_rbvaRb8saZOZwJ-Q",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 36",
+    "pci_clase": "Fair",
+    "pci_numérico": 67,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.86068746578392,
+      -77.1247989230071
+    ],
+    "heading": 0.8528351803017244,
+    "pano_id": "o78ZcWan1KjSvjo27CaTwQ",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 36",
+    "pci_clase": "Fair",
+    "pci_numérico": 67,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.86058357835222,
+      -77.124797342815
+    ],
+    "heading": 359.17129368402,
+    "pano_id": "gWruQEs7C9KMpgx0qapKtg",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 36",
+    "pci_clase": "Fair",
+    "pci_numérico": 67,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.86049448441351,
+      -77.12479865964177
+    ],
+    "heading": 356.80508794041185,
+    "pano_id": "OkhgA8-Ey85zge-O1S1SXQ",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 36",
+    "pci_clase": "Fair",
+    "pci_numérico": 67,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.86040675333915,
+      -77.1248036635833
+    ],
+    "heading": 356.8375295396423,
+    "pano_id": "J0WZjNlGPhXBuwIhm0_F1Q",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 37",
+    "pci_clase": "Fair",
+    "pci_numérico": 59,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.86032123033667,
+      -77.12480849194772
+    ],
+    "heading": 356.3148498873553,
+    "pano_id": "rJIuKlyvJMVml3Sz-vWY8g",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 37",
+    "pci_clase": "Fair",
+    "pci_numérico": 59,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.86020651220625,
+      -77.12481604175355
+    ],
+    "heading": 355.5908347659928,
+    "pano_id": "xCeu1N4gsKJkVYn-2rdfAw",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 37",
+    "pci_clase": "Fair",
+    "pci_numérico": 59,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.86012294521838,
+      -77.12482262588613
+    ],
+    "heading": 355.54650101153567,
+    "pano_id": "ha0GcdU0GCNp1zIh1vSKxQ",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_LaRevolucion_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM 38",
+    "pci_clase": "Poor",
+    "pci_numérico": 26,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.86001925468238,
+      -77.12483087799846
+    ],
+    "heading": 355.54650101153567,
+    "pano_id": "jmRe31ZiKLwZKeNYHafBWQ",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  }
+]

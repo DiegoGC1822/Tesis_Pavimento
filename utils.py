@@ -1,4 +1,5 @@
 from geopy.distance import geodesic
+import math
 
 def progresiva_a_metros(progresiva_str):
     """Transforma una cadena tipo '1+035.4' a flotante en metros."""
@@ -61,3 +62,23 @@ def validar_año_panorama(fecha_google, año_objetivo):
         return True, "Año correcto"
     else:
         return False, f"Año incorrecto (Encontrado: {año_panorama}, Esperado: {año_esperado})"
+
+def calcular_bearing(lat1, lon1, lat2, lon2):
+    """
+    Calcula el bearing (azimut) entre dos coordenadas.
+    """
+    # Convertir a radianes
+    lat1, lon1, lat2, lon2 = map(math.radians, [lat1, lon1, lat2, lon2])
+    
+    dLon = lon2 - lon1
+    
+    x = math.sin(dLon) * math.cos(lat2)
+    y = math.cos(lat1) * math.sin(lat2) - (math.sin(lat1) * math.cos(lat2) * math.cos(dLon))
+    
+    initial_bearing = math.atan2(x, y)
+    
+    # Convertir a grados y normalizar (0 a 360)
+    initial_bearing = math.degrees(initial_bearing)
+    compass_bearing = (initial_bearing + 360) % 360
+    
+    return compass_bearing

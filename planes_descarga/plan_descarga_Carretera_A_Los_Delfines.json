@@ -1,0 +1,376 @@
+[
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-01",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 8.05,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.87168315827988,
+      -77.1392163404349
+    ],
+    "heading": 317.2153887072792,
+    "pano_id": "EpXRVWyP3QT63n_QsfU1Ew",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-01",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 8.05,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.87162041605331,
+      -77.13927567825061
+    ],
+    "heading": 317.233531033269,
+    "pano_id": "ns5t3u6glrAatoOJl0g_cg",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-01",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 8.05,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.87155048276344,
+      -77.1393417749248
+    ],
+    "heading": 318.5186572831317,
+    "pano_id": "I8PVws2A-hGYJeG0Sf5wqw",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-07",
+    "pci_clase": "Poor",
+    "pci_numérico": 38.55,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.87025392884476,
+      -77.14051316342984
+    ],
+    "heading": 321.5548716481683,
+    "pano_id": "aiTCrM3ZMFhIYHlyGZKwlA",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-07",
+    "pci_clase": "Poor",
+    "pci_numérico": 38.55,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.87016541838616,
+      -77.14058496491404
+    ],
+    "heading": 323.2651511350493,
+    "pano_id": "uLuxXtXOSibn6qH31whiMw",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-07",
+    "pci_clase": "Poor",
+    "pci_numérico": 38.55,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.8700918711892,
+      -77.14064105430745
+    ],
+    "heading": 323.1734231344599,
+    "pano_id": "6ShyR1zioFvPlN_5avTffA",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-07",
+    "pci_clase": "Poor",
+    "pci_numérico": 38.55,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.87003290834117,
+      -77.14068617157817
+    ],
+    "heading": 321.3864428013979,
+    "pano_id": "0mZxVYZr33P2DY9GS5jwEg",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-13",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 5.905,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.86847145567798,
+      -77.14196050798878
+    ],
+    "heading": 320.10504511517064,
+    "pano_id": "jEQvxMK1-1Do3eMxnNdxJQ",
+    "fecha_real_google": "2023-03",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-25",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 6.88,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.86542296975715,
+      -77.14456461310948
+    ],
+    "heading": 319.82413142224345,
+    "pano_id": "_73ohHNKcF-WswZwdwo9Jw",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-25",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 6.88,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.86539550157531,
+      -77.14458831206588
+    ],
+    "heading": 320.1302469465936,
+    "pano_id": "8SB6FPdVGUaz4xTNcePu3A",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-31",
+    "pci_clase": "Fair",
+    "pci_numérico": 58.69,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.8638578822456,
+      -77.14590061248346
+    ],
+    "heading": 320.5786568279347,
+    "pano_id": "JoLG9bVJ3HvYjFMy4rJOPw",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-31",
+    "pci_clase": "Fair",
+    "pci_numérico": 58.69,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.86378672144257,
+      -77.14596038583933
+    ],
+    "heading": 320.0126150160314,
+    "pano_id": "-zQiqQvrLdyfHCRpr7-vaQ",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-37",
+    "pci_clase": "Poor",
+    "pci_numérico": 46.96,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.86228838662694,
+      -77.14724449636682
+    ],
+    "heading": 319.95975091358196,
+    "pano_id": "S0EpChiKuCxUSaaXaeGiuQ",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-37",
+    "pci_clase": "Poor",
+    "pci_numérico": 46.96,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.86221580844936,
+      -77.1473068144343
+    ],
+    "heading": 320.5717959680355,
+    "pano_id": "gdZXf35ciq4II_rDpUqnXg",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-43",
+    "pci_clase": "Poor",
+    "pci_numérico": 44.01,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.86070101269164,
+      -77.14857950023695
+    ],
+    "heading": 313.63163352343383,
+    "pano_id": "GO8ocOPe6KnP8OsE1xoorg",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-43",
+    "pci_clase": "Poor",
+    "pci_numérico": 44.01,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.86063910448514,
+      -77.14864585506893
+    ],
+    "heading": 306.60360571446927,
+    "pano_id": "axkp4hPMvptOW16YKc4F2w",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-49",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 4.37,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.8594784320967,
+      -77.15024257290416
+    ],
+    "heading": 297.6500538401101,
+    "pano_id": "A9EnZWb3E7xZNokUCkiwhA",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-49",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 4.37,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.8594526914827,
+      -77.15029277718584
+    ],
+    "heading": 294.77587229614795,
+    "pano_id": "Izbj9uDKIK6gSkZgxr9Pvw",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-55",
+    "pci_clase": "Poor",
+    "pci_numérico": 27.6,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.85859677730948,
+      -77.15218762227914
+    ],
+    "heading": 292.45973264860584,
+    "pano_id": "tzo0oOtgPBtvsCzOCTkBcQ",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-61",
+    "pci_clase": "Poor",
+    "pci_numérico": 32.32,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.85780973498888,
+      -77.1541329909748
+    ],
+    "heading": 292.9124429286895,
+    "pano_id": "8IamC9E7EM9dBSJfQajhaw",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-67",
+    "pci_clase": "Poor",
+    "pci_numérico": 45.51,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.85701792009445,
+      -77.15604717116912
+    ],
+    "heading": 276.6241436501799,
+    "pano_id": "sB4SXcQX77ImVdzEb_ghAg",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_CarreAPlayaDelfines_2023",
+    "año_recolección_imagen": 2023,
+    "calzada": "Ida",
+    "tramo_id": "UM-73",
+    "pci_clase": "Fair",
+    "pci_numérico": 60.84,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.85678771571335,
+      -77.15807260537181
+    ],
+    "heading": 276.6241436501799,
+    "pano_id": "vzClWYK_KYZUnBXi81UnvQ",
+    "fecha_real_google": "2023-01",
+    "descargar": true
+  }
+]

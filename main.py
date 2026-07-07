@@ -1,5 +1,5 @@
 import json
-from utils import progresiva_a_metros, parametrizar_poliline, interpolar_coordenada, validar_año_panorama
+from utils import progresiva_a_metros, parametrizar_poliline, interpolar_coordenada, validar_año_panorama, calcular_bearing
 from services import obtener_poliline_ruta, consultar_street_view_metadata
 from dotenv import load_dotenv
 import os
@@ -57,48 +57,53 @@ def procesar_proyecto_vial(json_data, google_api_key=None):
             
             print(f"   Procesando Tramo {tramo_id} (Distancia normalizada: {m_inicio}m a {m_fin}m)")
             
-            # 4. Aplicar Estrategia de Sobremuestreo (6 puntos por  para dividirlo en 5 areas)
-            num_puntos = 2
+            # 4. Aplicar Estrategia de Sobremuestreo
+            num_puntos = 6 # (Asegúrate de cambiar esto a 6 si quieres más densidad)
+            
+            # Pre-calculamos las coordenadas para poder comparar el actual con el siguiente
+            puntos_calculados = []
             for j in range(num_puntos):
-                # Interpolación fraccional de la distancia dentro de la UM
                 alpha = j / (num_puntos - 1)
-                dist_tesis_punto = m_inicio + alpha * (m_fin - m_inicio)
+                dist_tesis = m_inicio + alpha * (m_fin - m_inicio)
+                dist_maps = dist_tesis * factor_escala
+                lat, lon = interpolar_coordenada(dist_maps, trazo_avenida, dist_acumuladas)
+                puntos_calculados.append((lat, lon))
+
+            # Ahora iteramos sobre los puntos calculados para generar el JSON
+            for j in range(num_puntos):
+                lat, lon = puntos_calculados[j]
                 
-                # Ajustar la distancia de la tesis a la escala real de Google Maps
-                dist_maps_punto = dist_tesis_punto * factor_escala
-                
-                # Obtener coordenada Lat, Lon exacta sobre la curva
-                lat, lon = interpolar_coordenada(dist_maps_punto, trazo_avenida, dist_acumuladas)
-                
-                # 5. Mitigación de Snapping y Validación Temporal mediante Metadata API
+                # CALCULAR HEADING (Bearing)
+                # Si no es el último punto, miramos al siguiente. Si es el último, copiamos el anterior.
+                if j < num_puntos - 1:
+                    lat_sig, lon_sig = puntos_calculados[j+1]
+                    heading = calcular_bearing(lat, lon, lat_sig, lon_sig)
+                else:
+                    # Copiamos el heading del punto anterior para no mirar hacia atrás
+                    heading = resultado_descargas[-1].get("heading", 228.0) 
+
+                # 5. Mitigación de Snapping y Validación
                 meta = consultar_street_view_metadata(lat, lon, google_api_key)
                 
                 if meta.get("status") == "OK":
                     pano_id = meta.get("pano_id")
-                    fecha_panorama = meta.get("date") # Obtenemos la fecha de Google
-                    
-                    # Ejecutamos la validación
+                    fecha_panorama = meta.get("date")
                     es_valido, msj_validacion = validar_año_panorama(fecha_panorama, año_recoleccion)
                     
                     if not es_valido:
-                        # Descartamos si no es del año que necesitamos
                         resultado_descargas.append({
                             "tramo_id": tramo_id,
-                            "calzada": calzada_nombre,
-                            "pci_clase": tramo["pci_clase"],
-                            "pci_numérico": tramo["pci_numérico"],
                             "punto_sobremuestreo": j + 1,
+                            "heading": heading,
                             "pano_id": pano_id,
                             "descargar": False,
                             "coordenada_calculada": [lat, lon],
                             "motivo": f"Descarte temporal: {msj_validacion}"
                         })
-                        continue # Saltamos al siguiente punto
+                        continue
 
-                    # Si pasa la validación de fecha, verificamos que no sea duplicado espacial
                     if pano_id not in panoramas_descargados:
                         panoramas_descargados.add(pano_id)
-                        
                         resultado_descargas.append({
                             "proyecto_id": proyecto_id,
                             "año_recolección_imagen": año_recoleccion,
@@ -108,15 +113,17 @@ def procesar_proyecto_vial(json_data, google_api_key=None):
                             "pci_numérico": tramo["pci_numérico"],
                             "punto_sobremuestreo": j + 1,
                             "coordenada_calculada": [lat, lon],
+                            "heading": heading,
                             "pano_id": pano_id,
-                            "fecha_real_google": fecha_panorama, # Guardamos la fecha exacta obtenida
+                            "fecha_real_google": fecha_panorama,
                             "descargar": True
                         })
                     else:
-                        # Se ignora la descarga para evitar duplicados en el dataset de IA
+                        # ... (Lógica de duplicado por snapping)
                         resultado_descargas.append({
                             "tramo_id": tramo_id,
                             "punto_sobremuestreo": j + 1,
+                            "heading": heading,
                             "pano_id": pano_id,
                             "descargar": False,
                             "motivo": "Duplicado por Snapping"
@@ -127,43 +134,97 @@ def procesar_proyecto_vial(json_data, google_api_key=None):
     return resultado_descargas
 
 if __name__ == "__main__":
+    import argparse
 
     load_dotenv()
-    
-    # 1. Ruta al archivo de datos
-    archivo_json = "prueba.json"
     API_KEY_GOOGLE = os.getenv("API_KEY_GOOGLE")
-    
-    # 2. Cargar el JSON desde el archivo
+
+    # ── Argumentos de línea de comandos ──────────────────────────────────────
+    parser = argparse.ArgumentParser(
+        description="Genera planes de descarga de Street View por avenida."
+    )
+    parser.add_argument(
+        "-a", "--avenidas",
+        nargs="*",
+        default=None,
+        metavar="NOMBRE_AVENIDA",
+        help=(
+            "Uno o más nombres de avenida a procesar. "
+            "Deben coincidir exactamente con el campo 'nombre_avenida' del dataset. "
+            "Si se omite, se procesará todo el dataset. "
+            "Ejemplo: --avenidas Sangarara Marañon"
+        )
+    )
+    args = parser.parse_args()
+    avenidas_solicitadas = args.avenidas  # None si no se pasó el flag
+
+    # ── Cargar el dataset fijo ────────────────────────────────────────────────
+    archivo_json = "Dataset-UM-Avenidas.json"
+
     try:
         with open(archivo_json, "r", encoding="utf-8") as f:
             datos_dataset = json.load(f)
-            
-        # Asumimos que el JSON puede ser una lista de proyectos o un objeto único.
-        # Si es un solo proyecto, lo metemos en una lista para iterar.
-        if isinstance(datos_dataset, dict):
-            proyectos = [datos_dataset]
-        else:
-            proyectos = datos_dataset
-            
-        resultados_totales = []
-        
-        # 3. Procesar cada proyecto del archivo
-        for proyecto in proyectos:
-            print(f"\n--- Iniciando procesamiento de: {proyecto.get('proyecto_id', 'Sin ID')} ---")
-            
-            # Llamamos a tu función principal
-            resultados_proyecto = procesar_proyecto_vial(proyecto, API_KEY_GOOGLE)
-            resultados_totales.extend(resultados_proyecto)
-            
-        # 4. Guardar el archivo de salida consolidado
-        with open("coor_UM_SanJuan.json", "w", encoding="utf-8") as archivo:
-            json.dump(resultados_totales, archivo, indent=2, ensure_ascii=False)
-            
-        print(f"\n[ÉXITO] Se han procesado todos los proyectos.")
-        print(f"Plan de descarga consolidado guardado en: 'coor_UM_SanJuan.json'")
-
     except FileNotFoundError:
-        print(f"[ERROR] No se encontró el archivo '{archivo_json}'. Asegúrate de que esté en la misma carpeta.")
+        print(f"[ERROR] No se encontró el archivo '{archivo_json}'. "
+              "Asegúrate de que esté en la misma carpeta que main.py.")
+        exit(1)
     except json.JSONDecodeError:
         print(f"[ERROR] El archivo '{archivo_json}' no tiene un formato JSON válido.")
+        exit(1)
+
+    # Normalizamos: el dataset puede ser un dict único o una lista de proyectos
+    if isinstance(datos_dataset, dict):
+        todos_los_proyectos = [datos_dataset]
+    else:
+        todos_los_proyectos = datos_dataset
+
+    # ── Construir índice nombre_avenida → proyectos ───────────────────────────
+    indice_avenidas: dict[str, list] = {}
+    for proyecto in todos_los_proyectos:
+        nombre = proyecto.get("nombre_avenida")
+        if nombre:
+            indice_avenidas.setdefault(nombre, []).append(proyecto)
+
+    print(f"\nAvenidas disponibles en el dataset: {sorted(indice_avenidas.keys())}")
+
+    # ── Si no se especificaron avenidas, procesar todas ───────────────────────
+    if not avenidas_solicitadas:
+        print("[INFO] No se especificaron avenidas. Se procesará todo el dataset.")
+        avenidas_solicitadas = sorted(indice_avenidas.keys())
+
+    # ── Verificar existencia de cada avenida solicitada ───────────────────────
+    avenidas_no_encontradas = [a for a in avenidas_solicitadas if a not in indice_avenidas]
+    if avenidas_no_encontradas:
+        print(
+            f"\n[ERROR] Las siguientes avenidas no existen en '{archivo_json}':\n"
+            + "\n".join(f"  - {a}" for a in avenidas_no_encontradas)
+        )
+        print("Verifica la ortografía y que el campo 'nombre_avenida' coincida exactamente.")
+        exit(1)
+
+    # ── Iterar sobre cada avenida solicitada ──────────────────────────────────
+    for nombre_avenida in avenidas_solicitadas:
+        proyectos_avenida = indice_avenidas[nombre_avenida]
+        resultados_avenida = []
+
+        print(f"\n{'='*60}")
+        print(f"  AVENIDA: {nombre_avenida}  ({len(proyectos_avenida)} proyecto(s))")
+        print(f"{'='*60}")
+
+        for proyecto in proyectos_avenida:
+            proyecto_id = proyecto.get("proyecto_id", "Sin_ID")
+            print(f"\n--- Iniciando procesamiento de: {proyecto_id} ---")
+            resultados_proyecto = procesar_proyecto_vial(proyecto, API_KEY_GOOGLE)
+            resultados_avenida.extend(resultados_proyecto)
+
+        # Guardar plan de descarga por avenida
+        nombre_archivo_salida = f"plan_descarga_{nombre_avenida.replace(' ', '_')}.json"
+        with open(nombre_archivo_salida, "w", encoding="utf-8") as archivo:
+            json.dump(resultados_avenida, archivo, indent=2, ensure_ascii=False)
+
+        print(
+            f"\n[ÉXITO] Avenida '{nombre_avenida}' procesada. "
+            f"{len(resultados_avenida)} registros guardados en '{nombre_archivo_salida}'"
+        )
+
+    print(f"\n[FIN] Se procesaron {len(avenidas_solicitadas)} avenida(s) correctamente.")

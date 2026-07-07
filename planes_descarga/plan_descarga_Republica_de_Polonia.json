@@ -1,0 +1,1243 @@
+[
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-01",
+    "pci_clase": "Fair",
+    "pci_numérico": 66.9,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97714747306955,
+      -77.00492987376913
+    ],
+    "heading": 34.91179466339776,
+    "pano_id": "CqJMpxyDSjSsICEeFfxmkA",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-01",
+    "pci_clase": "Fair",
+    "pci_numérico": 66.9,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97699621918708,
+      -77.0048219621901
+    ],
+    "heading": 35.62494457434752,
+    "pano_id": "jj993Lmn6Kb-N2i4Ad1J4A",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-01",
+    "pci_clase": "Fair",
+    "pci_numérico": 66.9,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.97697042748137,
+      -77.00480306886631
+    ],
+    "heading": 36.34478002236699,
+    "pano_id": "rTRATKUFc9-AATz_vmQqrg",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-02",
+    "pci_clase": "Poor",
+    "pci_numérico": 30.9,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97685230930118,
+      -77.00471422626714
+    ],
+    "heading": 37.31598586158759,
+    "pano_id": "mp_hJ6FJOX07PPPBt-kHWg",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-02",
+    "pci_clase": "Poor",
+    "pci_numérico": 30.9,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97676626010963,
+      -77.00464717686387
+    ],
+    "heading": 37.77810945232403,
+    "pano_id": "fp9gysD1LNbCRctGewo9oQ",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-02",
+    "pci_clase": "Poor",
+    "pci_numérico": 30.9,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.97671169212484,
+      -77.00460394184239
+    ],
+    "heading": 38.73230192043741,
+    "pano_id": "1FxwV8BMkVR_19PYHEkoJQ",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-03",
+    "pci_clase": "Poor",
+    "pci_numérico": 41.1,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97665971187898,
+      -77.00456132193825
+    ],
+    "heading": 38.693384295225314,
+    "pano_id": "iHhBJAazbjDuh2q3_Y0_lA",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-03",
+    "pci_clase": "Poor",
+    "pci_numérico": 41.1,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97655238672879,
+      -77.00447344580003
+    ],
+    "heading": 39.26127532315411,
+    "pano_id": "wAxZe84CfKPBNVq8WpIwow",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-03",
+    "pci_clase": "Poor",
+    "pci_numérico": 41.1,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.97647098384092,
+      -77.00440542962536
+    ],
+    "heading": 40.990951447054044,
+    "pano_id": "bqOGVD6Y9Q384wit0BN0YQ",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-04",
+    "pci_clase": "Poor",
+    "pci_numérico": 45.5,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97641064191548,
+      -77.00435182511977
+    ],
+    "heading": 40.93818729292548,
+    "pano_id": "s2pXRVFmEYRkhumHd13MHQ",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-04",
+    "pci_clase": "Poor",
+    "pci_numérico": 45.5,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97635395360352,
+      -77.00430155988975
+    ],
+    "heading": 40.2794669819707,
+    "pano_id": "jUAhY6_RU9C45ZtMVIeDxw",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-04",
+    "pci_clase": "Poor",
+    "pci_numérico": 45.5,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.97624531300261,
+      -77.0042074443419
+    ],
+    "heading": 39.56053282212258,
+    "pano_id": "wVqN1OeydXJQFW5LyqOcLg",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-05",
+    "pci_clase": "Poor",
+    "pci_numérico": 43.4,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97616955871112,
+      -77.00414347033309
+    ],
+    "heading": 46.54759550173492,
+    "pano_id": "9ZWQlVgmk6MrlhttDyVOQA",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-05",
+    "pci_clase": "Poor",
+    "pci_numérico": 43.4,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97612598781775,
+      -77.00409645644523
+    ],
+    "heading": 43.57752121944861,
+    "pano_id": "Hp0gRyqbT_J6a9VrmcSD6A",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-05",
+    "pci_clase": "Poor",
+    "pci_numérico": 43.4,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.97601820998594,
+      -77.00399161980356
+    ],
+    "heading": 47.706257604630196,
+    "pano_id": "csEMh3gcJ-f-iThy3TalCA",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-06",
+    "pci_clase": "Fair",
+    "pci_numérico": 59.1,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97595869676476,
+      -77.00392474575432
+    ],
+    "heading": 47.663804641600166,
+    "pano_id": "lo2Ywe75PfITG0VyjgB_yg",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-06",
+    "pci_clase": "Fair",
+    "pci_numérico": 59.1,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97589846828642,
+      -77.00385716865533
+    ],
+    "heading": 47.83891079446602,
+    "pano_id": "HlUmc_8m8CZ65s8QfsqKZQ",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-06",
+    "pci_clase": "Fair",
+    "pci_numérico": 59.1,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.97583821926536,
+      -77.00378915213538
+    ],
+    "heading": 47.864580197670364,
+    "pano_id": "-M0DP-mrqkBqJ5fj0RwUCg",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-07",
+    "pci_clase": "Poor",
+    "pci_numérico": 46.4,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97574590492647,
+      -77.0036848424888
+    ],
+    "heading": 48.164033966117756,
+    "pano_id": "JS2GWeNDvsU-Hj8HT-s4iQ",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-07",
+    "pci_clase": "Poor",
+    "pci_numérico": 46.4,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97565524834351,
+      -77.00358132364393
+    ],
+    "heading": 48.384955203222376,
+    "pano_id": "7cFjmh0H6cFAbzKHArtUjw",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-07",
+    "pci_clase": "Poor",
+    "pci_numérico": 46.4,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.97559385244327,
+      -77.00351067066347
+    ],
+    "heading": 49.29647626078372,
+    "pano_id": "JvqiyW_px_UdkYD87qeZkw",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-08",
+    "pci_clase": "Poor",
+    "pci_numérico": 31.5,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97553225190113,
+      -77.00343746921125
+    ],
+    "heading": 49.646595131766446,
+    "pano_id": "4cuVSiLprZr-X5PkNXTktg",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-08",
+    "pci_clase": "Poor",
+    "pci_numérico": 31.5,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97547250434743,
+      -77.00336558586947
+    ],
+    "heading": 49.68700756250172,
+    "pano_id": "wW3a45ePhKxVeAl8-4ajNg",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-08",
+    "pci_clase": "Poor",
+    "pci_numérico": 31.5,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.97544267323297,
+      -77.00332964418264
+    ],
+    "heading": 49.583349973204804,
+    "pano_id": "w4GY1Vtp7v92vyzS0WNC5Q",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-08",
+    "pci_clase": "Poor",
+    "pci_numérico": 31.5,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.97538257220929,
+      -77.00325749714588
+    ],
+    "heading": 49.56607548321699,
+    "pano_id": "aFsuyQQY73kcIZZl23QrzQ",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-09",
+    "pci_clase": "Poor",
+    "pci_numérico": 39.6,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97532265416619,
+      -77.00318561369755
+    ],
+    "heading": 49.6560724905321,
+    "pano_id": "OPakRco4f5yIWHWVX_khjg",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-09",
+    "pci_clase": "Poor",
+    "pci_numérico": 39.6,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97526263440096,
+      -77.00311337869806
+    ],
+    "heading": 49.05367559032618,
+    "pano_id": "HxKKgx28-rTd12E8Nqa1UQ",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-09",
+    "pci_clase": "Poor",
+    "pci_numérico": 39.6,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.97520169702042,
+      -77.00304158304162
+    ],
+    "heading": 49.83269786233927,
+    "pano_id": "BXORYKG7TZvR0FzQbppU1w",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-09",
+    "pci_clase": "Poor",
+    "pci_numérico": 39.6,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.97514255910001,
+      -77.00296996309726
+    ],
+    "heading": 49.81844747315745,
+    "pano_id": "HNIpidBPkaNIbNpax0CmhQ",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-10",
+    "pci_clase": "Poor",
+    "pci_numérico": 44.8,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97508215710864,
+      -77.00289684919635
+    ],
+    "heading": 49.97065562062261,
+    "pano_id": "pd3eHe4GbYsI6dJ1OdihxA",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-10",
+    "pci_clase": "Poor",
+    "pci_numérico": 44.8,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97502236868625,
+      -77.00282408676088
+    ],
+    "heading": 50.034153138162196,
+    "pano_id": "ObVMEEqRfT2mOVtiIbMFag",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-10",
+    "pci_clase": "Poor",
+    "pci_numérico": 44.8,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.97496221030781,
+      -77.00275070913989
+    ],
+    "heading": 49.47843609883148,
+    "pano_id": "OrLkB8bO53_OnWM2QutTzQ",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-11",
+    "pci_clase": "Fair",
+    "pci_numérico": 50.7,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97490203254675,
+      -77.00267873751406
+    ],
+    "heading": 49.348076832190486,
+    "pano_id": "U42VIDbrhi4j-I5WwAawuA",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-11",
+    "pci_clase": "Fair",
+    "pci_numérico": 50.7,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97484268422816,
+      -77.0026080840084
+    ],
+    "heading": 49.314838257649285,
+    "pano_id": "bAb9WtyPQh93BONgKlOovg",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-11",
+    "pci_clase": "Fair",
+    "pci_numérico": 50.7,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.97477846246548,
+      -77.00253171841935
+    ],
+    "heading": 49.428014265289505,
+    "pano_id": "mS3t3Fc8a654IUpHdu3CLw",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-12",
+    "pci_clase": "Good",
+    "pci_numérico": 86.8,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97471648425775,
+      -77.00245772547827
+    ],
+    "heading": 49.19302408920288,
+    "pano_id": "65CI9v1iuHOsfaczjVLNoA",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-12",
+    "pci_clase": "Good",
+    "pci_numérico": 86.8,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97465146612179,
+      -77.00238074465086
+    ],
+    "heading": 49.19302408920288,
+    "pano_id": "elFcpkS0zBhI09AvDQVL5g",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-13",
+    "pci_clase": "Good",
+    "pci_numérico": 100.0,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97483637852397,
+      -77.00242433197465
+    ],
+    "heading": 230.434770783619,
+    "pano_id": "vpahzzomUhWE8I066OsNCg",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-13",
+    "pci_clase": "Good",
+    "pci_numérico": 100.0,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97491877194475,
+      -77.00252627000954
+    ],
+    "heading": 230.43780880196334,
+    "pano_id": "2p3TN0rqsDX6BasHfpKdqA",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-14",
+    "pci_clase": "Good",
+    "pci_numérico": 100.0,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.9749724638839,
+      -77.00259270544139
+    ],
+    "heading": 230.45032588562182,
+    "pano_id": "tGjw6vN7FXfYWfpRT9l4eA",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-14",
+    "pci_clase": "Good",
+    "pci_numérico": 100.0,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97502932642132,
+      -77.00266309532357
+    ],
+    "heading": 230.40283625278025,
+    "pano_id": "pIa2eepyvJKHBEjYwawy-A",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-14",
+    "pci_clase": "Good",
+    "pci_numérico": 100.0,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.97506445442558,
+      -77.00270650679111
+    ],
+    "heading": 230.45343185153362,
+    "pano_id": "CxpfPEQJ71kAMHtDislQxQ",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-14",
+    "pci_clase": "Good",
+    "pci_numérico": 100.0,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.97511832939096,
+      -77.00277320575655
+    ],
+    "heading": 229.92267589025613,
+    "pano_id": "HcbCFJticSt687dUCHVCog",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-15",
+    "pci_clase": "Good",
+    "pci_numérico": 91.7,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97517576026249,
+      -77.00284298039264
+    ],
+    "heading": 229.6759764434209,
+    "pano_id": "WBmizQ131eX_aBvPvYlDeA",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-15",
+    "pci_clase": "Good",
+    "pci_numérico": 91.7,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97523668645474,
+      -77.00291635795787
+    ],
+    "heading": 229.70536312283647,
+    "pano_id": "3OoxK_scUu_m2zwI1PZ9FQ",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-15",
+    "pci_clase": "Good",
+    "pci_numérico": 91.7,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.97529689327868,
+      -77.00298894458356
+    ],
+    "heading": 229.70552344877342,
+    "pano_id": "2b91H-dfOEPxlehEDBrwWA",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-16",
+    "pci_clase": "Good",
+    "pci_numérico": 89.7,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97535484014967,
+      -77.00305880697286
+    ],
+    "heading": 229.68540313637075,
+    "pano_id": "rqt6eg2sNkSapLf5mUhuVA",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-16",
+    "pci_clase": "Good",
+    "pci_numérico": 89.7,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97541829881098,
+      -77.00313526010756
+    ],
+    "heading": 229.5104886844503,
+    "pano_id": "s_OlT5SD8unpIxQ7lh4nHw",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-16",
+    "pci_clase": "Good",
+    "pci_numérico": 89.7,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.9754796557595,
+      -77.00320872537324
+    ],
+    "heading": 228.67012588729312,
+    "pano_id": "ZZvkJPU5Dplo86LfyvLs7A",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-16",
+    "pci_clase": "Good",
+    "pci_numérico": 89.7,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.97553801982844,
+      -77.00327656646428
+    ],
+    "heading": 228.62878613835178,
+    "pano_id": "t64Dd3jg8ZECbXyYLpuTUw",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-17",
+    "pci_clase": "Good",
+    "pci_numérico": 89.7,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97560070864353,
+      -77.00334932862857
+    ],
+    "heading": 228.6385296254371,
+    "pano_id": "S9rB4Chc8ne7wWlDvV9ObA",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-17",
+    "pci_clase": "Good",
+    "pci_numérico": 89.7,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97566231632549,
+      -77.00342086047226
+    ],
+    "heading": 227.6746209323711,
+    "pano_id": "LD12DX99zjn-T_qXoi5rbA",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-17",
+    "pci_clase": "Good",
+    "pci_numérico": 89.7,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.9757259670163,
+      -77.00349230439689
+    ],
+    "heading": 227.09824250498272,
+    "pano_id": "VyDR4xyf_SBbR5vhvV-8SA",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-18",
+    "pci_clase": "Good",
+    "pci_numérico": 90.1,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97579035659175,
+      -77.0035631331417
+    ],
+    "heading": 227.0900585044036,
+    "pano_id": "lqD88p96hv6Vzm94fEFS5g",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-18",
+    "pci_clase": "Good",
+    "pci_numérico": 90.1,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97585276679619,
+      -77.0036317649257
+    ],
+    "heading": 227.0897391342573,
+    "pano_id": "kiIqMp5feC3UX1mR0uTEiA",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-18",
+    "pci_clase": "Good",
+    "pci_numérico": 90.1,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.97588505103721,
+      -77.00366726713935
+    ],
+    "heading": 227.40629145086157,
+    "pano_id": "fD7U1QkTcj9mbFTlQ7_jEg",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-19",
+    "pci_clase": "Good",
+    "pci_numérico": 90.0,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97599932920481,
+      -77.00379433685853
+    ],
+    "heading": 227.31691661453155,
+    "pano_id": "SH16itEjJvU3iHZ-a7iyJA",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-19",
+    "pci_clase": "Good",
+    "pci_numérico": 90.0,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97606338603485,
+      -77.00386534118034
+    ],
+    "heading": 226.3583975425775,
+    "pano_id": "_KEMO1d59yN-M7MwEJ1drQ",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-19",
+    "pci_clase": "Good",
+    "pci_numérico": 90.0,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.97612831529289,
+      -77.00393493943568
+    ],
+    "heading": 225.1449602879194,
+    "pano_id": "LdTU2CnZCPrCrb1W7ZzAMw",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-19",
+    "pci_clase": "Good",
+    "pci_numérico": 90.0,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -11.97618844282269,
+      -77.00399671664152
+    ],
+    "heading": 221.58244435809854,
+    "pano_id": "SVWdJeR2I5QE40UQQV2uRQ",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-20",
+    "pci_clase": "Fair",
+    "pci_numérico": 58.7,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97627583132881,
+      -77.0040759812323
+    ],
+    "heading": 221.11812816943663,
+    "pano_id": "M4aFU1s-ILQzw05sp25DOA",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-20",
+    "pci_clase": "Fair",
+    "pci_numérico": 58.7,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97634624386174,
+      -77.00413881288333
+    ],
+    "heading": 221.10096963921265,
+    "pano_id": "MZLjt0kgczb1X5jCuu0XGA",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-20",
+    "pci_clase": "Fair",
+    "pci_numérico": 58.7,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.97641531937918,
+      -77.0042004142327
+    ],
+    "heading": 221.11954734483407,
+    "pano_id": "BdZjhaPLieOSsqKa5AhFqA",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-21",
+    "pci_clase": "Good",
+    "pci_numérico": 91.1,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97648484201789,
+      -77.00426245493242
+    ],
+    "heading": 220.97503108618446,
+    "pano_id": "Tc7iYyoS0Hmj7uCCLSpyHQ",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-21",
+    "pci_clase": "Good",
+    "pci_numérico": 91.1,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97656075715915,
+      -77.00432985605326
+    ],
+    "heading": 219.16730369353905,
+    "pano_id": "9yZj8Y1qA9uX3VfYAvONdg",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-21",
+    "pci_clase": "Good",
+    "pci_numérico": 91.1,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.97660824315362,
+      -77.00436940037011
+    ],
+    "heading": 218.4420415692721,
+    "pano_id": "el8gwinY1Ss2IEdcp4QDGg",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-22",
+    "pci_clase": "Good",
+    "pci_numérico": 85.5,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97670755002016,
+      -77.00444998286035
+    ],
+    "heading": 217.50800870695366,
+    "pano_id": "_TEvO_rsZDi4JPRgeXlh_w",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-22",
+    "pci_clase": "Good",
+    "pci_numérico": 85.5,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97680991532081,
+      -77.00453030166872
+    ],
+    "heading": 216.08994917675244,
+    "pano_id": "wv1JMDfYzPrguXwl3bfImA",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-22",
+    "pci_clase": "Good",
+    "pci_numérico": 85.5,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.9768906962499,
+      -77.00459049680208
+    ],
+    "heading": 215.84166221764502,
+    "pano_id": "5V84N4f7c_JaJXoA-_8gXw",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-23",
+    "pci_clase": "Good",
+    "pci_numérico": 87.0,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97698090451348,
+      -77.00465710685647
+    ],
+    "heading": 215.71369232638193,
+    "pano_id": "WuRjvHh0RYS_872m6ky1XQ",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-23",
+    "pci_clase": "Good",
+    "pci_numérico": 87.0,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97707357116619,
+      -77.00472521076611
+    ],
+    "heading": 215.604552488967,
+    "pano_id": "aGXszfCE3-BqInVfSIZMWQ",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-23",
+    "pci_clase": "Good",
+    "pci_numérico": 87.0,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.97711534913768,
+      -77.004755791606
+    ],
+    "heading": 215.70327628106054,
+    "pano_id": "NOlhf8o2c8Pdvz4Bnb91cw",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_RepublicaPolonia_2024",
+    "año_recolección_imagen": 2024,
+    "calzada": "Vuelta",
+    "tramo_id": "UM-24",
+    "pci_clase": "Good",
+    "pci_numérico": 100.0,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97723257239576,
+      -77.0048419100218
+    ],
+    "heading": 215.70327628106054,
+    "pano_id": "sI3ZI4UIVYVDK-5UlG-s3w",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  }
+]

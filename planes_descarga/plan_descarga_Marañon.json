@@ -1,0 +1,937 @@
+[
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM01",
+    "pci_clase": "Poor",
+    "pci_numérico": 43,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97010037214165,
+      -77.08005471546727
+    ],
+    "heading": 114.5229684500942,
+    "pano_id": "FFz4u04hjqCCmFyY2cyInw",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM01",
+    "pci_clase": "Poor",
+    "pci_numérico": 43,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97014046737736,
+      -77.07996487433186
+    ],
+    "heading": 114.54558658916756,
+    "pano_id": "07ESvKJ-iqBi2ZY74951gw",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM01",
+    "pci_clase": "Poor",
+    "pci_numérico": 43,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.97018064379495,
+      -77.07987494530798
+    ],
+    "heading": 114.5033791454033,
+    "pano_id": "ijT1_4h93Qh8uH_By_KvKA",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM02",
+    "pci_clase": "Poor",
+    "pci_numérico": 44,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97022027204003,
+      -77.07978607007377
+    ],
+    "heading": 114.52904535733637,
+    "pano_id": "RrAW1QPA7lx8iwBxuelMxQ",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM02",
+    "pci_clase": "Poor",
+    "pci_numérico": 44,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97025967292236,
+      -77.07969780952418
+    ],
+    "heading": 114.80207992437113,
+    "pano_id": "tTCrburwm6LJXNx9JD1HAA",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM02",
+    "pci_clase": "Poor",
+    "pci_numérico": 44,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.97030004845136,
+      -77.07960849505136
+    ],
+    "heading": 115.13467725034809,
+    "pano_id": "VoV3mCEeVP2IciREybGzJw",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM03",
+    "pci_clase": "Poor",
+    "pci_numérico": 34,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97034156516125,
+      -77.07951803883132
+    ],
+    "heading": 115.21662044318805,
+    "pano_id": "NRoXLCdwnRT5Tx3m10bEjQ",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM03",
+    "pci_clase": "Poor",
+    "pci_numérico": 34,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.9704018468716,
+      -77.07938718456735
+    ],
+    "heading": 115.4624833959636,
+    "pano_id": "CqMqAWobDsB7hMbwuqfyww",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM04",
+    "pci_clase": "Poor",
+    "pci_numérico": 36,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.9704421012193,
+      -77.07930076798209
+    ],
+    "heading": 115.71034984919856,
+    "pano_id": "9z_-hNbF8efea5IxGfKiWQ",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM04",
+    "pci_clase": "Poor",
+    "pci_numérico": 36,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97048309471813,
+      -77.07921373658192
+    ],
+    "heading": 116.45401043472822,
+    "pano_id": "CAxOnuI9EYQjAoOLpDeGIg",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM05",
+    "pci_clase": "Good",
+    "pci_numérico": 82,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.9705236626883,
+      -77.07913039363817
+    ],
+    "heading": 116.38745042115386,
+    "pano_id": "3ZMXdArhmcMaBgmXWXfVOw",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM05",
+    "pci_clase": "Good",
+    "pci_numérico": 82,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97056266337971,
+      -77.07905003658291
+    ],
+    "heading": 116.35595562185262,
+    "pano_id": "DAEIhzyaB8bSgFBWYqBscA",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM05",
+    "pci_clase": "Good",
+    "pci_numérico": 82,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.97062080702426,
+      -77.07893007174259
+    ],
+    "heading": 116.40304359291656,
+    "pano_id": "4qkPdj9k36xLn9g9yABKOQ",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM06",
+    "pci_clase": "Poor",
+    "pci_numérico": 41.5,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97063995817849,
+      -77.07889063964228
+    ],
+    "heading": 116.38599898002735,
+    "pano_id": "UBB-TkjsdZiqVDOt4NTzhA",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM06",
+    "pci_clase": "Poor",
+    "pci_numérico": 41.5,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97069647370283,
+      -77.07877418752896
+    ],
+    "heading": 116.41503037341232,
+    "pano_id": "BFqY-l6TO1B3qOwkAM0lmg",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM06",
+    "pci_clase": "Poor",
+    "pci_numérico": 41.5,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.97071375722137,
+      -77.07873861955332
+    ],
+    "heading": 116.22366990011841,
+    "pano_id": "gCwnQygN6G98WdKx3xjDQg",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM07",
+    "pci_clase": "Poor",
+    "pci_numérico": 34,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97082204951996,
+      -77.07851388239736
+    ],
+    "heading": 116.87713330559615,
+    "pano_id": "Adx5OONsi05r39nxBQ6GlQ",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM08",
+    "pci_clase": "Poor",
+    "pci_numérico": 25.5,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97084482239985,
+      -77.0784679513052
+    ],
+    "heading": 116.88445036222987,
+    "pano_id": "V4g9kjVEets9hKvmVoOVvw",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM08",
+    "pci_clase": "Poor",
+    "pci_numérico": 25.5,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.970889511464,
+      -77.07837784551705
+    ],
+    "heading": 116.86669945669416,
+    "pano_id": "cYsx8SBgsZ2gh-FvLg_j7w",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM08",
+    "pci_clase": "Poor",
+    "pci_numérico": 25.5,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.97094870296654,
+      -77.07825840694137
+    ],
+    "heading": 115.31029072490117,
+    "pano_id": "QEgF3YXiXNuSdrZxSasm5Q",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM09",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 6.5,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97100753461533,
+      -77.07813123985689
+    ],
+    "heading": 114.77007678772367,
+    "pano_id": "tbKFs5iH0-ZxXdv9Z0I0ew",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM09",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 6.5,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97104999206017,
+      -77.07803718179562
+    ],
+    "heading": 115.66722513411736,
+    "pano_id": "a9VL5fy_GWRhLxpFi2xkvg",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM10",
+    "pci_clase": "Poor",
+    "pci_numérico": 40,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97109144371247,
+      -77.07794900778529
+    ],
+    "heading": 115.85650796984112,
+    "pano_id": "uz5IrpS3-5lgMP5QXIFH6w",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM10",
+    "pci_clase": "Poor",
+    "pci_numérico": 40,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97113137307357,
+      -77.07786478573698
+    ],
+    "heading": 115.86287692099489,
+    "pano_id": "K3WB_P-aEeuYpFiGK4eZTg",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM11",
+    "pci_clase": "Poor",
+    "pci_numérico": 27.5,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97117231332528,
+      -77.07777845588069
+    ],
+    "heading": 115.89247443264821,
+    "pano_id": "qf_ShWSfyrYX5qPoBZXv0g",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM11",
+    "pci_clase": "Poor",
+    "pci_numérico": 27.5,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97121372452306,
+      -77.07769124773303
+    ],
+    "heading": 115.83944201093641,
+    "pano_id": "NsIVUy5DaPmnS8gXB5greg",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM11",
+    "pci_clase": "Poor",
+    "pci_numérico": 27.5,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.97125520463869,
+      -77.07760368823014
+    ],
+    "heading": 115.87089975212598,
+    "pano_id": "C3MQJkbD9jBRbIpdhmBZkw",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM12",
+    "pci_clase": "Poor",
+    "pci_numérico": 32,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97129653453476,
+      -77.07751656777884
+    ],
+    "heading": 115.89478990739264,
+    "pano_id": "_MgzYVQ-Se-_OM6fy78khQ",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM12",
+    "pci_clase": "Poor",
+    "pci_numérico": 32,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97133732445162,
+      -77.07743067678828
+    ],
+    "heading": 115.861261290973,
+    "pano_id": "DZjG9msjNVp2u05kuWVy3Q",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM12",
+    "pci_clase": "Poor",
+    "pci_numérico": 32,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.97135752247134,
+      -77.07738808256263
+    ],
+    "heading": 115.87322845299877,
+    "pano_id": "pZKXxuKd4s0tp7pZsrEwtg",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM13",
+    "pci_clase": "Poor",
+    "pci_numérico": 46,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97141198198811,
+      -77.07727329763618
+    ],
+    "heading": 115.87332426953503,
+    "pano_id": "KKmPKHPUoNT1YToYNiHUEA",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM13",
+    "pci_clase": "Poor",
+    "pci_numérico": 46,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97145439979056,
+      -77.07718389353956
+    ],
+    "heading": 115.85980806766133,
+    "pano_id": "hg3whkKX5KUABifIMcET3Q",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM14",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 2,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97149829127545,
+      -77.07709132773492
+    ],
+    "heading": 115.87568386330668,
+    "pano_id": "gvEd5aZB_r_5QbR-fNJcvw",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM14",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 2,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97152004416647,
+      -77.07704548392293
+    ],
+    "heading": 115.87323494943178,
+    "pano_id": "6rs1STKnrFRqcFGLwAwQoQ",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM14",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 2,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.97156246186387,
+      -77.07695607965698
+    ],
+    "heading": 115.84760206618216,
+    "pano_id": "kVxiVih5UHF_vu-BcSywqw",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM15",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 14,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97162118801585,
+      -77.07683216066768
+    ],
+    "heading": 115.86506868132216,
+    "pano_id": "rkLqoraLRwQ9PWwNKJitNQ",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM15",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 14,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97164076474527,
+      -77.07679088358407
+    ],
+    "heading": 115.85417933648392,
+    "pano_id": "khe7n3rBa94i0c1W3yynUw",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM15",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 14,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.9716813147615,
+      -77.07670534336998
+    ],
+    "heading": 115.90926907824473,
+    "pano_id": "WzdtyD3SgMUlBsIac-CKqA",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM16",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 19,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97172233980889,
+      -77.07661901268155
+    ],
+    "heading": 116.24307683855125,
+    "pano_id": "nUQwLEBJjBHznwEiC5FesQ",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM16",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 19,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97178100144228,
+      -77.07649737676415
+    ],
+    "heading": 116.73397707528284,
+    "pano_id": "VAMJrtB84NNxL9us6DVZcQ",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM17",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 3,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97181903920575,
+      -77.07642017960909
+    ],
+    "heading": 116.72754218207297,
+    "pano_id": "WPSydEmcKo2MqinfBhqTtg",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM17",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 3,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97183751200873,
+      -77.07638267881167
+    ],
+    "heading": 116.5801649554162,
+    "pano_id": "f51ikM7Y1MjuwjnJu4k8Vw",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM18",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 20,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97194540478214,
+      -77.07616224063271
+    ],
+    "heading": 90.82244398101238,
+    "pano_id": "cBg5V3NfPnoRVXx0uDzDgw",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM18",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 20,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97194611640466,
+      -77.07611156614165
+    ],
+    "heading": 122.75648871429246,
+    "pano_id": "Am3VTBBk1fRM_Lr_E_wwsA",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM18",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 20,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.97201681364041,
+      -77.0759992390741
+    ],
+    "heading": 102.73913425305199,
+    "pano_id": "uXEx8ZTOaYYTB2C94rYBhw",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM20",
+    "pci_clase": "Poor",
+    "pci_numérico": 25,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97209095190739,
+      -77.07566401373059
+    ],
+    "heading": 95.90857229094433,
+    "pano_id": "JG4DEpJqsT9twUVHY1d66w",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM20",
+    "pci_clase": "Poor",
+    "pci_numérico": 25,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97210433336961,
+      -77.07553183790613
+    ],
+    "heading": 91.18266983411058,
+    "pano_id": "RoaStsReLCB6T5PzZqHCgA",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM20",
+    "pci_clase": "Poor",
+    "pci_numérico": 25,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -11.97210536562879,
+      -77.07548072402676
+    ],
+    "heading": 91.21652412207862,
+    "pano_id": "ERcxTICvzuKj3aanbaLMRA",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM21",
+    "pci_clase": "Fair",
+    "pci_numérico": 53.5,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97210747101043,
+      -77.07537937444918
+    ],
+    "heading": 91.19070336625032,
+    "pano_id": "ie7lztv2JWnSGJeA8nfY8w",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM21",
+    "pci_clase": "Fair",
+    "pci_numérico": 53.5,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97210941562486,
+      -77.0752837333917
+    ],
+    "heading": 91.2272379152248,
+    "pano_id": "TwEV7OKbj-WH69VZN8odHw",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM22",
+    "pci_clase": "Fair",
+    "pci_numérico": 52,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97211126900658,
+      -77.07519529388888
+    ],
+    "heading": 91.75153108815476,
+    "pano_id": "n3oTI50Y-7nXWXpP4pQh4w",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM24",
+    "pci_clase": "Poor",
+    "pci_numérico": 39,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97212988749042,
+      -77.07457287819086
+    ],
+    "heading": 90.86849204554557,
+    "pano_id": "6HiYREoG4TtEkJtJ2CnZcA",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM24",
+    "pci_clase": "Poor",
+    "pci_numérico": 39,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97213149463401,
+      -77.07446450182516
+    ],
+    "heading": 90.46533887082626,
+    "pano_id": "lzXDlQQBB3_g4TSWRpsW5g",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM25",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 8,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -11.97213190493024,
+      -77.07441286054039
+    ],
+    "heading": 90.45043971713119,
+    "pano_id": "OndquBgB_e5bjGbc_m6bkA",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_Maranon_2022",
+    "año_recolección_imagen": 2022,
+    "calzada": "Ida",
+    "tramo_id": "UM25",
+    "pci_clase": "Very Poor",
+    "pci_numérico": 8,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -11.97213264250366,
+      -77.07431695523844
+    ],
+    "heading": 90.45043971713119,
+    "pano_id": "NkEbQ3xBjBXubdOGDEuoBw",
+    "fecha_real_google": "2022-05",
+    "descargar": true
+  }
+]
