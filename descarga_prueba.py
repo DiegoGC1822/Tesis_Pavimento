@@ -14,7 +14,7 @@ def descargar_imagen(pano_id, nombre_archivo, api_key, heading):
         "pano": pano_id,
         "heading": heading,
         "pitch": -24,  # Mirando al suelo
-        "fov": 20,     # Zoom ajustado
+        "fov": 22,     # Zoom ajustado
         "size": "640x640",
         "key": api_key
     }
@@ -60,4 +60,4 @@ def ejecutar_prueba(json_path, cantidad=5):
         print(f"✅ Tramo {tramo} Punto {punto} procesado (Heading: {round(heading, 1)}°)")
 
 if __name__ == "__main__":
-    ejecutar_prueba("plan_descarga_Nestor_Gambetta.json", cantidad=10)
+    ejecutar_prueba("planes_descarga/plan_descarga_Republica_de_Polonia.json", cantidad=10)

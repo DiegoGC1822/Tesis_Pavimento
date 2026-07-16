@@ -1,3 +1,7 @@
 .env
 __pycache__
 .venv
+.venv-model
+.ipynb_checkpoints
+carpeta_imagenes/
+modelos/

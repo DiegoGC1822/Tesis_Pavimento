@@ -9,7 +9,7 @@ from services import obtener_poliline_ruta
 from utils import parametrizar_poliline, interpolar_coordenada, calcular_bearing, progresiva_a_metros
 
 load_dotenv = load_dotenv()
-GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+API_KEY_GOOGLE = os.getenv("API_KEY_GOOGLE")
 
 DB_PATH = os.path.join("App_ExtracciónCoor", "instance", "tesis_datos.db")
 DATASET_PATH = "Dataset-UM-Avenidas.json"
@@ -329,7 +329,7 @@ def main():
         print(f"  DB: '{nombre_db}'  →  Dataset: '{nombre_ds}'  ({proyecto['proyecto_id']})")
         print(f"{'='*60}")
 
-        plan = generar_plan_avenida(proyecto, puntos_sentidos, GOOGLE_API_KEY)
+        plan = generar_plan_avenida(proyecto, puntos_sentidos, API_KEY_GOOGLE)
         n_desc = sum(1 for r in plan if r.get("descargar"))
 
         nombre_archivo = f"plan_descarga_{nombre_ds.replace(' ', '_')}.json"

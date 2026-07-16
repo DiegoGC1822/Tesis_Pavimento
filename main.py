@@ -7,11 +7,11 @@ import os
 def procesar_proyecto_vial(json_data, google_api_key=None):
     proyecto_id = json_data["proyecto_id"]
     
-    # NUEVO: Extraemos el año de recolección de imagen a nivel global
+    # Extraemos el año de recolección de imagen a nivel global
     # Si no existe, usamos el año_estudio como respaldo.
     año_recoleccion = json_data.get("año_recolección_imagen", json_data.get("año_estudio"))
     
-    # NUEVO: Extraemos la longitud oficial dictada por la tesis
+    # Extraemos la longitud oficial dictada por la tesis
     longitud_total_tesis = json_data.get("longitud_calzadas", 1000.0)
     
     print(f"=== Procesando Proyecto: {proyecto_id} (Año Objetivo: {año_recoleccion}) ===")
@@ -29,7 +29,7 @@ def procesar_proyecto_vial(json_data, google_api_key=None):
         coord_inicio = calzada_info["coordenadas_inicio_calzada"]
         coord_fin = calzada_info["coordenadas_fin_calzada"]
         
-        # NUEVO: Calculamos el "Offset" inicial de la calzada (Ej. 2km = 2000m)
+        # Calculamos el "Offset" inicial de la calzada (Ej. 2km = 2000m)
         offset_calzada_str = calzada_info.get("progresiva_inicio_calzada", "0+000")
         offset_calzada = progresiva_a_metros(offset_calzada_str)
         
@@ -51,14 +51,14 @@ def procesar_proyecto_vial(json_data, google_api_key=None):
         for tramo in calzada_info["tramos"]:
             tramo_id = tramo["tramo_id"]
             
-            # NUEVO: Restamos el offset de la calzada para "empezar de cero"
+            # Restamos el offset de la calzada para "empezar de cero"
             m_inicio = progresiva_a_metros(tramo["progresiva_inicio"]) - offset_calzada
             m_fin = progresiva_a_metros(tramo["progresiva_fin"]) - offset_calzada
             
             print(f"   Procesando Tramo {tramo_id} (Distancia normalizada: {m_inicio}m a {m_fin}m)")
             
             # 4. Aplicar Estrategia de Sobremuestreo
-            num_puntos = 6 # (Asegúrate de cambiar esto a 6 si quieres más densidad)
+            num_puntos = 6 
             
             # Pre-calculamos las coordenadas para poder comparar el actual con el siguiente
             puntos_calculados = []
@@ -139,7 +139,7 @@ if __name__ == "__main__":
     load_dotenv()
     API_KEY_GOOGLE = os.getenv("API_KEY_GOOGLE")
 
-    # ── Argumentos de línea de comandos ──────────────────────────────────────
+    # Argumentos de línea de comandos 
     parser = argparse.ArgumentParser(
         description="Genera planes de descarga de Street View por avenida."
     )
@@ -158,7 +158,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
     avenidas_solicitadas = args.avenidas  # None si no se pasó el flag
 
-    # ── Cargar el dataset fijo ────────────────────────────────────────────────
+    # Cargar el dataset fijo 
     archivo_json = "Dataset-UM-Avenidas.json"
 
     try:
@@ -178,7 +178,7 @@ if __name__ == "__main__":
     else:
         todos_los_proyectos = datos_dataset
 
-    # ── Construir índice nombre_avenida → proyectos ───────────────────────────
+    # Construir índice nombre_avenida → proyectos
     indice_avenidas: dict[str, list] = {}
     for proyecto in todos_los_proyectos:
         nombre = proyecto.get("nombre_avenida")
@@ -187,12 +187,12 @@ if __name__ == "__main__":
 
     print(f"\nAvenidas disponibles en el dataset: {sorted(indice_avenidas.keys())}")
 
-    # ── Si no se especificaron avenidas, procesar todas ───────────────────────
+    # Si no se especificaron avenidas, procesar todas
     if not avenidas_solicitadas:
         print("[INFO] No se especificaron avenidas. Se procesará todo el dataset.")
         avenidas_solicitadas = sorted(indice_avenidas.keys())
 
-    # ── Verificar existencia de cada avenida solicitada ───────────────────────
+    # Verificar existencia de cada avenida solicitada
     avenidas_no_encontradas = [a for a in avenidas_solicitadas if a not in indice_avenidas]
     if avenidas_no_encontradas:
         print(
@@ -202,7 +202,7 @@ if __name__ == "__main__":
         print("Verifica la ortografía y que el campo 'nombre_avenida' coincida exactamente.")
         exit(1)
 
-    # ── Iterar sobre cada avenida solicitada ──────────────────────────────────
+    # Iterar sobre cada avenida solicitada
     for nombre_avenida in avenidas_solicitadas:
         proyectos_avenida = indice_avenidas[nombre_avenida]
         resultados_avenida = []
