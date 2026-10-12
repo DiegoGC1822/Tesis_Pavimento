@@ -4,6 +4,7 @@ import math
 def progresiva_a_metros(progresiva_str):
     """Transforma una cadena tipo '1+035.4' a flotante en metros."""
     try:
+        progresiva_str = str(progresiva_str).replace("0.30.00", "30.00")
         partes = progresiva_str.split('+')
         km = float(partes[0])
         m = float(partes[1]) if len(partes) > 1 else 0.0

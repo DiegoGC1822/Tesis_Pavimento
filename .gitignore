@@ -5,3 +5,8 @@ __pycache__
 .ipynb_checkpoints
 carpeta_imagenes/
 modelos/
+imagenes_descartadas/
+imagenes_nuevas/
+resultados_resnet50_tesis2/
+resultados_resnet50_DatComple/
+particiones/

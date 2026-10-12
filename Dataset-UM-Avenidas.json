@@ -11,8 +11,14 @@
     "calzadas": {
       "Ida": {
         "progresiva_inicio_calzada": "0+000",
-        "coordenadas_inicio_calzada": [-11.918305, -77.052474],
-        "coordenadas_fin_calzada": [-11.915978, -77.056781],
+        "coordenadas_inicio_calzada": [
+          -11.918305,
+          -77.052474
+        ],
+        "coordenadas_fin_calzada": [
+          -11.915978,
+          -77.056781
+        ],
         "tramos": [
           {
             "tramo_id": "A-1",
@@ -116,8 +122,14 @@
       },
       "Vuelta": {
         "progresiva_inicio_calzada": "0+534",
-        "coordenadas_inicio_calzada": [-11.916254, -77.056936],
-        "coordenadas_fin_calzada": [-11.918592, -77.052633],
+        "coordenadas_inicio_calzada": [
+          -11.916254,
+          -77.056936
+        ],
+        "coordenadas_fin_calzada": [
+          -11.918592,
+          -77.052633
+        ],
         "tramos": [
           {
             "tramo_id": "B-1",
@@ -233,8 +245,14 @@
     "calzadas": {
       "Ida": {
         "progresiva_inicio_calzada": "00+00",
-        "coordenadas_inicio_calzada": [-11.970113, -77.0800624],
-        "coordenadas_fin_calzada": [-11.9722172, -77.072676],
+        "coordenadas_inicio_calzada": [
+          -11.970113,
+          -77.0800624
+        ],
+        "coordenadas_fin_calzada": [
+          -11.9722172,
+          -77.072676
+        ],
         "tramos": [
           {
             "tramo_id": "UM01",
@@ -470,8 +488,14 @@
     "calzadas": {
       "Ida": {
         "progresiva_inicio_calzada": "0+000",
-        "coordenadas_inicio_calzada": [-11.977222, -77.005],
-        "coordenadas_fin_calzada": [-11.9746505, -77.0023802],
+        "coordenadas_inicio_calzada": [
+          -11.977222,
+          -77.005
+        ],
+        "coordenadas_fin_calzada": [
+          -11.9746505,
+          -77.0023802
+        ],
         "tramos": [
           {
             "tramo_id": "UM-01",
@@ -561,8 +585,14 @@
       },
       "Vuelta": {
         "progresiva_inicio_calzada": "0+000",
-        "coordenadas_inicio_calzada": [-11.9747244, -77.0023018],
-        "coordenadas_fin_calzada": [-11.9772654, -77.0048858],
+        "coordenadas_inicio_calzada": [
+          -11.9747244,
+          -77.0023018
+        ],
+        "coordenadas_fin_calzada": [
+          -11.9772654,
+          -77.0048858
+        ],
         "tramos": [
           {
             "tramo_id": "UM-13",
@@ -664,8 +694,14 @@
     "calzadas": {
       "Ida": {
         "progresiva_inicio_calzada": "0+000.00",
-        "coordenadas_inicio_calzada": [-12.019793, -77.101388],
-        "coordenadas_fin_calzada": [-12.0300411, -77.0946228],
+        "coordenadas_inicio_calzada": [
+          -12.019793,
+          -77.101388
+        ],
+        "coordenadas_fin_calzada": [
+          -12.0300411,
+          -77.0946228
+        ],
         "tramos": [
           {
             "tramo_id": "UM-01",
@@ -999,8 +1035,14 @@
     "calzadas": {
       "Ida": {
         "progresiva_inicio_calzada": "0+000",
-        "coordenadas_inicio_calzada": [-11.8728748, -77.1251493],
-        "coordenadas_fin_calzada": [-11.859889, -77.124843],
+        "coordenadas_inicio_calzada": [
+          -11.8728748,
+          -77.1251493
+        ],
+        "coordenadas_fin_calzada": [
+          -11.859889,
+          -77.124843
+        ],
         "tramos": [
           {
             "tramo_id": "UM 01",
@@ -1285,8 +1327,14 @@
     "calzadas": {
       "Ida": {
         "progresiva_inicio_calzada": "000+000",
-        "coordenadas_inicio_calzada": [-11.837462, -77.110975],
-        "coordenadas_fin_calzada": [-11.8541882, -77.130022],
+        "coordenadas_inicio_calzada": [
+          -11.837462,
+          -77.110975
+        ],
+        "coordenadas_fin_calzada": [
+          -11.8541882,
+          -77.130022
+        ],
         "tramos": [
           {
             "tramo_id": "1",
@@ -1817,8 +1865,14 @@
       },
       "Vuelta": {
         "progresiva_inicio_calzada": "000+000",
-        "coordenadas_inicio_calzada": [-11.854196, -77.129641],
-        "coordenadas_fin_calzada": [-11.83752, -77.110882],
+        "coordenadas_inicio_calzada": [
+          -11.854196,
+          -77.129641
+        ],
+        "coordenadas_fin_calzada": [
+          -11.83752,
+          -77.110882
+        ],
         "tramos": [
           {
             "tramo_id": "1",
@@ -2361,8 +2415,14 @@
     "calzadas": {
       "Ida": {
         "progresiva_inicio_calzada": "0+000",
-        "coordenadas_inicio_calzada": [-12.183566, -76.941396],
-        "coordenadas_fin_calzada": [-12.181065, -76.936956],
+        "coordenadas_inicio_calzada": [
+          -12.183566,
+          -76.941396
+        ],
+        "coordenadas_fin_calzada": [
+          -12.181065,
+          -76.936956
+        ],
         "tramos": [
           {
             "tramo_id": "UM-01",
@@ -2479,8 +2539,14 @@
     "calzadas": {
       "Ida": {
         "progresiva_inicio_calzada": "00+000",
-        "coordenadas_inicio_calzada": [-12.104037, -77.03703],
-        "coordenadas_fin_calzada": [-12.09806, -77.036224],
+        "coordenadas_inicio_calzada": [
+          -12.104037,
+          -77.03703
+        ],
+        "coordenadas_fin_calzada": [
+          -12.09806,
+          -77.036224
+        ],
         "tramos": [
           {
             "tramo_id": "001",
@@ -2625,8 +2691,14 @@
     "calzadas": {
       "Ida": {
         "progresiva_inicio_calzada": "0+000.0",
-        "coordenadas_inicio_calzada": [-11.871826, -77.139096],
-        "coordenadas_fin_calzada": [-11.856794, -77.158146],
+        "coordenadas_inicio_calzada": [
+          -11.871826,
+          -77.139096
+        ],
+        "coordenadas_fin_calzada": [
+          -11.856794,
+          -77.158146
+        ],
         "tramos": [
           {
             "tramo_id": "UM-01",
@@ -2736,8 +2808,14 @@
     "calzadas": {
       "Ida": {
         "progresiva_inicio_calzada": "0+000",
-        "coordenadas_inicio_calzada": [-12.003789, -77.002428],
-        "coordenadas_fin_calzada": [-11.985897, -77.00316],
+        "coordenadas_inicio_calzada": [
+          -12.003789,
+          -77.002428
+        ],
+        "coordenadas_fin_calzada": [
+          -11.985897,
+          -77.00316
+        ],
         "tramos": [
           {
             "tramo_id": "U1",
@@ -2855,8 +2933,14 @@
       },
       "Vuelta": {
         "progresiva_inicio_calzada": "0+500",
-        "coordenadas_inicio_calzada": [-11.985856, -77.003256],
-        "coordenadas_fin_calzada": [-12.016623, -76.997296],
+        "coordenadas_inicio_calzada": [
+          -11.985856,
+          -77.003256
+        ],
+        "coordenadas_fin_calzada": [
+          -12.016623,
+          -76.997296
+        ],
         "tramos": [
           {
             "tramo_id": "UM5",
@@ -2986,8 +3070,14 @@
     "calzadas": {
       "Ida": {
         "progresiva_inicio_calzada": "0+000",
-        "coordenadas_inicio_calzada": [-12.055297, -77.057503],
-        "coordenadas_fin_calzada": [-12.051417, -77.054817],
+        "coordenadas_inicio_calzada": [
+          -12.055297,
+          -77.057503
+        ],
+        "coordenadas_fin_calzada": [
+          -12.051417,
+          -77.054817
+        ],
         "tramos": [
           {
             "tramo_id": "UM-1",
@@ -3062,8 +3152,14 @@
     "calzadas": {
       "Ida": {
         "progresiva_inicio_calzada": "0+000",
-        "coordenadas_inicio_calzada": [-12.178292, -76.996485],
-        "coordenadas_fin_calzada": [-12.1739, -76.992783],
+        "coordenadas_inicio_calzada": [
+          -12.178292,
+          -76.996485
+        ],
+        "coordenadas_fin_calzada": [
+          -12.1739,
+          -76.992783
+        ],
         "tramos": [
           {
             "tramo_id": "UM01",
@@ -3146,8 +3242,14 @@
       },
       "Vuelta": {
         "progresiva_inicio_calzada": "0+000",
-        "coordenadas_inicio_calzada": [-12.173954, -76.992669],
-        "coordenadas_fin_calzada": [-12.178358, -76.996363],
+        "coordenadas_inicio_calzada": [
+          -12.173954,
+          -76.992669
+        ],
+        "coordenadas_fin_calzada": [
+          -12.178358,
+          -76.996363
+        ],
         "tramos": [
           {
             "tramo_id": "UM22",
@@ -3242,8 +3344,14 @@
     "calzadas": {
       "Ida": {
         "progresiva_inicio_calzada": "0+000",
-        "coordenadas_inicio_calzada": [-12.077418, -77.010105],
-        "coordenadas_fin_calzada": [-12.07398, -76.996961],
+        "coordenadas_inicio_calzada": [
+          -12.077418,
+          -77.010105
+        ],
+        "coordenadas_fin_calzada": [
+          -12.07398,
+          -76.996961
+        ],
         "tramos": [
           {
             "tramo_id": "U-01",
@@ -3326,8 +3434,14 @@
       },
       "Vuelta": {
         "progresiva_inicio_calzada": "0+000",
-        "coordenadas_inicio_calzada": [-12.073907, -76.996999],
-        "coordenadas_fin_calzada": [-12.077306, -77.010092],
+        "coordenadas_inicio_calzada": [
+          -12.073907,
+          -76.996999
+        ],
+        "coordenadas_fin_calzada": [
+          -12.077306,
+          -77.010092
+        ],
         "tramos": [
           {
             "tramo_id": "U-01",
@@ -3414,6 +3528,7 @@
     "proyecto_id": "Tesis_FernandoWiesse_2021",
     "año_estudio": 2021,
     "año_recolección_imagen": 2022,
+    "nombre_avenida": "Fernando Wiesse",
     "longitud_calzadas": 2580,
     "punto_anclaje_inicio": "Estación Santa Rosa",
     "punto_anclaje_fin": "Estación San Carlos",
@@ -3421,8 +3536,14 @@
     "calzadas": {
       "Ida": {
         "progresiva_inicio_calzada": "0+030.00",
-        "coordenadas_inicio_calzada": [-11.985588, -77.006848],
-        "coordenadas_fin_calzada": [-11.968751, -76.993803],
+        "coordenadas_inicio_calzada": [
+          -11.985588,
+          -77.006848
+        ],
+        "coordenadas_fin_calzada": [
+          -11.968751,
+          -76.993803
+        ],
         "tramos": [
           {
             "tramo_id": "UM2",
@@ -3526,8 +3647,14 @@
       },
       "Vuelta": {
         "progresiva_inicio_calzada": "0+000.00",
-        "coordenadas_inicio_calzada": [-11.968607, -76.993939],
-        "coordenadas_fin_calzada": [-11.985545, -77.007076],
+        "coordenadas_inicio_calzada": [
+          -11.968607,
+          -76.993939
+        ],
+        "coordenadas_fin_calzada": [
+          -11.985545,
+          -77.007076
+        ],
         "tramos": [
           {
             "tramo_id": "UM1",

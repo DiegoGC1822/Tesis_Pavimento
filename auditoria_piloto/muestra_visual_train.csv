@@ -1,0 +1,13 @@
+﻿ruta,segmento_id,numero_imagen,clase_original,clase,hay_discrepancia,particion
+C:\Users\Diego\Desktop\Tesis_Pavimento\imagenes_nuevas\66\65817_1.jpg,65817,1,0,Poor,False,train
+C:\Users\Diego\Desktop\Tesis_Pavimento\imagenes_nuevas\2\1503_3.jpg,1503,3,0,Poor,False,train
+C:\Users\Diego\Desktop\Tesis_Pavimento\imagenes_nuevas\10\9329_5.jpg,9329,5,0,Poor,False,train
+C:\Users\Diego\Desktop\Tesis_Pavimento\imagenes_nuevas\10\9539_1.jpg,9539,1,0,Poor,False,train
+C:\Users\Diego\Desktop\Tesis_Pavimento\imagenes_nuevas\19\18696_2.jpg,18696,2,1,Fair,False,train
+C:\Users\Diego\Desktop\Tesis_Pavimento\imagenes_nuevas\62\61879_13.jpg,61879,13,1,Fair,False,train
+C:\Users\Diego\Desktop\Tesis_Pavimento\imagenes_nuevas\10\9808_2.jpg,9808,2,1,Fair,False,train
+C:\Users\Diego\Desktop\Tesis_Pavimento\imagenes_nuevas\42\41183_8.jpg,41183,8,1,Fair,False,train
+C:\Users\Diego\Desktop\Tesis_Pavimento\imagenes_nuevas\67\66754_1.jpg,66754,1,2,Good,False,train
+C:\Users\Diego\Desktop\Tesis_Pavimento\imagenes_nuevas\24\23520_10.jpg,23520,10,2,Good,False,train
+C:\Users\Diego\Desktop\Tesis_Pavimento\imagenes_nuevas\29\28117_4.jpg,28117,4,2,Good,True,train
+C:\Users\Diego\Desktop\Tesis_Pavimento\imagenes_nuevas\57\56459_2.jpg,56459,2,2,Good,True,train

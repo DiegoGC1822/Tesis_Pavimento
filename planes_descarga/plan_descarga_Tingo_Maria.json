@@ -1,0 +1,699 @@
+[
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-1",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 46,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.05494074922892,
+      -77.05726637831503
+    ],
+    "heading": 215.36177109331427,
+    "pano_id": "wHjwv03YIKId0n-Ex3eRhA",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-1",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 46,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.05516710326881,
+      -77.05743063495478
+    ],
+    "heading": 214.26587985151048,
+    "pano_id": "fMmAUyaT0_iSPjP7l_aFow",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-1",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 46,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.05524389010784,
+      -77.05748412811162
+    ],
+    "heading": 35.6389975879012,
+    "pano_id": "3i0-2jKNDVsN3XG_9La_vg",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-2",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 18,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.05433726434562,
+      -77.05681945858196
+    ],
+    "heading": 216.03307499793377,
+    "pano_id": "bF35aSbJjqKYwyloSPma-Q",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-2",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 18,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.05441201503118,
+      -77.0568750601248
+    ],
+    "heading": 216.0385146126252,
+    "pano_id": "y1Y1CFQnf785c5dNEe3xjA",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-2",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 18,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.05456337542287,
+      -77.05698766854222
+    ],
+    "heading": 36.039354477690324,
+    "pano_id": "v1kXArecOxF-0uI2dfYvvQ",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-3",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 2,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.05385027605405,
+      -77.0564571256251
+    ],
+    "heading": 216.0436777265218,
+    "pano_id": "YzdXWFN0S9XOH0e_3NRDiw",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-3",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 2,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.05392476194046,
+      -77.05651255165824
+    ],
+    "heading": 216.04373189217492,
+    "pano_id": "dtwbUADXUJinstS724r_aA",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-3",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 2,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.05399960175537,
+      -77.05656824118094
+    ],
+    "heading": 216.06444231285334,
+    "pano_id": "c_JDnftHdNUL22fj8EDmfg",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-3",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 2,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -12.05403711118421,
+      -77.05659617377096
+    ],
+    "heading": 216.00244017698074,
+    "pano_id": "9ZKJ0alCGp9mAU-fBynkvA",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-3",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 2,
+    "punto_sobremuestreo": 5,
+    "coordenada_calculada": [
+      -12.05411230083918,
+      -77.0566520389316
+    ],
+    "heading": 216.03332723798744,
+    "pano_id": "rVUk2BkMKq89rdKp214siw",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-3",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 2,
+    "punto_sobremuestreo": 6,
+    "coordenada_calculada": [
+      -12.05426250960364,
+      -77.05676376917526
+    ],
+    "heading": 38.50470654402062,
+    "pano_id": "UWMntuOH6T6Hu-Xjs6uFBg",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-4",
+    "pci_clase": "Fair",
+    "pci_num\u00e9rico": 65,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.0533516286471,
+      -77.05602276383368
+    ],
+    "heading": 215.73329627205115,
+    "pano_id": "upCh3Oue2W4FxfKrmAGIVw",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-4",
+    "pci_clase": "Fair",
+    "pci_num\u00e9rico": 65,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.05344093910809,
+      -77.05608846719394
+    ],
+    "heading": 215.73108972756233,
+    "pano_id": "s7_pE1UhybMSJ54yygElew",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-4",
+    "pci_clase": "Fair",
+    "pci_num\u00e9rico": 65,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.05350398686554,
+      -77.05613484601494
+    ],
+    "heading": 232.08873661770537,
+    "pano_id": "hMD1Bgar1DPLJfdJr96__Q",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-4",
+    "pci_clase": "Fair",
+    "pci_num\u00e9rico": 65,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -12.05356212298629,
+      -77.05621117778566
+    ],
+    "heading": 230.9302194715299,
+    "pano_id": "Vl4WwyIYbGm4ZqY_IZQSmA",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-4",
+    "pci_clase": "Fair",
+    "pci_num\u00e9rico": 65,
+    "punto_sobremuestreo": 5,
+    "coordenada_calculada": [
+      -12.0536241875104,
+      -77.05628935411758
+    ],
+    "heading": 215.9003458184198,
+    "pano_id": "RtTsxvFHkBdQPOU6r5JrJg",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-4",
+    "pci_clase": "Fair",
+    "pci_num\u00e9rico": 65,
+    "punto_sobremuestreo": 6,
+    "coordenada_calculada": [
+      -12.05366204238685,
+      -77.05631737461073
+    ],
+    "heading": 215.92730573646259,
+    "pano_id": "reW8-SfnCRK_6TyCHKSSCA",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-4",
+    "pci_clase": "Fair",
+    "pci_num\u00e9rico": 65,
+    "punto_sobremuestreo": 7,
+    "coordenada_calculada": [
+      -12.05377525737995,
+      -77.05640126037417
+    ],
+    "heading": 38.86096687732601,
+    "pano_id": "K7V0Nb4Ikw7bIXnVXSipzA",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-5",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 20,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.05282963869065,
+      -77.05562213067118
+    ],
+    "heading": 217.21018904130372,
+    "pano_id": "0LNDr4Y4VEG3jU_J4NeDSQ",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-5",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 20,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.05290441810346,
+      -77.05568019225778
+    ],
+    "heading": 217.2188541119464,
+    "pano_id": "w6FpRbVVZGLrkwbFLWLLKg",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-5",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 20,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.05297928707808,
+      -77.05573834165538
+    ],
+    "heading": 217.169862323091,
+    "pano_id": "RaNw4XQ-jrIkMFP14E8NSw",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-5",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 20,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -12.0530166747813,
+      -77.05576732850474
+    ],
+    "heading": 217.21315182558763,
+    "pano_id": "5Rf25jbmPxMK37P9k1qneA",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-5",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 20,
+    "punto_sobremuestreo": 5,
+    "coordenada_calculada": [
+      -12.05310456774547,
+      -77.05583557933163
+    ],
+    "heading": 217.17989530122958,
+    "pano_id": "Z916OFp6hv6YUyQRYfHnFg",
+    "fecha_real_google": "2024-05",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-5",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 20,
+    "punto_sobremuestreo": 6,
+    "coordenada_calculada": [
+      -12.05312857775033,
+      -77.05585420117215
+    ],
+    "heading": 217.21741295707753,
+    "pano_id": "L80YnZSh9-XhBPKawg7OEg",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-5",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 20,
+    "punto_sobremuestreo": 7,
+    "coordenada_calculada": [
+      -12.05320220635638,
+      -77.05591138425882
+    ],
+    "heading": 34.883525019086335,
+    "pano_id": "q2q0BkScKmSGMXJJRZ9RtA",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-6",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 26,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.05234993236754,
+      -77.05530380159685
+    ],
+    "heading": 209.08647783419835,
+    "pano_id": "zJAZx6mbU-uITS8qan0BOA",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-6",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 26,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.05243054116154,
+      -77.05534965368417
+    ],
+    "heading": 211.37070170711058,
+    "pano_id": "TG2Kd0C2rzrtQqsoW6-xRg",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-6",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 26,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.05251268210555,
+      -77.05540086394501
+    ],
+    "heading": 213.34849293426763,
+    "pano_id": "gC4iZUR87kpS0vsOSEYmQQ",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-6",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 26,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -12.05259387408596,
+      -77.05545549991118
+    ],
+    "heading": 214.30063941122498,
+    "pano_id": "rb28Mmlr1iuctH23iPPJVA",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-6",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 26,
+    "punto_sobremuestreo": 5,
+    "coordenada_calculada": [
+      -12.05267207399983,
+      -77.05551004801346
+    ],
+    "heading": 214.30825637224007,
+    "pano_id": "_T6rNOK9jWBjhHcKRW0wLA",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-6",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 26,
+    "punto_sobremuestreo": 6,
+    "coordenada_calculada": [
+      -12.05275151042518,
+      -77.05556547448182
+    ],
+    "heading": 29.227992787066,
+    "pano_id": "QRtFLi6YZFQ8tffOyEJltQ",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-7",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 6,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.05174036388521,
+      -77.05498696495381
+    ],
+    "heading": 206.74400376425558,
+    "pano_id": "lrI4Tk9xFJrLwHg797UYxA",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-7",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 6,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.05182321407733,
+      -77.05502965494092
+    ],
+    "heading": 206.5366904106677,
+    "pano_id": "tzEn1Br-ZY1TTnOHvWKjPA",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-7",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 6,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.05186449877816,
+      -77.05505073641046
+    ],
+    "heading": 206.49356507530405,
+    "pano_id": "hSsAISjpnHIwoaomWloaMA",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-7",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 6,
+    "punto_sobremuestreo": 4,
+    "coordenada_calculada": [
+      -12.05194618978912,
+      -77.05509237230198
+    ],
+    "heading": 206.663068422072,
+    "pano_id": "C6X3RO66pP6zYRVel2Htgg",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-7",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 6,
+    "punto_sobremuestreo": 5,
+    "coordenada_calculada": [
+      -12.05219270756804,
+      -77.05521894883752
+    ],
+    "heading": 207.38195938683737,
+    "pano_id": "EYkTze_e7cMW1h3B5BvysQ",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-7",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 6,
+    "punto_sobremuestreo": 6,
+    "coordenada_calculada": [
+      -12.05227281393568,
+      -77.05526137522465
+    ],
+    "heading": 26.8241896348477,
+    "pano_id": "jixK5S3IMFFDsPnI0gf3BA",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-8",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 39,
+    "punto_sobremuestreo": 1,
+    "coordenada_calculada": [
+      -12.05149288650677,
+      -77.05485810434556
+    ],
+    "heading": 206.988242082228,
+    "pano_id": "edhcVkJqkRrfSQAVEKHtjA",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-8",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 39,
+    "punto_sobremuestreo": 2,
+    "coordenada_calculada": [
+      -12.05157672089075,
+      -77.0549017606134
+    ],
+    "heading": 206.9764116643547,
+    "pano_id": "SW6mDbcM_R-WS1_iW3Pekw",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  },
+  {
+    "proyecto_id": "Tesis_AvTingoMaria_2024",
+    "a\u00f1o_recolecci\u00f3n_imagen": 2024,
+    "calzada": "Ida",
+    "tramo_id": "UM-8",
+    "pci_clase": "Poor",
+    "pci_num\u00e9rico": 39,
+    "punto_sobremuestreo": 3,
+    "coordenada_calculada": [
+      -12.05165941667346,
+      -77.05494480198875
+    ],
+    "heading": 206.9764116643547,
+    "pano_id": "-BX_aF3ywEbOzT_vSsPARg",
+    "fecha_real_google": "2024-06",
+    "descargar": true
+  }
+]

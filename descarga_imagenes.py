@@ -9,8 +9,8 @@ load_dotenv()
 def descargar_y_registrar():
     # Configuración
     CARPETA_IMAGENES = "carpeta_imagenes"
-    CARPETA_PLANES = "planes_descarga"
-    ARCHIVO_CSV = "data.csv"
+    CARPETA_PLANES = "planes_descarga_nuevo"
+    ARCHIVO_CSV = "data_final_v2.csv"
     PITCH = -24
     FOV = 22
     API_KEY = os.getenv("API_KEY_GOOGLE")
@@ -18,7 +18,7 @@ def descargar_y_registrar():
     os.makedirs(CARPETA_IMAGENES, exist_ok=True)
 
     # Preparar archivo CSV (modo 'w' borra el anterior cada vez que inicias)
-    with open(ARCHIVO_CSV, "w", newline="", encoding="utf-8") as f:
+    with open(ARCHIVO_CSV, "a", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
         writer.writerow(["nombre_imagen", "nombre_avenida", "calzada", "tramo_id", "pci_clase"])
 
