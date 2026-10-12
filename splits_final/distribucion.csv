@@ -1,0 +1,4 @@
+pci_clase,train,val,test
+Good,404,88,89
+Fair,838,180,178
+Poor,727,160,155
